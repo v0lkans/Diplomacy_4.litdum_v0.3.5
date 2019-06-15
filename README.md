@@ -92,6 +92,11 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
 
 
 - - - -
+## Değirmen Refah Bonusu
+* *Değirmen tek seferlik **%5** yerine her hafta **%3** refah verir*
+
+
+- - - -
 ## Parti Morali
 #### Liderlik Puanı Başına Parti Morali:
   * **Kral değilken** : *~~12~~* --> *30*
@@ -117,8 +122,6 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
     * *Puan başına* **~~+5~~** --> **+10**
     #
   * *Yemek her* **~~14~~** --> **12** *saatte bir yenir.*
-  #
-  * *Değirmen tek seferlik %5 yerine her ay %5 refah verir*
   #
   * Esir yakalama görevini reddetme
     * *İlişki* ~~**1 azalır**~~ --> **değişmez** 
