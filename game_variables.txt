@@ -1418,7 +1418,7 @@ initial_tutorial_button_text_color = 0xFF110000
 initial_tutorial_button_highlight_text_color = 0xFFFFDD00
 
 initial_start_new_game_button_position_x = 0.05
-initial_start_new_game_button_position_y = 0.424
+initial_start_new_game_button_position_y = 0.44
 initial_start_new_game_button_size_x = 0.185
 initial_start_new_game_button_size_y = 0.031
 initial_start_new_game_button_text_size_x = 0.022
@@ -1428,7 +1428,7 @@ initial_start_new_game_button_text_color = 0xFF110000
 initial_start_new_game_button_highlight_text_color = 0xFFFFDD00
 
 initial_resume_game_button_position_x = 0.05
-initial_resume_game_button_position_y = 0.368
+initial_resume_game_button_position_y = 0.40
 initial_resume_game_button_size_x = 0.185
 initial_resume_game_button_size_y = 0.031
 initial_resume_game_button_text_size_x = 0.022
@@ -1439,8 +1439,8 @@ initial_resume_game_button_highlight_text_color = 0xFFFFDD00
 
 initial_multiplayer_button_position_x = 0.05
 initial_multiplayer_button_position_y = 0.36
-initial_multiplayer_button_size_x = 0.0
-initial_multiplayer_button_size_y = 0.0
+initial_multiplayer_button_size_x = 0.185
+initial_multiplayer_button_size_y = 0.031
 initial_multiplayer_button_text_size_x = 0.022
 initial_multiplayer_button_text_size_y = 0.030
 initial_multiplayer_button_text_flags = 0x10
@@ -1449,8 +1449,8 @@ initial_multiplayer_button_highlight_text_color = 0xFFFFDD00
 
 initial_custom_battle_button_position_x = 0.05
 initial_custom_battle_button_position_y = 0.32
-initial_custom_battle_button_size_x = 0.0
-initial_custom_battle_button_size_y = 0.0
+initial_custom_battle_button_size_x = 0.185
+initial_custom_battle_button_size_y = 0.031
 initial_custom_battle_button_text_size_x = 0.022
 initial_custom_battle_button_text_size_y = 0.030
 initial_custom_battle_button_text_flags = 0x10
@@ -1458,7 +1458,7 @@ initial_custom_battle_button_text_color = 0xFF110000
 initial_custom_battle_button_highlight_text_color = 0xFFFFDD00
 
 initial_options_button_position_x = 0.05
-initial_options_button_position_y = 0.312
+initial_options_button_position_y = 0.28
 initial_options_button_size_x = 0.185
 initial_options_button_size_y = 0.031
 initial_options_button_text_size_x = 0.022
@@ -1468,7 +1468,7 @@ initial_options_button_text_color = 0xFF110000
 initial_options_button_highlight_text_color = 0xFFFFDD00
 
 initial_credits_button_position_x = 0.05
-initial_credits_button_position_y = 0.256
+initial_credits_button_position_y = 0.24
 initial_credits_button_size_x = 0.185
 initial_credits_button_size_y = 0.031
 initial_credits_button_text_size_x = 0.022

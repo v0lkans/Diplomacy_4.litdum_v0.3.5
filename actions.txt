@@ -490,21 +490,21 @@
  parried_uppercut_fist 0 35676175  1
   0.600000 anim_human 24913 24908 6 0 0.0 0.0 0.0 0.0 
  ready_slashright_twohanded 1678901248 1679818762  1
-  0.350000 slashright_twohanded 10 18 7 0 0.0 0.0 0.0 0.0 
+  0.350000 2h_slashright_7.11.10b 0 5 7 0 0.0 0.0 0.0 0.0 
  release_slashright_twohanded 1678901248 2183135242  1
-  0.610000 slashright_twohanded 18 38 6 0 0.0 0.0 0.0 0.0 
+  0.610000 2h_slashright_7.11.10b 5 28 6 0 0.0 0.0 0.0 0.0 
  release_slashright_twohanded_continue 0 572522497  1
-  0.500000 slashright_twohanded 38 61 2 0 0.0 0.0 0.0 0.0 
+  0.300000 2h_slashright_7.11.10b 28 49 2 0 0.0 0.0 0.0 0.0 
  blocked_slashright_twohanded 1678770176 35651599  1
   0.300000 anim_human 25725 25720 6 0 0.0 0.0 0.0 0.0 
  parried_slashright_twohanded 1678770176 35651599  1
   0.600000 anim_human 25725 25720 6 0 0.0 0.0 0.0 0.0 
  ready_slashleft_twohanded 1678901248 1679818762  1
-  0.350000 slashleft_twohanded 12 16 7 0 0.0 0.0 0.0 0.0 
+  0.350000 2h_slashleft_9.11.10b 0 5 7 0 0.0 0.0 0.0 0.0 
  release_slashleft_twohanded 1678901248 2183135242  1
-  0.610000 slashleft_twohanded 16 38 6 0 0.0 0.0 0.0 0.0 
+  0.650000 2h_slashleft_9.11.10b 5 32 6 0 0.0 0.0 0.0 0.0 
  release_slashleft_twohanded_continue 0 572522497  1
-  0.500000 slashleft_twohanded 38 52 2 0 0.0 0.0 0.0 0.0 
+  0.300000 2h_slashleft_9.11.10b 32 49 2 0 0.0 0.0 0.0 0.0 
  blocked_slashleft_twohanded 1678770176 35651599  1
   0.300000 anim_human 26425 26420 6 0 0.0 0.0 0.0 0.0 
  parried_slashleft_twohanded 1678770176 35651599  1
@@ -640,31 +640,31 @@
  parried_overswing_staff 0 35651599  1
   0.600000 anim_human 27017 27014 3 0 0.0 0.0 0.0 0.0 
  ready_thrust_staff 1678835712 1679818762  1
-  0.350000 attacks_staff_thrust 14 21 7 0 0.0 0.0 0.0 0.0 
+  0.350000 Polearm_thrust_3.10.10 0 5 7 0 0.0 0.0 0.0 0.0 
  release_thrust_staff 1678835712 35651594  1
-  0.600000 attacks_staff_thrust 21 40 6 0 0.0 0.0 0.0 0.0 
+  0.600000 Polearm_thrust_3.10.10 5 32 6 0 0.0 0.0 0.0 0.0 
  release_thrust_staff_continue 1678835712 572522506  1
-  0.600000 attacks_staff_thrust 40 58 6 0 0.0 0.0 0.0 0.0 
+  0.200000 Polearm_thrust_3.10.10 32 40 6 0 0.0 0.0 0.0 0.0 
  blocked_thrust_staff 1678770176 35651599  1
   0.600000 anim_human 27316 27313 3 0 0.0 0.0 0.0 0.0 
  parried_thrust_staff 1678770176 35651599  1
   0.700000 anim_human 27316 27313 3 0 0.0 0.0 0.0 0.0 
  ready_slashleft_staff 1678770176 1679818762  1
-  0.350000 attacks_staff_lefttoright 10 16 7 0 0.0 0.0 0.0 0.0 
+  0.350000 Polearm_slashleft_19.10.10 0 5 7 0 0.0 0.0 0.0 0.0 
  release_slashleft_staff 1678770176 2183135242  1
-  0.600000 attacks_staff_lefttoright 16 44 6 0 0.0 0.0 0.0 0.0 
+  0.750000 Polearm_slashleft_19.10.10 5 35 6 0 0.0 0.0 0.0 0.0 
  release_slashleft_staff_continue 0 572522497  1
-  0.300000 attacks_staff_lefttoright 44 55 2 0 0.0 0.0 0.0 0.0 
+  0.100000 Polearm_slashleft_19.10.10 35 58 2 0 0.0 0.0 0.0 0.0 
  blocked_slashleft_staff 1678770176 35651599  1
   0.300000 anim_human 27615 27613 3 0 0.0 0.0 0.0 0.0 
  parried_slashleft_staff 1678770176 35651599  1
   0.600000 anim_human 27615 27613 3 0 0.0 0.0 0.0 0.0 
  ready_slashright_staff 1678770176 1679818762  1
-  0.350000 attacks_staff_righttoleft 6 16 7 0 0.0 0.0 0.0 0.0 
+  0.350000 Polearm_slashright_ready_27.9.10 0 5 7 0 0.0 0.0 0.0 0.0 
  release_slashright_staff 1678770176 2183135242  1
-  0.600000 attacks_staff_righttoleft 16 40 6 0 0.0 0.0 0.0 0.0 
+  0.750000 Polearm_slashright_release_27.9.10 0 27 6 0 0.0 0.0 0.0 0.0 
  release_slashright_staff_continue 0 572522497  1
-  0.400000 attacks_staff_righttoleft 40 48 2 0 0.0 0.0 0.0 0.0 
+  0.150000 Polearm_slashright_cont_27.9.10 0 5 2 0 0.0 0.0 0.0 0.0 
  blocked_slashright_staff 1678770176 35651599  1
   0.300000 anim_human 27915 27913 3 0 0.0 0.0 0.0 0.0 
  parried_slashright_staff 1678770176 35651599  1
@@ -698,125 +698,125 @@
  defend_shield_parry_3 1677725696 167813135  1
   0.800000 anim_human 35121 35130 2 0 0.0 0.0 0.0 0.0 
  defend_forward_greatsword 0 1849733134  1
-  0.750000 defend_twohanded 0 20 4 0 0.0 0.0 0.0 0.0 
+  0.750000 2h_low_beat_12.11.10 0 5 4 0 0.0 0.0 0.0 0.0 
  defend_forward_greatsword_keep 0 608219150  1
-  2.000000 defend_twohanded 170 170 268435460 0 0.0 0.0 0.0 0.0 
+  2.000000 2h_low_beat_12.11.10 0 5 268435460 0 0.0 0.0 0.0 0.0 
  defend_forward_greatsword_parry_1 0 167817231  1
-  0.600000 defend_twohanded 350 367 2 0 0.0 0.0 0.0 0.0 
+  0.450000 2h_low_beat_12.11.10 5 13 2 0 0.0 0.0 0.0 0.0 
  defend_forward_greatsword_parry_2 0 167817231  1
-  0.600000 defend_twohanded 350 367 2 0 0.0 0.0 0.0 0.0 
+  0.450000 2h_low_beat_12.11.10 5 13 2 0 0.0 0.0 0.0 0.0 
  defend_forward_greatsword_parry_3 0 167817231  1
-  0.600000 defend_twohanded 350 367 2 0 0.0 0.0 0.0 0.0 
+  0.450000 2h_low_beat_12.11.10 5 13 2 0 0.0 0.0 0.0 0.0 
  defend_up_twohanded 0 1849733134  1
-  0.750000 anim_human 35403 35410 4 0 0.0 0.0 0.0 0.0 
+  0.750000 2h_highblock_26.9.10 0 5 4 0 0.0 0.0 0.0 0.0 
  defend_up_twohanded_keep 0 608219150  1
-  2.000000 anim_human 35410 35410 268435460 0 0.0 0.0 0.0 0.0 
+  2.000000 2h_highblock_26.9.10 0 5 268435460 0 0.0 0.0 0.0 0.0 
  defend_up_twohanded_parry_1 0 167817231  1
-  0.600000 anim_human 35411 35418 2 0 0.0 0.0 0.0 0.0 
+  0.600000 2h_highblock_26.9.10 0 5 2 0 0.0 0.0 0.0 0.0 
  defend_up_twohanded_parry_2 0 167817231  1
-  0.600000 anim_human 35411 35418 2 0 0.0 0.0 0.0 0.0 
+  0.600000 2h_highblock_26.9.10 0 5 2 0 0.0 0.0 0.0 0.0 
  defend_up_twohanded_parry_3 0 167817231  1
-  0.800000 anim_human 35411 35418 2 0 0.0 0.0 0.0 0.0 
+  0.800000 2h_highblock_26.9.10 0 5 2 0 0.0 0.0 0.0 0.0 
  defend_right_twohanded 0 1849733134  1
-  0.750000 anim_human 35510 35520 4 0 0.0 0.0 0.0 0.0 
+  0.750000 2h_right_left_blocks_3.11.10 0 5 4 0 0.0 0.0 0.0 0.0 
  defend_right_twohanded_keep 0 608219150  1
-  2.000000 anim_human 35520 35520 268435460 0 0.0 0.0 0.0 0.0 
+  2.000000 2h_right_left_blocks_3.11.10 0 5 268435460 0 0.0 0.0 0.0 0.0 
  defend_right_twohanded_parry_1 0 167817231  1
-  0.600000 anim_human 35521 35528 2 0 0.0 0.0 0.0 0.0 
+  0.600000 2h_right_left_blocks_3.11.10 0 5 2 0 0.0 0.0 0.0 0.0 
  defend_right_twohanded_parry_2 0 167817231  1
-  0.600000 anim_human 35521 35528 2 0 0.0 0.0 0.0 0.0 
+  0.600000 2h_right_left_blocks_3.11.10 0 5 2 0 0.0 0.0 0.0 0.0 
  defend_right_twohanded_parry_3 0 167817231  1
-  0.800000 anim_human 35521 35528 2 0 0.0 0.0 0.0 0.0 
+  0.800000 2h_right_left_blocks_3.11.10 0 5 2 0 0.0 0.0 0.0 0.0 
  defend_left_twohanded 0 1849733134  1
-  0.750000 anim_human 35610 35620 4 0 0.0 0.0 0.0 0.0 
+  0.750000 2h_right_left_blocks_3.11.10 10 15 4 0 0.0 0.0 0.0 0.0 
  defend_left_twohanded_keep 0 608219150  1
-  2.000000 anim_human 35620 35620 268435460 0 0.0 0.0 0.0 0.0 
+  2.000000 2h_right_left_blocks_3.11.10 10 15 268435460 0 0.0 0.0 0.0 0.0 
  defend_left_twohanded_parry_1 0 167817231  1
-  0.600000 anim_human 35620 35630 2 0 0.0 0.0 0.0 0.0 
+  0.600000 2h_right_left_blocks_3.11.10 10 15 2 0 0.0 0.0 0.0 0.0 
  defend_left_twohanded_parry_2 0 167817231  1
-  0.600000 anim_human 35620 35630 2 0 0.0 0.0 0.0 0.0 
+  0.600000 2h_right_left_blocks_3.11.10 10 15 2 0 0.0 0.0 0.0 0.0 
  defend_left_twohanded_parry_3 0 167817231  1
-  0.800000 anim_human 35620 35630 2 0 0.0 0.0 0.0 0.0 
+  0.800000 2h_right_left_blocks_3.11.10 10 15 2 0 0.0 0.0 0.0 0.0 
  defend_forward_onehanded 0 1849733134  1
-  0.750000 defend_forward_onehanded 20 41 4 0 0.0 0.0 0.0 0.0 
+  0.750000 1h_lowblock_11.9.10 0 0 4 0 0.0 0.0 0.0 0.0 
  defend_forward_onehanded_keep 0 608219150  1
-  5.000000 defend_onehanded 15 70 268435460 0 0.0 0.0 0.0 0.0 
+  5.000000 1h_lowblock_11.9.10 0 0 268435460 0 0.0 0.0 0.0 0.0 
  defend_forward_onehanded_parry_1 0 167817231  1
-  0.600000 defend_onehanded 75 85 2 0 0.0 0.0 0.0 0.0 
+  0.600000 1h_lowblock_11.9.10 0 0 2 0 0.0 0.0 0.0 0.0 
  defend_forward_onehanded_parry_2 0 167817231  1
-  0.600000 defend_onehanded 75 85 2 0 0.0 0.0 0.0 0.0 
+  0.600000 1h_lowblock_11.9.10 0 0 2 0 0.0 0.0 0.0 0.0 
  defend_forward_onehanded_parry_3 0 167817231  1
-  0.800000 defend_onehanded 75 85 2 0 0.0 0.0 0.0 0.0 
+  0.800000 1h_lowblock_11.9.10 0 0 2 0 0.0 0.0 0.0 0.0 
  defend_up_onehanded 0 1849733134  1
-  0.750000 defend_up_onehanded 9 25 4 0 0.0 0.0 0.0 0.0 
+  0.750000 1h_highblock_11.9.10 0 0 4 0 0.0 0.0 0.0 0.0 
  defend_up_onehanded_keep 0 608219150  1
-  2.800000 defend_up_onehanded_keep 1 87 268435460 0 0.0 0.0 0.0 0.0 
+  2.800000 1h_highblock_11.9.10 0 0 268435460 0 0.0 0.0 0.0 0.0 
  defend_up_onehanded_parry_1 0 167817231  1
-  0.600000 anim_human 36121 36130 2 0 0.0 0.0 0.0 0.0 
+  0.600000 1h_highblock_11.9.10 0 0 2 0 0.0 0.0 0.0 0.0 
  defend_up_onehanded_parry_2 0 167817231  1
-  0.600000 anim_human 36121 36130 2 0 0.0 0.0 0.0 0.0 
+  0.600000 1h_highblock_11.9.10 0 0 2 0 0.0 0.0 0.0 0.0 
  defend_up_onehanded_parry_3 0 167817231  1
-  0.800000 anim_human 36121 36130 2 0 0.0 0.0 0.0 0.0 
+  0.800000 1h_highblock_11.9.10 0 0 2 0 0.0 0.0 0.0 0.0 
  defend_right_onehanded 0 1849733134  1
-  0.750000 defend_right_onehanded 14 31 4 0 0.0 0.0 0.0 0.0 
+  0.750000 1h_rightblock_11.9.10 0 0 4 0 0.0 0.0 0.0 0.0 
  defend_right_onehanded_keep 0 608219150  1
-  2.500000 defend_right_onehanded_keep 0 79 268435462 0 0.0 0.0 0.0 0.0 
+  2.500000 1h_rightblock_11.9.10 0 0 268435462 0 0.0 0.0 0.0 0.0 
  defend_right_onehanded_parry_1 0 167817231  1
-  0.600000 anim_human 36221 36230 2 0 0.0 0.0 0.0 0.0 
+  0.600000 1h_rightblock_11.9.10 0 0 2 0 0.0 0.0 0.0 0.0 
  defend_right_onehanded_parry_2 0 167817231  1
-  0.600000 anim_human 36221 36230 2 0 0.0 0.0 0.0 0.0 
+  0.600000 1h_rightblock_11.9.10 0 0 2 0 0.0 0.0 0.0 0.0 
  defend_right_onehanded_parry_3 0 167817231  1
-  0.800000 anim_human 36221 36230 2 0 0.0 0.0 0.0 0.0 
+  0.800000 1h_rightblock_11.9.10 0 0 2 0 0.0 0.0 0.0 0.0 
  defend_left_onehanded 0 1849733134  1
-  0.750000 defend_left_onehanded 12 28 4 0 0.0 0.0 0.0 0.0 
+  0.750000 1h_leftblock_11.9.10 0 0 4 0 0.0 0.0 0.0 0.0 
  defend_left_onehanded_keep 0 608219150  1
-  2.200000 defend_left_onehanded_keep 1 71 268435460 0 0.0 0.0 0.0 0.0 
+  2.200000 1h_leftblock_11.9.10 0 0 268435460 0 0.0 0.0 0.0 0.0 
  defend_left_onehanded_parry_1 0 167817231  1
-  0.600000 anim_human 36321 36330 2 0 0.0 0.0 0.0 0.0 
+  0.600000 1h_leftblock_11.9.10 0 0 2 0 0.0 0.0 0.0 0.0 
  defend_left_onehanded_parry_2 0 167817231  1
-  0.600000 anim_human 36321 36330 2 0 0.0 0.0 0.0 0.0 
+  0.600000 1h_leftblock_11.9.10 0 0 2 0 0.0 0.0 0.0 0.0 
  defend_left_onehanded_parry_3 0 167817231  1
-  0.800000 anim_human 36321 36330 2 0 0.0 0.0 0.0 0.0 
+  0.800000 1h_leftblock_11.9.10 0 0 2 0 0.0 0.0 0.0 0.0 
  defend_forward_staff 0 1849733134  1
-  0.750000 defend_staff 0 5 4 0 0.0 0.0 0.0 0.0 
+  0.750000 Polearm_lowblock_keep_27.9.10 0 5 4 0 0.0 0.0 0.0 0.0 
  defend_forward_staff_keep 0 608219150  1
-  2.000000 defend_staff 5 5 268435460 0 0.0 0.0 0.0 0.0 
+  2.000000 Polearm_lowblock_keep_27.9.10 0 5 268435460 0 0.0 0.0 0.0 0.0 
  defend_forward_staff_parry_1 0 167817231  1
-  0.600000 defend_staff 56 70 2 0 0.0 0.0 0.0 0.0 
+  0.200000 Polearm_lowblock_beat_27.9.10 0 5 2 0 0.0 0.0 0.0 0.0 
  defend_forward_staff_parry_2 0 167817231  1
-  0.600000 defend_staff 56 70 2 0 0.0 0.0 0.0 0.0 
+  0.200000 Polearm_lowblock_beat_27.9.10 0 5 2 0 0.0 0.0 0.0 0.0 
  defend_forward_staff_parry_3 0 167817231  1
-  0.600000 defend_staff 56 70 2 0 0.0 0.0 0.0 0.0 
+  0.200000 Polearm_lowblock_beat_27.9.10 0 5 2 0 0.0 0.0 0.0 0.0 
  defend_up_staff 0 1849733134  1
-  0.750000 anim_human 37110 37120 4 0 0.0 0.0 0.0 0.0 
+  0.750000 Polearm_highblock_27.9.10 0 5 4 0 0.0 0.0 0.0 0.0 
  defend_up_staff_keep 0 608219150  1
-  2.000000 anim_human 37120 37120 268435460 0 0.0 0.0 0.0 0.0 
+  2.000000 Polearm_highblock_27.9.10 0 5 268435460 0 0.0 0.0 0.0 0.0 
  defend_up_staff_parry_1 0 167817231  1
-  0.600000 anim_human 37121 37130 2 0 0.0 0.0 0.0 0.0 
+  0.600000 Polearm_highblock_27.9.10 0 5 2 0 0.0 0.0 0.0 0.0 
  defend_up_staff_parry_2 0 167817231  1
-  0.600000 anim_human 37121 37130 2 0 0.0 0.0 0.0 0.0 
+  0.600000 Polearm_highblock_27.9.10 0 5 2 0 0.0 0.0 0.0 0.0 
  defend_up_staff_parry_3 0 167817231  1
-  0.800000 anim_human 37121 37130 2 0 0.0 0.0 0.0 0.0 
+  0.800000 Polearm_highblock_27.9.10 0 5 2 0 0.0 0.0 0.0 0.0 
  defend_right_staff 0 1849733134  1
-  0.750000 anim_human 37210 37220 4 0 0.0 0.0 0.0 0.0 
+  0.750000 Polearm_blockright_27.9.10 0 5 4 0 0.0 0.0 0.0 0.0 
  defend_right_staff_keep 0 608219150  1
-  2.000000 anim_human 37220 37220 268435460 0 0.0 0.0 0.0 0.0 
+  2.000000 Polearm_blockright_27.9.10 0 5 268435460 0 0.0 0.0 0.0 0.0 
  defend_right_staff_parry_1 0 167817231  1
-  0.600000 anim_human 37221 37230 2 0 0.0 0.0 0.0 0.0 
+  0.600000 Polearm_blockright_27.9.10 0 5 2 0 0.0 0.0 0.0 0.0 
  defend_right_staff_parry_2 0 167817231  1
-  0.600000 anim_human 37221 37230 2 0 0.0 0.0 0.0 0.0 
+  0.600000 Polearm_blockright_27.9.10 0 5 2 0 0.0 0.0 0.0 0.0 
  defend_right_staff_parry_3 0 167817231  1
-  0.800000 anim_human 37221 37230 2 0 0.0 0.0 0.0 0.0 
+  0.800000 Polearm_blockright_27.9.10 0 5 2 0 0.0 0.0 0.0 0.0 
  defend_left_staff 0 1849733134  1
-  0.750000 anim_human 37310 37320 4 0 0.0 0.0 0.0 0.0 
+  0.750000 Polearm_leftblock_27.9.10 0 5 4 0 0.0 0.0 0.0 0.0 
  defend_left_staff_keep 0 608219150  1
-  2.000000 anim_human 37320 37320 268435460 0 0.0 0.0 0.0 0.0 
+  2.000000 Polearm_leftblock_27.9.10 0 5 268435460 0 0.0 0.0 0.0 0.0 
  defend_left_staff_parry_1 0 167817231  1
-  0.600000 anim_human 37321 37330 2 0 0.0 0.0 0.0 0.0 
+  0.600000 Polearm_leftblock_27.9.10 0 5 2 0 0.0 0.0 0.0 0.0 
  defend_left_staff_parry_2 0 167817231  1
-  0.600000 anim_human 37321 37330 2 0 0.0 0.0 0.0 0.0 
+  0.600000 Polearm_leftblock_27.9.10 0 5 2 0 0.0 0.0 0.0 0.0 
  defend_left_staff_parry_3 0 167817231  1
-  0.800000 anim_human 37321 37330 2 0 0.0 0.0 0.0 0.0 
+  0.800000 Polearm_leftblock_27.9.10 0 5 2 0 0.0 0.0 0.0 0.0 
  strike_head_left 0 176160848  1
   0.500000 strikes 55 71 4 0 0.0 0.0 0.0 0.0 
  strike_head_right 0 176160848  1

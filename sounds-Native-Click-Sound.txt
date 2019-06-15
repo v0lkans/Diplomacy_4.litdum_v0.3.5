@@ -1,6 +1,6 @@
 soundsfile version 3
 442
- drum_3.wav 2817
+ drum_3.ogg 2817
  tutorial_1.ogg 1793
  tutorial_2.ogg 1793
  s_cymbals.ogg 1937
@@ -22,7 +22,7 @@ soundsfile version 3
  sword_clank_metal_13b.wav 2128
  s_swordClash2.wav 2384
  s_swordClash3.wav 2384
- s_swordSwing.wav 2080
+ s_swordSwing.ogg 2080
  footstep_1.ogg 1552
  footstep_2.ogg 1552
  footstep_3.ogg 1552
