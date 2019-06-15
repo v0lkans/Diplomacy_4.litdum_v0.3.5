@@ -1,4 +1,4 @@
-1740
+1741
 qstr_cloak1 cloak1
 qstr_cloak1_red cloak1_red
 qstr_cloak1_green cloak1_green
@@ -1629,7 +1629,7 @@ qstr__{s1}_has_been_accep _{s1}_has_been_accepted_as_a_vassal_of_{s2}.
 qstr_I_am_{s4}_the_ruler_ I_am_{s4},_the_ruler_of_{s6}
 qstr_I_am_{s4}_{s8}_of_{s I_am_{s4},_{s8}_of_{s9}
 qstr_I_am_{s4}_a_vassal_o I_am_{s4},_a_vassal_of_{s6}
-qstr_{s9}{reg5?_and_the_l {s9}{reg5?_and_the_lord_of_{s8}.:.
+qstr_{s9}{reg5?_and_the_l {s9}{reg5?_and_the_lord_of_{s8}.:}.
 qstr_{s13}_asked_you_to_g {s13}_asked_you_to_gather_{reg3}_heads_of_cattle_and_deliver_them_back_to_him.
 qstr_{s9}_wants_you_to_fol {s9}_wants_you_to_follow_his_army_until_further_notice.
 qstr_{s9}_asked_you_to_sc {s9}_asked_you_to_scout_{s13},_{s14}_and_{s15},_then_report_back.
@@ -1739,3 +1739,4 @@ qstr_{!}DEBUG____Total_pro {!}DEBUG_--_Total_production_for_{s4}:_{reg4}
 qstr_{!}DEBUG____Total_ru {!}DEBUG_--_Total_rural_production_for_{s4}_region:_{reg4}
 qstr_{!}DEBUG____Total_tr {!}DEBUG_--_Total_trade_for_{s4}:_{reg4}
 qstr_{!}DEBUG____Total_at {!}DEBUG_--_Total_attacks_for_{s4}:_{reg4}
+qstr_If_checked_the_title If_checked,_the_title_is^appending_to_the^end_of_the_name.

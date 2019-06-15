@@ -1374,3 +1374,5 @@ enlisted_lord
 gpu_ccp_mode
 gpu_object
 g_next_pay_time
+male_vassal_title_style
+female_vassal_title_style

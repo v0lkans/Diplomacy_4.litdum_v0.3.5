@@ -233,7 +233,7 @@ mno_talk_to_siege_commander|Kuşatma kumandanıyla görüşme talep et.
 mno_join_siege_with_allies|Sonraki saldırıya katıl
 mno_join_siege_stay_back|Askerlerine, sonraki saldırıya sensiz girmelerini emret.
 mno_leave|Ayrıl.
-menu_castle_outside|{s2} dışındasın. {s11} {s3} {s4} 
+menu_castle_outside|{s2} dışındasın.{s11} {s3} {s4} 
 mno_approach_gates|Kapıya yaklaş ve nöbetçilere seslen.
 mno_town_sneak|Kılık değiştirerek şehir kapılarından içeri sızmayı dene.
 mno_castle_start_siege|{reg6?Şehri:Kaleyi} kuşat...
@@ -296,7 +296,7 @@ mno_siege_defender_join_battle|Savaşa katıl.
 mno_siege_defender_troops_join_battle|Sen geride kalırken adamlarına savaşa katılmalarını söyle.
 menu_siege_join_defense|{s4}^^Kayıpların: {s8}^^Müttefiklerin kayıpları: {s9}^^Düşmanın kayıpları: {s10}
 menu_enter_your_own_castle|Yaklaşırken, kale nöbetçileri tarafından farkediliyorsun ve kapıları {lordları/leydileri} için açıyorlar.
-menu_village|{s10} {s12}^{s11}^{s6}{s7}
+menu_village|{s10} {s12}^{s11}^{s6}^{s7}
 mno_village_manage|Bu köyü idare et.
 mno_recruit_volunteers|Gönüllü topla.
 mno_village_center|Köy merkezine gir.
@@ -319,9 +319,9 @@ mno_recruit_them|Onları ({reg6} dinara) al.
 mno_forget_it|Unut gitsin.
 menu_village_hunt_down_fugitive_defeated|Kaçaktan gelen sert bir darbe seni yere çalıyor ve görüşün dönüp kararıyor. Zaman geçiyor. Gözlerini tekrar açtığında kendini kana bulanmış ve sarsılmış buluyorsun ama şanslısın ki hiç bir yara ölümcül görünmüyor.
 menu_village_infest_bandits_result|{s9}
-menu_village_infestation_removed|Şarkılarda anlatılmaya değer bir savaşta sen ve adamların haydutları köyden atıp güvenliği sağlamayı başardınız. Son olaylar onlara ağır bir darbe indirmiş olsa da köylüler bulabildikleri herşeyi sana ve birliğine sunuyorlar.
-mno_village_bandits_defeated_accept|Yerinde ödülün olarak önerilenleri al
-mno_village_bandits_defeated_cont|Onların daha çok ihtiyacı olduğunu söyleyerek, reddet.
+menu_village_infestation_removed|Şarkılarda anlatılmaya değer bir savaşta sen ve adamların haydutları köyden atıp güvenliği sağlamayı başardınız. Son olaylar onlara ağır bir darbe indirmiş olsa da köylüler bulabildikleri her şeyi sana ve birliğine sunuyorlar.
+mno_village_bandits_defeated_accept|Ödülün olarak önerilenleri al.
+mno_village_bandits_defeated_cont|Onların daha çok ihtiyacı olduğunu söyleyerek reddet.
 menu_center_manage|{s19}^{reg6?^^Şu an {s7} inşa ediyorsun. Bina {reg8} gün sonra tamamlanacak.:}
 mno_center_build_manor|Malikane inşa et.
 mno_center_build_fish_pond|Değirmen inşa et.
@@ -351,13 +351,13 @@ mno_village_raid_leave|Bu köyü kendi hâline bırak...
 menu_village_loot_no_resist|Köylüler birliklerin karşısında çabucak dağılıyorlar. Köy insafına kalmış durumda.
 mno_village_loot|Köyü yağmala ve evleri ateşe ver.
 mno_village_raid_leave|Bu köyü kendi hâline bırak...
-menu_village_loot_complete|Emirlerin üzerine adamların köyü yağmalayıp, değerli olabilecek herşeye el koyarak yapıları ateşe verdiler. Bulunan değerli eşyalar ve paradan payın olan {reg1} dinarı alıyorsun.
+menu_village_loot_complete|Emirlerin üzerine adamların köyü yağmalayıp, değerli olabilecek her şeye el koyarak yapıları ateşe verdiler. Bulunan değerli eşyalar ve paradan payın olan {reg1} dinarı alıyorsun.
 menu_village_loot_defeat|Cesaret ve kararlılıkla savaşarak, köylüler komutandaki güçleri geri püskürttü.
 menu_village_loot_continue|Köyü yağmalamaya devam etmek istiyor musun?
 mno_disembark_yes|Evet.
 mno_disembark_no|Hayır.
 menu_close|Hiç.
-menu_town|{s10} {s14}^{s11}{s12}{s13}
+menu_town|{s10} {s14}^{s11}^{s12}^{s13}
 mno_castle_castle|Lordun kabul salonuna git{s1}.
 mno_castle_castle_door|Kale kapısı.
 mno_join_tournament|Turnuvaya katıl.
@@ -428,7 +428,7 @@ menu_collect_taxes_revolt_warning|{s3} halkı taleplerin karşısında nefretle 
 mno_continue_collecting_taxes|Görmezden gelip devam et.
 mno_halve_taxes|Toplanacak parayı yarıya düşürmeyi kabul et. ({s1} sinirlenebilir.)
 menu_collect_taxes_revolt|{s3}nde vergi toplayışın yarıda kesiliyor. Büyük bir {reg9?köylü:kasabalı} güruhu, fahiş vergiler hakkında bağırıp, silahlar ve meşaleler sallayarak yaklaşıyor. Görünüşe bakılırsa savaş istiyorlar!
-menu_train_peasants_against_bandits|En yüksek talimci becerisine ({reg2}) sahip olan, {reg3?sana göre:{s1} diyor ki} köylülerin bazılarının çalışmaya hazır olması için {reg4} saat gerekecek.
+menu_train_peasants_against_bandits|En yüksek talimci becerisine ({reg2}) sahip olan {reg3?sana göre:{s1} diyor ki} köylülerin bazılarının çalışmaya hazır olması için {reg4} saat gerekecek.
 mno_make_preparation|Eğitime başla.
 mno_train_later|Daha sonraya ertele...
 menu_train_peasants_against_bandits_ready|Köylüleri askerlik, disiplin ve itaat konularında eğitime sokuyorsun. {reg0} tanesinin eğitimi kaptığını ve biraz pratiğe hazır olduğunu düşünüyorsun.
@@ -437,8 +437,8 @@ menu_train_peasants_against_bandits_training_result|{s0}
 menu_train_peasants_against_bandits_attack|Eğitime devam etmeye hazırlanırken, köyden bir gözcü tehlike haberleri çığırarak koşup geliyor. {s3}ne doğru yaklaşan haydutlar ufukta görülüyor. Köyün ihtiyarı yeni-eğitilmiş milis gücünü organize edip onlarla yüzleşmen için sana yalvarıyor.
 mno_peasants_against_bandits_attack_resist|Savaşa hazırlan!
 menu_train_peasants_against_bandits_attack_result|{s9}
-menu_train_peasants_against_bandits_success|Haydutlar dağıldı! Kaçan bir kaç tanesi de kuyruklarını bacaklarının arasına alarak, köylüler ve onların yeni müdafisinden dehşete düşmüş bir şekilde kaçıyorlar. Köylülerin bu zorluktan sonra maddi açıdan pek az şeyleri kalmış durumda, ancak minnettarlıklarını göstermek için bulabildikleri herşeyi sana sunuyorlar.
-mno_village_bandits_defeated_accept|Yerinde ödülün olarak önerilenleri al
+menu_train_peasants_against_bandits_success|Haydutlar dağıldı! Kaçan bir kaç tanesi de kuyruklarını bacaklarının arasına alarak, köylüler ve onların yeni müdafisinden dehşete düşmüş bir şekilde kaçıyorlar. Köylülerin bu zorluktan sonra maddi açıdan pek az şeyleri kalmış durumda, ancak minnettarlıklarını göstermek için bulabildikleri her şeyi sana sunuyorlar.
+mno_village_bandits_defeated_accept|Ödülün olarak önerilenleri al.
 mno_village_bandits_defeated_cont|Onların daha çok ihtiyacı olduğunu söyleyerek, reddet.
 menu_disembark|Gemiden inmek istiyor musun?
 mno_disembark_yes|Evet.
@@ -581,7 +581,7 @@ mno_appoint_npc14|{s10}'{.i} ata
 mno_appoint_npc15|{s10}'{.i} ata
 mno_appoint_npc16|{s10}'{.i} ata
 mno_appoint_default|Bölgeden seçkin bir yurttaş ata...
-menu_minister_confirm|{s9}'{.i} {s12}{.de}ki merkezinde bulabilirsin. Otoriteni sarsacak sorunların birikmemesi için onunla sık sık konuşman iyi olur...
+menu_minister_confirm|{s9}{.i} {s12}{.de}ki merkezinde bulabilirsin. Otoriteni sarsacak sorunların birikmemesi için onunla sık sık konuşman iyi olur...
 menu_notification_court_lost|{s12}
 menu_notification_player_wedding_day|{s8}'{.nin} sana gönderdiği mesaja göre, {s10}{.de}ki evlilik hazırlıklarınız tamamlanmıştır ve en kısa zamanda orada olmanız bekleniyor.
 menu_notification_player_kingdom_holds_feast|{s11}
@@ -624,7 +624,7 @@ menu_lost_tavern_duel|{s11}
 menu_establish_court|Sarayını {s4}'{.a} kurmak için küçük bir tadilata ihtiyaç var. Bunun için bir alet takımı ve bir rulo kadife gerekiyor. Ayrıca bazı takipçilerinin buraya taşınması biraz vakit alabilir. Devam etmek istiyor musun?
 mno_establish|Sarayı {s4}'{.a} kur.
 menu_notification_relieved_as_marshal|{s4}, mareşallik hizmetinizin artık gerekli olmadığını bildirmek istiyor. Son {reg4} gün boyunca krallık adına yaptığınız yiğitlik ve çabalar şerefine size {reg5} dinarlık kese sunuyor.
-menu_dplmc_manage_loot_pool| {s10} hiç
+menu_dplmc_manage_loot_pool|{s10}
 mno_dplmc_auto_loot| Yoldaşlarının eşya havuzunu kullanmasına izin ver.
 mno_dplmc_auto_loot_no| Eşya havuzunda terfi için yeterli yer yok.
 mno_dplmc_loot| Eşya havuzuna giriş.

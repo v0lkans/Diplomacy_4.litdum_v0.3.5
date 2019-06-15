@@ -1,5 +1,5 @@
 stringsfile version 1
-4174
+4175
 str_no_string NO_STRING!
 str_empty_string _
 str_yes Yes.
@@ -4174,3 +4174,4 @@ str_kmt_reg1_reg2_pos (_{reg1},_{reg2}_)
 str_kmt_undo Undo
 str_kmt_hide Hide
 str_kmt_show Show
+str_s1_s0 {!}{s1}_{s0}

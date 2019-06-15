@@ -173,7 +173,7 @@ qstr_{s2}Its_market_town_|{s2}Pazar şehri {s8}.^
 qstr_{s7}_and_{s8}|{s7} ve {s8}
 qstr_{s2}It_has_no_villag|{s2}Hiç köyü yok.^
 qstr_{s2}{reg0?Its_villag|{s2}{reg0?Bağlı köyleri:Bağlı köyü} {s8}.^
-qstr_{s2}Its_prosperity_i|{s2}Refah durumu: {s50}
+qstr_{s2}Its_prosperity_i|{s2}Refah durumu: {s50} ({reg7})
 qstr_noone|hiçkimse
 qstr_{s9}_and_{s10}|{s9} ve {s10}
 qstr_{s5}_has_been_defeat|{s5} yenildi!
@@ -205,7 +205,7 @@ qstr_Try_to_destroy_as_ma|Olabildiğince fazla hedefi yoketmeye çalış. Pisti 
 qstr_Stay_behind_the_line|Çizginin arkasında durup hedefleri vur. Boşa sallamamaya çalış.
 qstr_Battle_Advantage_=_{|Savaş Avantajı = {reg0}.
 qstr_{s9}_wants_you_to_re|{s9} sonraki emre kadar ordusunu takip etmeni istiyor.
-qstr_Tribune|Halkın koruyucusu
+qstr_Tribune|Tribün
 qstr_{s5}_of_the_{s7}_has|{s7}ndan {s5} {s4} sahibi oldu.
 qstr_{s4}_has_been_awarde|{s4}, {s7}ndan {s5}{.e} bahşedildi.
 qstr_pt_in_{s11}|grup {s11} içinde
@@ -251,7 +251,7 @@ qstr_{s1}_and_{s2}_have_m|{s1} ve {s2} barış anlaşması imzaladılar.
 qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?{s3} topraklarındaydı:şu anda {s3} topraklarında}.
 qstr_{s2}_{reg3?was:is}_t|{s2} {s3} topraklarına doğru {reg3?gidiyordu:gidiyor} ve {reg3?:şu sıralar} {s4} yakınlarında {reg3?idi:olmalı}.
 qstr_{s2}_{reg3?was:is}_tr|{s2} {s3} topraklarına seyahat {reg3?ediyordu:ediyor} ve {reg3?: şu anda} {s4} ile {s1} {reg3?arasındaydı:arasında olmalı}.
-qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?kırdaydı:kırda} ve {reg3?: şu sıralar} {s3} {reg3?yakınlarındaydı:yakınlarında olmalı}.
+qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?kırdaydı:kırda} ve {reg3?:şu sıralar} {s3} {reg3?yakınlarındaydı:yakınlarında olmalı}.
 qstr_{s2}_{reg3?was:is}_in|{s2} savaş {reg3?meydanındaydı:meydanında} ve {reg3?: şu anda} {s3} ile {s1} {reg3?arasındaydı:arasında olmalı}..
 qstr_{s2}_{reg3?was:is}_b|{s2} {s3} zindanında {reg3?hapsedilmişti:tutuluyor}.
 qstr_{s2}_{reg3?was:has_b|{s2} düşmanları tarafından esir {reg3?alınmıştı:tutuluyor}. 
@@ -723,7 +723,7 @@ qstr__Your_intelligence_h| Zekân 1 yükseldi.
 qstr__Your_trade_skill_ha| Ticaret yeteneğin 1 yükseldi.
 qstr__Your_weapon_master_| Silah ustası yeteneğin 1 yükseldi.
 qstr__Your_engineer_skill| Mühendislik yeteneğin 1 yükseldi.
-qstr_You_have_finished_re|{s1} kitabını okumayı bitirdin.{s2}
+qstr_You_have_finished_re|{s1} kitabını okumayı bitirdin.^{s2}
 qstr_Book_Read|Kitap okundu.
 qstr_{s1}_is_scouted.|{s1} gözlendi.
 qstr_{s1}_has_switched_fr|{s1}, {s2}ndan {s3}na geçti.
@@ -731,7 +731,7 @@ qstr_Your_recruiter_who_wa|{s13} için {reg10} acemi toplamakla görevli asker t
 qstr_{s13}_has_been_taken|{s13} düşman tarafından ele geçirildi {reg10} asker toplamakla görevli yardımcın ortadan kayboldu!
 qstr_ERROR_IN_THE_RECRUIT|ASKER TOPLAYICI PAKETİNE AİT SIMPLE TRIGGERS KODLARINDA HATA!
 qstr_A_recruiter_has_brou|Asker toplayıcı {s13}ne {reg10} acemi getirdi.
-qstr_Distance_between_{s1|{s14} ile {s15} arasındaki mesafe:_{reg0}
+qstr_Distance_between_{s1|{s14} ile {s15} arasındaki mesafe: {reg0}
 qstr_Your_caravan_has_bro|Karavanın {s12}'ı {s13} civarına bıraktı.
 qstr_{s13}_is_unimpressed|{s13} senin kıymetsiz hediyenden etkilenmedi.
 qstr_The_people_of_{s13}_|{s13} milleti senin kıymetsiz hediyenden etkilenmedi.
@@ -832,10 +832,10 @@ qstr__We_will_of_course_n| Tabii ordularımız seferden dönene kadar beklememiz
 qstr__{s1}_has_been_accep| {s1} {s2}'{.e} bağlı bir derebeyi olarak kabul edildi.
 qstr_I_am_{s4}_the_ruler_|Ben {s4}, {s6} yöneticisi
 qstr_I_am_{s4}_{s8}_of_{s|Ben {s4}, {s9} {s8}
-qstr_I_am_{s4}_a_vassal_o|Ben {s4}, {s6} derebeyi.
-qstr_{s9}{reg5?_and_the_l|{s9}{reg5? Ve {s8} lordu.:.
+qstr_I_am_{s4}_a_vassal_o|Ben {s4}, {s6} derebeyi
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5? Ve {s8} lordu:}.
 qstr_{s13}_asked_you_to_g|{s13}, {reg3} baş sığır toplamanı ve ona getirmeni emretti.
-qstr_{s9}_wants_you_to_fol|{s9} birsonraki emre kadar onun ordusunu takip etmeni istiyor.
+qstr_{s9}_wants_you_to_fol|{s9} bir sonraki emre kadar onun ordusunu takip etmeni istiyor.
 qstr_{s9}_asked_you_to_sc|{s9}; {s13}, {s14} ve {s15} bölgelerini gözlemeni ve ona rapor etmeni istedi.
 qstr_pupil|çırak
 qstr_you|sen
@@ -862,7 +862,7 @@ qstr_{s9}_asked_you_to_hu|{s9}, senden {s4} olarak bilinen kaçağı avlamanı i
 qstr_{s9}_asked_you_to_as|{s9}, {s3}ndeki yerli tüccarı öldürmeni istedi.
 qstr_{s9}_has_asked_you_t|{s9}, {s13}nde bulunan casusla buluşmanı istedi.
 qstr_{s11}_asked_you_to_f|{s11}, {s12}nden ayrılan casusu izlemeni istedi. Casusun seni yolda görmemesine dikkat etmelisin, yoksa şüphelenip geri dönebilir. Casus bir kere suç ortağıyla buluştuktan sonra, her ikisini de yakalayıp {s11}ne getirmen gerekiyor.
-qstr_{s11}_asked_you_to_c|{s11}, {s13}ndan bir lord yakalamanı, herhangi bir tanesi ve ardından kurbanını saklamak üzere {s11}ne sürüklemeni istedi.
+qstr_{s11}_asked_you_to_c|{s11}, {s13}ndan bir herhangi bir lord yakalamanı ve ardından kurbanını saklamak üzere {s11}ne sürüklemeni istedi.
 qstr_{s9}_asked_you_to_le|{s9}, yardımcını ({s3}) ona bir hafta ödünç vermeni istedi.
 qstr_{s9}_asked_you_to_col|{s9}, {s3} olarak bilinen kişinin ona olan {reg4} dinarlık borcunu toplamanı istedi. {s3}, sen bu görevi aldığında {s4}ndeydi.
 qstr_{s11}_gave_you_a_fak|{s11} sana {s13} adlı kişiyi, {s16} olarak bilinen derebeyini sürmesi konusunda kandırmak üzere sahte bir mektup verdi. {s14} civarına gitmen, mektubu {s15} askerlerinden birine vermen ve onu şehre, mesajının gerçek olduğuna inanarak, ulak olarak yollaman gerekiyor.
@@ -886,7 +886,7 @@ qstr_Well_done_{s0}._Keep|Çok güzel, {s0}. Paramızı ve şarabımızı eksik 
 qstr_We_are_at_your_servi|Hizmetinizdeyiz, {efendim/efendim}. Kime zarar verilecekse bize yerini gösterin, gerisini biz hallederiz.
 qstr_The_Guildmaster_of_{|{s13} lonca başkanı, şehrin etrafında çapulcularla ilgilenmeni istedi.
 qstr_{s9}_of_{s3}_asked_y|{s3}nden {s9} 7 gün içinde {s4}ndeki hana {reg5} adet {s6} ulaştırmanı istedi.
-qstr_Escort_the_merchant_|{s1} topraklarına doğru giden ticaret kervanına refakat et.
+qstr_Escort_the_merchant_|{s8} topraklarına doğru giden ticaret kervanına refakat et.
 qstr_Merchant_{s9}_of_{s4|{s4}nden tüccar {s9}, senden şehrin civarındaki belalı haydutları avlamanı istedi. 
 qstr_Guildmaster_of_{s4}_|{s4} lonca başkanı haydutlar tarafından kaçırılan bir kızın fidyesini ödemen için sana {reg12} dinar verdi. Haydutlarla {s3} yakınlarında buluşup fidyeyi ödemen gerekiyor. Ardından kızı {s4}ne geri getirmen bekleniyor.
 qstr_Guildmaster_of_{s4}_p|{s4} lonca başkanı {s12} ve {s13} kişilerinin, {s15} ve {s14} arasında olası bir barış durumuna karşı tehdit olmamalarını sağlamayı başarırsan sana {reg12} dinar önerdi. Bunu yapmak için onları ya ikna etmeli ya da anlaşma yapılana kadar esir olarak tutmalısın.
@@ -1081,7 +1081,7 @@ qstr__Disabled__you_will_|'Devre Dışı' ise herhangi bir turnuva daveti almazs
 qstr_Enabled_Ticked__the_|Açık(tikli) ise turnuva katılımcılarının seviyeleri sistem tarafından hesaplanır ve zorlukları çok büyük ölçüde artar. Yüksek zorlukta bir meydan okuma istiyorsanız bunu seçin. Kapalı(tiksiz) ise katılımcıların seviyeleri sabittir, sistem tarafından hesaplanmaz (Native'deki gibi). Bunlar 'seviyeleri hesaplanan katılımcılar'dan çok daha kolaydır ancak yine de Native'dekinden daha zor olacaktır. Not: Bu seçenek için 'Turnuva Geliştirmeleri' açık olmalıdır.
 qstr_Enabled_Ticked__horses|Açık(tikli) ise, binicisiz turnuva atlarının darbelere bağışık olması sorununu telafi edebilmek için turnuvalarda atlar binicileri bayıltıldıktan bir süre sonra kendiliğinden öleceklerdir. Kapalı(tiksiz) ise atlar canlı kalırlar. Not: Bu seçenek için 'Turnuva Geliştirmeleri' açık olmalıdır.
 qstr_Enabled_Ticked__fact|Açık(tikli) ise, otomatik savaşlarda krallıklara kendi arazilerinde iken avantaj verir. Kapalı(tiksiz) ise Native'de olduğu gibi, otomatik savaşlar sadece parti büyüklüğü ve asker seviyelerine göre hesaplanır.
-qstr_Disabling_NPC_Compla|Yoldaşlarınızın, kararlarınız veya birbirleri hakkında size şikayetlenmelerini durdurur, bununla birlikte bu onların düşüncelerinin sonuçlarını değiştirmez.
+qstr_Disabling_NPC_Compla|Yoldaşlarınızın, kararlarınız veya birbirleri hakkında size şikâyetlenmelerini durdurur, bununla birlikte bu onların düşüncelerinin sonuçlarını değiştirmez.
 qstr_Enabled_Ticked__the_e|Açık(tikli) ise lordlar, sürgün edildikleri ya da ihanet ettikleri krallığa bir süre sonra yeniden dönebilirler, böylece oyunun ileri tarihlerinde lordların dönmemek üzere Kalradya dışına çıkmaları önlenir. Kapalı(tiksiz) ise geri dönemezler (Native'deki gibi).
 qstr_Enabled_Ticked__when|Açık(tikli) ise hızlı seyahat (Ctrl+Space) sırasında grubunuz bir düşman grubu farkedettiğinde oyun duraklar. Kapalı(Tiksiz) ise duraklamaz.
 qstr_Keys_Configuration|Tuş Düzeni
@@ -1351,4 +1351,5 @@ qstr_^{reg1}%_Difficulty|^%{reg1} Zorluk
 qstr_denars|dinar
 qstr_denar|dinar
 qstr_{reg32}_{s27}_that_y|Bu turda {reg31} {s28} kazanacağına {reg32} {s27} bahis koydun.
-qstr_You_have_not_placed_|Bu tur için herhangi bir bahis koymadın. 
+qstr_You_have_not_placed_|Bu tur için herhangi bir bahis koymadın.
+qstr_If_checked_the_title|Kutu tikli ise^unvan ismin sonuna eklenir. 
