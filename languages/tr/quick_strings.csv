@@ -294,11 +294,11 @@ qstr_Very_Rich|Çok Zengin
 qstr_Manor|Malikâne
 qstr_A_manor_lets_you_res|Malikâne, köyde kalmanı sağlar ve  burada kalırken askerlerin maaşını yarıya düşürür.
 qstr_Mill|Değirmen
-qstr_A_mill_increases_vil|Değirmen, köyün refah seviyesini her ay %5 artırır.
+qstr_A_mill_increases_vil|Değirmen, köyün refah seviyesini her hafta 3 artırır.
 qstr_Watch_Tower|Gözcü Kulesi
 qstr_A_watch_tower_lets_t|Gözcü kulesi, köylülerin daha erken alarm vermelerini sağlar. Düşmanların köyü yağmalaması için gereken zamanı %25 artırır.
 qstr_School|Okul
-qstr_A_shool_increases_th|Okul, köylülerin sadakatini her ay +1 artırır.
+qstr_A_shool_increases_th|Okul, köylülerin sadakatini her ay 1 artırır.
 qstr_Messenger_Post|Ulak Karakolu
 qstr_A_messenger_post_let|Ulak karakolu, yakında düşman olduğu zamanlarda çok uzakta olsan da köylülerin sana mesaj yollamasına olanak tanır.
 qstr_Prison_Tower|Mahkûm Kulesi
