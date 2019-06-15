@@ -140,7 +140,10 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
     #
   * Askerlere şarap ısmarlama
     * Birim fiyatı **~~50~~** --> **10** 
-    * Verdiği moral **~~2~~** --> **10** 
+    * Verdiği moral **~~2~~** --> **10**
+  
+  #
+  * Ok sayıları 40 arttırıldı.
 
 # Türkçe dili hata düzeltme güncellemesi
 Oyunda karşılaştığım yazım hatalarını, çeviri hatalarını, hatalı gösterimleri elimden geldiğince düzeltmeye çalıştım.
