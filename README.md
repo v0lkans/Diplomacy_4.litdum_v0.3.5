@@ -1,6 +1,5 @@
 # [Diplomacy 4.litdum](https://forums.taleworlds.com/index.php?topic=356425.0) Unofficial Update 
 
-##### Bu güncelleme, modül sistemi olmadan yapılmıştır.
 Yaptığım birçok değişikliğin amacı, oyundaki dengesizliğin ve adaletsizliğin biraz olsun düzelmesini sağlamaktır.
 
 Yapay Zekâ lordlar yattığı yerden para kazanıp üstüne bir de oyuncunun ulaşamayacağı sayılarda asker ile ordu kurarken benim *emekçi, Kalradya'ya mutlak adaleti, huzuru, refahı* getirecek yegâne savaşçılarından olan kardeşlerimin bu denli zorluklar altında bırakılması büyük bir haksızlıktır.
@@ -10,14 +9,15 @@ Yapay Zekâ lordlar yattığı yerden para kazanıp üstüne bir de oyuncunun ul
 
 - - - -
 ### İçerik
-  * [Yapım Süreci](https://github.com/v0lkans/Diplomacy_4.litdum_v0.3.5/blob/master/README.md#yapım-süreci)
+  * [Yapım Sürecinin Zorluğu](https://github.com/v0lkans/Diplomacy_4.litdum_v0.3.5/blob/master/README.md#yapım-sürecinin-zorluğu)
   * [Değişiklikler](https://github.com/v0lkans/Diplomacy_4.litdum_v0.3.5/blob/master/README.md#değişiklikler)
   * [Türkçe dili hata düzeltme güncellemesi](https://github.com/v0lkans/Diplomacy_4.litdum_v0.3.5/blob/master/README.md#türkçe-dili-hata-düzeltme-güncellemesi)
   
   
 - - - -
-### Yapım süreci
-_Modül sistemiyle çok basit ve hızlı bir şekilde yapılabilecek bu özellikleri -en önemlilerini- modül sistemi olmadan yapmak çok emek ve çok teknik bilgi isteyen bir işlem. txt dosyalarının içeriğindeki düzensiz ve anlamsız gibi görünen karmaşık sayıların ne anlama geldiğini anlamak, bu sayıları ayıklayıp, doğru olanları bulup, doğru yere, doğru sırayla yerleştirmek, yeri geldiğinde bu sayıları hexadecimal değerlere dönüştürüp, çıkan sonuca göre txt dosyalarına yeni eklemeler yapmak, hexadecimal olan değeri tekrar decimal değere döndürerek bu değere göre değişiklikler ve eklemeler yapmak günler süren bir iş. Bu bağlamda yapılan iş her ne kadar basit görünürse görünsün, benim haftalarımı aldı._
+### Yapım sürecinin Zorluğu
+###### Bu güncelleme, modül sistemi olmadan yapılmıştır.
+_Modül sistemiyle çok basit ve hızlı bir şekilde yapılabilecek bu özellikleri -en önemlilerini- modül sistemi olmadan yapmak çok emek ve çok teknik bilgi isteyen bir işlem. Txt dosyalarının içeriğindeki düzensiz ve anlamsız gibi görünen karmaşık sayıların ne anlama geldiğini anlamak, bu sayıları ayıklayıp, doğru olanları bulup, doğru yere, doğru sırayla yerleştirmek, yeri geldiğinde bu sayıları hexadecimal değerlere dönüştürüp çıkan sonuca göre txt dosyalarına yeni eklemeler yapmak, hexadecimal olan değeri tekrar decimal değere döndürerek bu değere göre değişiklikler ve eklemeler yapmak günler süren bir iş. Bu bağlamda yapılan iş her ne kadar basit görünürse görünsün, benim haftalarımı aldı._
 
 # Değişiklikler
 
