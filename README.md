@@ -73,7 +73,7 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
   </details>
 
 
-  ###### Bunu yapmam, modül sistemi olmadığı için yaklaşık 4 gün sürdü D: oyunun txt dosyalarını anlamak ve düzenlemek çok karmaşık ve zor bir iş.
+  ###### Bunu yapmam yaklaşık 4 gün sürdü D: Değişiklikler arasında en çok uğraştıranı da bu.
 
 
 - - - -
@@ -84,11 +84,6 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
 - - - -
 ## Kuşatmalarda Envantere Erişebilme
   * ##### Kuşatmalarda envantere erişebilirsin.
-
-
-- - - -
-## Oyun Kavramları Sayfası İç Siyaset Bilgileri
-  * Diplomasi modunun özelliklerinden biri olan iç siyaset değişikliklerinin detaylı açıklamaları **Oyun Kavramları** sayfasına eklendi. 
 
 
 - - - -
@@ -129,6 +124,11 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
 ###### (**Örnek**: 2000 / 400 = 5)
 ###### (2000 namınız varsa her hafta 5 nam kaybedersiniz.)
 ###### Bu değişiklik ile haftalık kaybedilen nam 2 kat azalır.
+
+
+- - - -
+## Oyun Kavramları Sayfası İç Siyaset Bilgileri
+  * Diplomasi modunun özelliklerinden biri olan iç siyaset değişikliklerinin detaylı açıklamaları ben tarafından Türkçe'ye çevirildi ve **Oyun Kavramları** sayfasına eklendi. 
 
 
 - - - -
