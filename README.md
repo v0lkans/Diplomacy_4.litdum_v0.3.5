@@ -1,6 +1,11 @@
 # [Diplomacy 4.litdum](https://forums.taleworlds.com/index.php?topic=356425.0) Unofficial Update 
 
 ##### Bu güncelleme, modül sistemi olmadan yapılmıştır.
+Yaptığım birçok değişikliğin amacı, oyundaki dengesizliğin ve adaletsizliğin biraz olsun düzelmesini sağlamaktır.
+
+Yapay Zekâ lordlar yattığı yerden para kazanıp üstüne bir de oyuncunun ulaşamayacağı sayılarda asker ile ordu kurarken benim *emekçi, Kalradya'ya mutlak adaleti, huzuru, refahı* getirecek yegâne savaşçılarından olan kardeşlerimin bu denli zorluklar altında bırakılması büyük bir haksızlıktır.
+
+*Bu güncelleme, Kalradya'ya adaleti getirecek savaşçılar için yapılmış bir '**Adalet**' güncellemesidir.*
 - - - -
 ### İçerik
   * [Değişiklikler](https://github.com/v0lkans/Diplomacy_4.litdum_v0.3.5/blob/master/README.md#değişiklikler)
@@ -9,6 +14,7 @@
 
 ## Oyuncu Parti büyüklüğü
 ###### Sadece NPC lordlarında olan özellikler artık oyuncu için de geçerli.
+Oyuncu parti büyüklüğü bileşenleri karşılaştırması:
 
 v0.3                      | Bonus         |   |  v0.3.5                   | Bonus         |
 ------------              | ------------- |---| -------------             | ------------- |
@@ -22,6 +28,7 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
 Ø                         |               |   | Seviye¹                   | formül        |
 
 ¹Seviye formülü: **Parti büyüklüğü** x ((*Oyuncunun Seviyesi* + **80** ) / **80**)
+(En son bu formül uygulanır.)
 
 
 
@@ -37,9 +44,9 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
       <summary>Senaryo 1</summary>
       <p>1) Unvan değiştirme ekranını açtın.</p>
       <p>2) Metin kutusunu sildin ve 'Paşa' yazdın.</p>
-      <p>3) Onay kutusunu da tikledin ve tamam dedin</p>
+      <p>3) Onay kutusunu da tikledin ve tamam dedin.</p>
       <p>4) Yazdığın unvanın doğru bir şekilde derebeylerinin isminin sonuna eklendiğini gördün çünkü metin kutusunda bir değişiklin yapmıştın.</p>
-     <p>Sıra Senaryo 2'de</p>
+     <p>Sıra Senaryo 2'de.</p>
     </details>
  
  <details>
@@ -78,8 +85,10 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
 - - - -
 ## Kira Gelirleri
  #### Kiralardan Gelen Gelir Böleni:
-  * **Oyuncu için** *~~120~~* --> *60* (*2 kat daha fazla gelir*)
-  * **NPC'ler için** *~~120~~* --> *240* (*2 kat daha az gelir*)
+  * **Oyuncu için** *~~120~~* --> *60*
+  * **NPC'ler için** *~~120~~* --> *240* 
+  ###### (*Oyuncu, sahip olduğu topraklardan 2 kat daha fazla kira geliri elde eder*)
+  ###### (*NPC'ler, sahip oldukları topraklardan 2 kat daha az kira geliri elde eder*)
 
 
 - - - -
@@ -93,7 +102,7 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
 
 - - - -
 ## Değirmen Refah Bonusu
-* *Değirmen tek seferlik **%5** yerine her hafta **%3** refah verir*
+* *Değirmen tek seferlik **+5** yerine her hafta **+3** refah kazandırır.*
 
 
 - - - -
@@ -147,4 +156,7 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
 
 # Türkçe dili hata düzeltme güncellemesi
 Oyunda karşılaştığım yazım hatalarını, çeviri hatalarını, hatalı gösterimleri elimden geldiğince düzeltmeye çalıştım.
+
 Aynı zamanda bazı gösterimlerin daha anlaşılabilir olması için eklemeler de yaptım.
+
+Hatalar büyük oranda giderildi, ancak hâlâ, karşılaşmadığım ya da gözümden kaçmış hatalar olabilir.
