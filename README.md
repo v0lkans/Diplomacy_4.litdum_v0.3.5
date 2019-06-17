@@ -161,7 +161,7 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
     * Verdiği moral **~~2~~** --> **10**
   
   #
-  * Ok sayıları 40 arttırıldı.
+  * Normal okların ve kundaklı yay oklarının sayıları 40 arttırıldı. (Talim ve arena okları dahil değildir.)
 
 # Türkçe dili hata düzeltme güncellemesi
 Oyunda karşılaştığım yazım hatalarını, çeviri hatalarını, hatalı gösterimleri elimden geldiğince düzeltmeye çalıştım.
