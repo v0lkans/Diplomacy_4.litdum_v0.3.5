@@ -135,15 +135,15 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
 ## Çeşitli Değişiklikler
   * NPC Parti Büyüklüğü:
     * Taban Büyüklük *~~+10~~* --> *+30*
-
+  #
   * *Esir yönetimi:
     * *Puan başına* **~~+5~~** --> **+10**
-    #
+  #
   * *Yemek her* **~~14~~** --> **12** *saatte bir yenir.*
   #
   * Esir yakalama görevini reddetme
     * *İlişki* ~~**1 azalır**~~ --> **değişmez** 
-    #
+  #
   * *Köylere ve Şehirlere girince refah seviyesi sayı olarak yazar*
   #
   * *Raporlar sekmesinde "Sonraki ödeme günü" bilgisi*
