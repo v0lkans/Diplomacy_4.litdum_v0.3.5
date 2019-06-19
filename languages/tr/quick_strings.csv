@@ -833,7 +833,7 @@ qstr__{s1}_has_been_accep| {s1} {s2}'{.e} bağlı bir derebeyi olarak kabul edil
 qstr_I_am_{s4}_the_ruler_|Ben {s4}, {s6} yöneticisi
 qstr_I_am_{s4}_{s8}_of_{s|Ben {s4}, {s9} {s8}
 qstr_I_am_{s4}_a_vassal_o|Ben {s4}, {s6} derebeyi
-qstr_{s9}{reg5?_and_the_l|{s9}{reg5? Ve {s8} lordu:}.
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5? ve {s8} lordu:}.
 qstr_{s13}_asked_you_to_g|{s13}, {reg3} baş sığır toplamanı ve ona getirmeni emretti.
 qstr_{s9}_wants_you_to_fol|{s9} bir sonraki emre kadar onun ordusunu takip etmeni istiyor.
 qstr_{s9}_asked_you_to_sc|{s9}; {s13}, {s14} ve {s15} bölgelerini gözlemeni ve ona rapor etmeni istedi.
