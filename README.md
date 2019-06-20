@@ -90,9 +90,9 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
 ## Kira Gelirleri
  #### Kiralardan Gelen Gelir Böleni:
   * **Oyuncu için** *~~120~~* --> *60*
-  * **NPC'ler için** *~~120~~* --> *240* 
+  * **NPC'ler için** *~~120~~* --> *80* 
   ###### (*Oyuncu, sahip olduğu topraklardan 2 kat daha fazla kira geliri elde eder*)
-  ###### (*NPC'ler, sahip oldukları topraklardan 2 kat daha az kira geliri elde eder*)
+  ###### (*NPC'ler için 'yattıkları yerden para kazanıyorlar' desemde, oyuncuya verilen avantajlar, NPC'lerin savaşlarda biraz güçsüz kalmasına neden oluyor. Bu yüzden, biraz daha para kazanmalarında sakınca yoktur diye düşünüyorum.*)
 
 
 - - - -
@@ -112,8 +112,8 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
 - - - -
 ## Parti Morali
 #### Liderlik Puanı Başına Parti Morali:
-  * **Kral değilken** : *~~12~~* --> *30*
-  * **Kral iken**     : *~~15~~* --> *60*
+  * **Kral değilken** : *~~12~~* --> *25*
+  * **Kral iken**     : *~~15~~* --> *50*
 
 
 - - - -
@@ -148,17 +148,17 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
   #
   * *Raporlar sekmesinde "Sonraki ödeme günü" bilgisi*
   #
-  * *Gemi ücreti* **~~60000~~** --> **8000**
+  * *Gemi ücreti* **~~60000~~** --> **16000**
   #
-  * Gezgin Kadın Verdiği Moral **~~4~~** --> **40**
+  * Gezgin Kadın Verdiği Moral **~~4~~** --> **20**
   #
   * Askerlere bira ısmarlama
-    * Birim fiyatı **~~25~~** --> **5**
-    * Verdiği moral **~~1~~** --> **5**
+    * Birim fiyatı **~~25~~** --> **15**
+    * Verdiği moral **~~1~~** --> **4**
     #
   * Askerlere şarap ısmarlama
-    * Birim fiyatı **~~50~~** --> **10** 
-    * Verdiği moral **~~2~~** --> **10**
+    * Birim fiyatı **~~50~~** --> **30** 
+    * Verdiği moral **~~2~~** --> **8**
   
   #
   * Normal okların ve kundaklı yay oklarının sayıları 40 arttırıldı. (Talim ve arena okları dahil değildir.)
