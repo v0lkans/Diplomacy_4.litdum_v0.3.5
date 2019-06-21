@@ -9,9 +9,9 @@ Yapay Zekâ lordlar yattığı yerden para kazanıp üstüne bir de oyuncunun ul
 
 - - - -
 ### İçerik
-  * [Yapım Sürecinin Zorluğu](https://github.com/v0lkans/Diplomacy_4.litdum_v0.3.5/blob/master/README.md#yapım-sürecinin-zorluğu)
-  * [Değişiklikler](https://github.com/v0lkans/Diplomacy_4.litdum_v0.3.5/blob/master/README.md#değişiklikler)
-  * [Türkçe dili hata düzeltme güncellemesi](https://github.com/v0lkans/Diplomacy_4.litdum_v0.3.5/blob/master/README.md#türkçe-dili-hata-düzeltme-güncellemesi)
+  * [Yapım Sürecinin Zorluğu](https://github.com/v0lkans/Diplomacy_4.litdum_v0.3.5#yapım-sürecinin-zorluğu)
+  * [Değişiklikler](https://github.com/v0lkans/Diplomacy_4.litdum_v0.3.5#değişiklikler)
+  * [Türkçe dili hata düzeltme güncellemesi](https://github.com/v0lkans/Diplomacy_4.litdum_v0.3.5#türkçe-dili-hata-düzeltme-güncellemesi)
   
   
 - - - -
