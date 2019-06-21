@@ -329,13 +329,13 @@ mno_center_build_watch_tower|Gözcü kulesi inşa et.
 mno_center_build_school|Okul inşa et.
 mno_center_build_messenger_post|Ulak karakolu inşa et.
 mno_center_build_prisoner_tower|Mahkûm kulesi inşa et.
-menu_center_improve|{s19}^Birliğinin mühendislik becerisi en yüksek üyesi olarak {s4} binasını inşa etmenin sana {reg5} dinar ve  {reg6} güne malolacağını ({reg2}), {reg3?tahmin ediyorsun:{s3} tahmin ediyor.}
+menu_center_improve|{s19}^Birliğinin mühendislik becerisi en yüksek üyesi olarak ({reg2}) {s4} binasını inşa etmenin sana {reg5} dinar ve  {reg6} güne mâl olacağını, {reg3?tahmin ediyorsun:{s3} tahmin ediyor.}
 mno_improve_cont|Devam et.
 mno_forget_it|Unut gitsin.
 mno_improve_not_enough_gold|Bunun için yeterli param yok.
 menu_town_bandits_failed|{s4} {s5}
 menu_town_bandits_succeeded|Haydutlar bıçakla tereyağını keser gibi devriliyorlar! Kısa zaman sonra saldırganlar bilinçsiz, ölü ya da can çekişirken sokakta tek başına kalıyorsun. Vücutları aradığında bu vahşilerin önceki kurbanına ait olması gereken bir cüzdan buluyorsun. Ya da belki de, onlara senin hayatına uygun bir son ayarlanmasını isteyen biri tarafından verilmişti.
-menu_village_steal_cattle_confirm|Grubun en yüksek yağma becerisine({reg2}) sahip olan üyesi olarak, {reg3?sen:{s1}} köyden {reg4} başa kadar sığır çalabileceğinizi {reg3?hesaplıyorsun:hesaplıyor}.
+menu_village_steal_cattle_confirm|Grubun en yüksek yağma becerisine({reg2}) sahip olan üyesi olarak, {reg3?:{s1} }köyden {reg4} başa kadar sığır çalabileceğinizi {reg3?hesaplıyorsun:hesaplıyor}.
 mno_village_steal_cattle_confirm|Devam...
 mno_forget_it|Unut gitsin.
 menu_village_steal_cattle|{s1}
@@ -457,7 +457,7 @@ mno_trade_with_horse_merchant|At tüccarıyla ticaret yap.
 mno_trade_with_goods_merchant|Erzak tüccarıyla alışveriş yap.
 mno_back_to_town_menu|Geri dön.
 menu_town_trade_assessment_begin|Yerel bölgedeki ticari malların fiyatları hakkında çeşitli konuşmalara kulak misafiri oluyorsun. Etraftaki en iyi anlaşmaları bulmaya çalışarak yakından dinliyorsun.
-menu_town_trade_assessment|Gruptaki ticaret becerisi en yüksek kişi olarak ({reg2}), fiyatları tahmin {reg3?ettin:{s1} etti}. {s2}
+menu_town_trade_assessment|Gruptaki ticaret becerisi en yüksek kişi olarak ({reg2}), {reg3?fiyatları tahmin ettin:{s1} fiyatları tahmin etti}. {s2}
 menu_sneak_into_town_suceeded|Fakir bir yolcu kılığına bürünmüş hâlde, muhafızları kandırıp şehre girmeyi başardın.
 menu_sneak_into_town_caught|Şehre sızmaya çalıştığın sırada muhafızlardan biri seni tanıyor ve diğerlerini uyarıyor! Şehirdeki tüm muhafızlar üstüne hücum etmeden önce, kapılardan gerisin geri kaçmanın yolunu bulmalısın.
 mno_sneak_caught_fight|Muhafız birliğini yararak kaçmaya çalış!
@@ -630,8 +630,8 @@ mno_dplmc_auto_loot_no| Eşya havuzunda terfi için yeterli yer yok.
 mno_dplmc_loot| Eşya havuzuna giriş.
 mno_dplmc_auto_loot_upgrade_management| NPC eşyaları yönetimi.
 menu_dplmc_auto_loot| Yoldaşların artık eşya havuzundan senin belirlediğin ayarlara göre yararlanabilir.İhtiyaç duyulmayan her şey eşya havuzuna gidecektir.Bunu yapmak istediğinden emin misin?
-mno_dplmc_autoloot_no| Hayır,Fikrimi değiştirdim.
-mno_dplmc_autoloot_yes| Evet,hallet bu işi.
+mno_dplmc_autoloot_no| Hayır, Fikrimi değiştirdim.
+mno_dplmc_autoloot_yes| Evet, hallet bu işi.
 menu_dplmc_notification_alliance_declared| İttifaklık Anlaşması^^{s1} ve {s2} müttefik oldu!^{s57}
 mno_dplmc_continue|Devam...
 menu_dplmc_notification_defensive_declared| Savunma Anlaşması^^{s1} ve {s2} savunma anlaşması imzaladı!^{s57}

@@ -201,7 +201,7 @@ qstr_{reg0}_town{reg1?s:}|{reg0} şehir
 qstr_{reg0}_town{reg1?s:}_|{reg0} şehir ve {s0}
 qstr_{reg0}_town{reg1?s:}_{|{reg0} şehir, {s0}
 qstr_Your_opponents_are_r|Rakiplerin dövüşe hazır.
-qstr_Try_to_destroy_as_ma|Olabildiğince fazla hedefi yoketmeye çalış. Pisti tamamlamak için iki buçuk dakikan var.
+qstr_Try_to_destroy_as_ma|Olabildiğince fazla hedefi yok etmeye çalış. Pisti tamamlamak için iki buçuk dakikan var.
 qstr_Stay_behind_the_line|Çizginin arkasında durup hedefleri vur. Boşa sallamamaya çalış.
 qstr_Battle_Advantage_=_{|Savaş Avantajı = {reg0}.
 qstr_{s9}_wants_you_to_re|{s9} sonraki emre kadar ordusunu takip etmeni istiyor.
@@ -217,7 +217,7 @@ qstr_{s3}_is_no_longer_un|{s3} artık kuşatma altında değil.
 qstr_Small_bands_of_enemi|{s1} yakınlarında ufak bir düşman grubu tespit edildi.
 qstr_Enemy_patrols_spotte|{s1} yakınlarında düşman grubu tespit edildi.
 qstr_Medium_sized_group_o|{s1} yakınlarında orta büyüklükte bir düşman grubu tepit edildi.
-qstr_Significant_group_of|{s1} yakınlarında kalabalık bir düşman grubu tespit edildi..
+qstr_Significant_group_of|{s1} yakınlarında kalabalık bir düşman grubu tespit edildi.
 qstr_Army_of_enemies_spot|Düşman ordusu {s1} yakınlarında tespit edildi.
 qstr_Large_army_of_enemie|Kalabalık bir düşman ordusu {s1} yakınlarında tespit edildi.
 qstr_Great_host_of_enemie|Dev bir düşman ordusu {s1} yakınlarında tepsit edildi.
@@ -799,7 +799,7 @@ qstr_{reg0}_denars|{reg0} dinar
 qstr_no|0
 qstr_{s60}_is_currently_o|{s60} asiler tarafından ele geçirildi, bir an önce onlarla yüzleşmelisin.
 qstr__We_are_expecting_{r| Kiralardan {reg0} dinar toplamayı bekliyoruz.
-qstr__The_troop_wages_for| Birlik maaşları {reg0} dinar ve birlikler {reg1} dinara mal oluyor.
+qstr__The_troop_wages_for| Birlik maaşları {reg0} dinar ve birlikler {reg1} dinara mâl oluyor.
 qstr_{s61}_and_{reg0}_den|{s61} ve {reg0} dinar vergilerden bekliyoruz.
 qstr_Well_{s60}.|Güzel, {s60}.
 qstr_{s4}_{s3}._The_tax_r|{s4} {s3}. Vergi oranı {s50}.{s59}{s61}. Toplamda {s62} dinar ediyor.
@@ -910,7 +910,7 @@ qstr_your_lordship|senin lordluğun
 qstr_A_{s5}?_Well..._Yes_|Bir {s5}? Sanırım öyle. Ne kadar ilginç bir soru bu.
 qstr_Eh?_No_it_most_certa|Eh? Hayır! Bu kesinlikle bir {s5} değil. Yerinde olsam gözlerimi bir kontrol ederdim.
 qstr_This_is_the_{reg4?to|Burası {s5} {beyim/hanımım}.
-qstr_{s6}_Our_{reg4?town:|{s6} içinde bulunduğumuz topraklar tabiki siz {beyime/hanımıma} aittir.
+qstr_{s6}_Our_{reg4?town:|{s6} içinde bulunduğumuz topraklar tabii ki siz {beyime/hanımıma} aittir.
 qstr_{s6}_Our_{reg4?town:v|{s6} içinde bulunduğumuz toprakların sahibi {s8}ndan {s7} olur.
 qstr_{s3}_and_{s5}|{s3} ve {s5}
 qstr_{reg20?We_mostly_pro|{reg20?Burada genelde {s5} üretiyoruz:Şu sıralar pek bir şey ürettiğimiz yok}. Eğer daha fazla öğrenmek istiyorsan {reg4?lonca başkanımızla:ihtiyarımızla} konuşabilirsin. Hemen şurada, ileride.
@@ -943,7 +943,7 @@ qstr_But_you_do_not_have_|Ama, senin bizim gibi hanımları karşılamaya yetece
 qstr_As_long_as_you_have_|Ödeyebildiğin sürece elbette var! Kızlara söyleyeyim hazırlansınlar. Odalarımızda bekliyor olacağız.
 qstr_Your_party_morale_ha|Grup morali yükseldi!
 qstr_Your_army_s_morale_h|Grup morali yükseldi!
-qstr_Of_course_{sir/madam|Tabiki efendim. En kısa zamanda hazır olacak.
+qstr_Of_course_{sir/madam|Tabii ki efendim. En kısa zamanda hazır olacak.
 qstr_You_don_t_have_enough|Üzgünüm! Yeterince paran yok.
 qstr_You_should_leave_15_|Gemini korumaları için en az 15 adamı geride bırakmalısın, aksi takdirde gemin çalınabilir.
 qstr_There_is_no_port_in_|Buralarda hiç liman yok.

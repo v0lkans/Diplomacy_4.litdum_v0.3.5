@@ -352,7 +352,7 @@ str_round_up_serfs|Bir soylu namına köle toplamamız
 str_battle_fate_1|Savaş hengamesi içinde birbirimizi kaybetmemiz
 str_battle_fate_2|Yaralandım ve ölüme terk edildim
 str_battle_fate_3|Düşmanlar tarafından bayıltıldım
-str_battle_fate_4|Yakalandım ve fidye için tutuldum.
+str_battle_fate_4|Yakalandım ve fidye için tutuldum
 str_battle_fate_5|Yakalandım, ama kaçmayı başardım
 str_npc_morale_report|Yandaş seçiminiz konusunda {s6}, liderlik tarzınız konusunda {s7} ve genel olarak bakarsak {s8} haldeyim.
 str_happy|mutlu
@@ -770,7 +770,7 @@ str_npc14_home_intro|Şuradaki kayaların tepesindeki hisarı görüyor musunuz?
 str_npc15_home_intro|Tepedeki kaleyi görüyor musunuz? Culmarr Kalesi derler ona. Yakın zamanda orada çalışmıştım. Diğerleri kadar şatafatlı görünmüyor kuşkusuz, ama diyardaki en iyi taş işçiliğini burada görebilirsiniz.
 str_npc16_home_intro|Şefim! Şuradakileri görüyor musunuz? Şurada karın üzerindekiler tavşan izleri! Doğduğum yerin çok yakınında olmalıyız.
 str_npc1_home_description|Kergitler hep buralarda yaşadılar, eski çağdan beri. Diğer kavimleri dışarıda tutmak için imparator onlara para ve toprak verdi. Dedemin bir Kergit kabile şefi olduğu söylenmişti bana, ancak ben babamı ne kadar tanıyabildiysem annem de dedemi o kadar tanıyabilmiş. Annem genç bir kızken Kergitler dağların ardından gelmeye başlamışlar. Şimdi ise Tulga'da bir Kergit Kağan'ı var.
-str_npc2_home_description|İnsanlar Nordların kana susamış barbarlar olduğunu söylerler ama bana sorarsanız ticareti de iyi yapıyorlar. Kıyı boyunca insanlara keten yetiştirtip, kendileri daha sonra dokumasını yapıyorlar. Lüks bir kumaş olarak Jelkala ipeğiyle yarışamaz tabiki ama rahat bir yaz kıyafeti oluyor ve gemilerin yelken yapımında bunu kullanabiliyorsun.. Daha da önemlisi, onlardan önce Kalradya'da keten dokumayı yapan başkaları yoktu.
+str_npc2_home_description|İnsanlar Nordların kana susamış barbarlar olduğunu söylerler ama bana sorarsanız ticareti de iyi yapıyorlar. Kıyı boyunca insanlara keten yetiştirtip, kendileri daha sonra dokumasını yapıyorlar. Lüks bir kumaş olarak Jelkala ipeğiyle yarışamaz tabii ki ama rahat bir yaz kıyafeti oluyor ve gemilerin yelken yapımında bunu kullanabiliyorsun.. Daha da önemlisi, onlardan önce Kalradya'da keten dokumayı yapan başkaları yoktu.
 str_npc3_home_description|Veluca'da kışlar ıslak ve yazlar da sıcaktır ama insanlar burada tarlalarını sulamak için büyük sarnıçlar inşa ettiler. Üzüm yetiştiriyorlar. Veluca şarabı meşhurdur, {beyim/hanımım}. Şarabı alabilecek parası olanlar duvarlı bahçelerde yaşayıp, geceleri ince nameler eşliğinde satranç oynarlar.
 str_npc4_home_description|Svadya Kralı burayı kendi av alanı olarak ilan etti ve biri çıkıp buraya yayını asacak bile olsa idam edilmesini emretti. Sonra ne mi oldu? Açlık çeken bir aile artık dayanamadı ve kendilerini buradan doyurdular, bir bekçi onları gördü ve baba asılıp toprakları da ellerinden alındı. Oğlanlar aç kalmak yerine haydut olmayı tercih ettiler. Tabi artık doğal olarak vadide ne kadar borçlu, alacaklı, aldatılan, aldatan, ne kadar derdi olan insan varsa gelip onlara katılıyor.
 str_npc5_home_description|Kergitler sürekli buraya gelip avlanıp, ticaret yapıp yağmalarlardı ancak imparatorluğun son zamanlarında buraya yerleşmeyi tercih ettiler. Vaegirler, Svadyalılar, Rodoklar, Nordlar ve Sarran hanedanlığı gibi biz de diğer kavimleri sınırlarda tutmak için imparator tarafından maaşa bağlanmıştık. Ancak dedemin zamanında Büyük Güruh saldırdığında zor kullanarak bu bölgeye hareket ettik. Vaegirleri geri çekilmeye zorlayarak kalelerini ele geçirdik.
@@ -779,7 +779,7 @@ str_npc7_home_description|Evlenmeden önce ve çapulcular tarafından kaçırıl
 str_npc8_home_description|Hikâyeyi duymamış mıydınız? Gundig Hairy-Breeks Nordland'dan Kalradya'ya geldiğinde, sancağını kıyıda yere sapladı ve ona kalan 'mirasını' alana kadar o sancağın orada duracağını beyan etti. 'Mirasım' demişti. Gundig, imparatorun Kalradya'yı Nordlara devrettiği söylentisine inanmıştı, halbuki imparator sadece küçük bir kıyı şeridini, o da kalyonlarına mürettebat olmaları için Nordlara bırakmıştı.
 str_npc9_home_description|Nordlar uzun tekneleriyle nehirden yukarı yelken açarlardı. Kıyı şeridindeki şehirler onları durdurabilirlerdi, ancak bugün de olduğu gibi o zamanlar da korkaktılar ve rahatsız edilmemek adına artık Nordgeld olarak anılan yıllık haraçlarını ödediler.. Ama Vaegir kralı ödeme yapmayı reddetti. Babam Vaegirlerle savaşmak için dağlardan harekete geçti. Arka arkaya üç yaz boyunca Kaya'yı ele geçirmeye çalıştılar, her defasında Vaegir lordları onları püskürttü.
 str_npc10_home_description|Babamın zamanında Svadyalılar kuvvet hâlinde gelip, yerlere kadar eğilerek lordlarını kabul ve buyur edeceğimizi düşünürlerdi. Ama tepelerden gelen eski bir savaş gazisi olan Grunwalder bize mızrak, kargı ve tataryaylarıyla bir Svadya hücumunu kesebilecek kadar güçlü bir hat kurmayı öğretti. Her ne kadar savaşta düşmüş olsa da, adının daima hatırlanması ve süvarilerin akınlarına karşı dimdik ayakta durabilmemiz için öldüğü yerde kurulan kaleye onun adı verildi.
-str_npc11_home_description|Ben Pravenliyim. Ne derler bilirsiniz, {beyim/hanımım} – 'Uxkhal'da yetişen arpa Praven'de bira olur ve biz bundan daha iyiyiz.' Ne olduğundan tam olarak emin değilim, {beyim/hanımım}, ama arpa un ve tahılla ilgili olan kısmı doğru. Burada, Uxkhal vadisinde bütün Kalradya'nın kalanından daha fazla arpa yetiştiriyoruz ve biramız da en iyisi tabi. Bunu toprakta da gözlemleyebilirsin – zengin ve kara, aynı iyi bir hasat ve doymuş göbekler gibi kokuyor!
+str_npc11_home_description|Ben Uxkhal'lıyım. Ne derler bilirsiniz, {beyim/hanımım} – 'Uxkhal'da yetişen arpa Praven'de bira olur ve biz bundan daha iyiyiz.' Ne anlama geldiğinden tam olarak emin değilim, {beyim/hanımım}, ama arpa un ve tahılla ilgili olan kısmı doğru. Burada, Uxkhal vadisinde bütün Kalradya'nın kalanından daha fazla arpa yetiştiriyoruz ve biramız da en iyisi tabi. Bunu toprakta da gözlemleyebilirsin – zengin ve kara, aynı iyi bir hasat ve doymuş göbekler gibi kokuyor!
 str_npc12_home_description|Almerra Kalesinin lordu su toplaması sıkıntısıyla boğuşurmuş. Uxkhal'dan kendisini tedavi etmesi için bir doktor getirtmiş. Tabi her tipik üniversite eğitimli doktor gibi, direk olarak Galerian'dan medet ummuş. Galerian su toplamasına altın suyunun iyi geldiğini söyler. İlk yazıya geçirildiğinde, yani ta eski Kalradya imparatorluğunun zamanında Galerian'ın sözleri geçerliliğini kaybetmeye başlamıştı. Günümüzde iki katı daha işe yaramaz kaldılar fakat nadir de olsa şansına doğru teşhis ve tedavi yöntemini ortaya koyabiliyor: altın suyu gerçekten de düşük dozlarda tatbik edildiği zaman su toplamasına faydalı olabiliyor. Ancak Galerian şakşakçılarının hâlâ daha farkına varamadıkları şekilde, daha yüksek dozlarda altın suyu zehire dönüşüyor.
 str_npc13_home_description|Buraya ufak bir Svadya birliğiyle gelmem gerekiyordu ancak ormanlık alanda Rodoklar saldırdı ve süvarileri de ağaçların arasında katlettiler. Ben kaçtım ve göl kenarında, hayatımda gördüğüm en hoş, en alımlı çobanın kollarında sığınak buldum. Beni yükseklerde bir mağaraya götürdü, orada bana peynir ve böğürtlen getirir ve vadiden haberler anlatırdı. Gölün yeraltı dünyasına bir geçiş kapısı olduğunu söylerler ve hatta bazen su altında yüzeye doğru fokurdayarak yükselen bacaları görebilirsiniz. O kadar kabalar ki!
 str_npc14_home_description|“Denemek” diyorum çünkü bence Vaegirler disipline girmeyi beceremiyorlar. Gördüğünüz en iyi okçular, aynı zamanda da iyi süvaridirler fakat aynı zamanda ama düzenli bir mevzide savaşmayı beceremezler. Kabiliyetleri Kergitler ve Nordlara karşı işe yarıyor, özellikle bir duvarın arkasına saklanabildiklerinde. Fakat Sarranidlerin oku meydan okur cinstendir ve Svadya şovalyelerinin Vaegir hatlarını jilet gibi kestiğini gördüm. Şimdi, Svadyalıları durdurmak için bir Rodok mızrak duvarı tasarlandı ve çoğunlukla işe yarıyor.
@@ -987,7 +987,7 @@ str_comment_intro_famous_martial|Şöhretin senden önde gidiyor! Belki bir gün
 str_comment_intro_famous_badtempered|Adını daha önce de duymuştum! Öyle laf kalabalığı yapılmasını sevmem. Diyeceğin bir şey varsa hemen söyle!
 str_comment_intro_famous_pitiless|Senin adını duymuştum. Askerlerin içine korku salan bir isim. Bu iyi. Belki de ikimiz biraz konuşmalıyız.
 str_comment_intro_famous_cunning|Ah, evet. Nihayet karşılaştık. Tanışılmaya değer bir {adama/kadına} benziyorsun. Arada bir konuşalım.
-str_comment_intro_famous_sadistic|Adını biliyorum – ve duyduklarıma göre yas tutan pek çok dul kadın da biliyor. Ama bu benim meselem değil tabiki.
+str_comment_intro_famous_sadistic|Adını biliyorum – ve duyduklarıma göre yas tutan pek çok dul kadın da biliyor. Ama bu benim meselem değil tabii ki.
 str_comment_intro_famous_goodnatured|Seni daha önce duymuştum! Nihayet tanıştığıma çok memnun oldum.
 str_comment_intro_famous_upstanding|Adını biliyorum. Pek yiğit bir savaşçıymışsın. Umarım şerefin ve merhametin de yiğitliğine yakışır tabiattadır.
 str_comment_intro_noble_liege|Soylu birinin sancağını taşıdığını görüyorum, ama sancağın kendisini tanımıyorum. Aklında olsun, her zaman benim için savaşacak iyi adamlara ihtiyacım var, güvenime layık olduklarını ispatlamak kaydıyla tabii.
@@ -1951,7 +1951,7 @@ str_s18_entered_into_a_little_deal_with_me_and_is_now_trying_to_wriggle_out_of_i
 str_s18_once_ran_an_errand_for_me_and_now_thinks_i_owe_him_something_i_owe_his_ilk_nothing|{s18} bir keresinde ufak bir işimi halletmişti ve şimdi ona borçlu olduğumu düşünüyor. Ona borçlu falan değilim.
 str_s18_is_soft_and_weak_and_not_fit_to_govern_a_fief_and_i_have_always_detested_him|{s18} mülayim ve zayıf ve toprak sahibi olmak için uygun biri değil, gözümde hiçbir zaman bir değeri olmayacak.
 str_s18_is_a_quarrelsome_oaf_and_a_liability_in_my_opinion_and_ive_let_him_know_as_much|{s18} benim tanıdığım kadarıyla kavgacı budalanın teki ve onu yeterince tanıyorum.
-str_s18_i_am_sorry_to_say_is_far_too_softhearted_a_man_to_be_given_any_kind_of_responsibility_his_chivalry_will_allow_the_enemy_to_flee_to_fight_another_day_and_will_cost_the_lives_of_my_own_faithful_men|{s18}, bunu söylediğim için üzgünüm ama, herhangi bir sorumluluğu kaldıramayacak kadar yufka yürekli. Şövalyeleri savaşta düşmanlarına acıyıp serbest bırakacak ve bu durum, başka bir gün düşmalar geri döndüğünde benim vefalı askerlerimin canına mal olacaktır.
+str_s18_i_am_sorry_to_say_is_far_too_softhearted_a_man_to_be_given_any_kind_of_responsibility_his_chivalry_will_allow_the_enemy_to_flee_to_fight_another_day_and_will_cost_the_lives_of_my_own_faithful_men|{s18}, bunu söylediğim için üzgünüm ama, herhangi bir sorumluluğu kaldıramayacak kadar yufka yürekli. Şövalyeleri savaşta düşmanlarına acıyıp serbest bırakacak ve bu durum, başka bir gün düşmalar geri döndüğünde benim vefalı askerlerimin canına mâl olacaktır.
 str_s18_seems_to_have_something_against_me_for_some_reason_i_dont_like_to_talk_ill_of_people_but_i_think_hes_can_be_a_bit_of_a_cad_sometimes|{s18} bazı sebeplerden dolayı benimle bir sıkıntısı varmış gibi görünüyor. İnsanların kötü huylarından bahsetmekten hoşlanmam fakat bazen biraz aşağılık biri olabiliyor
 str_s18_has_always_treated_me_contemptuously_although_i_have_done_him_no_wrong|{s18}, ona hiçbir yanlış yapmama rağmen beni hep küçük görmüştür.
 str_s18_is_thoroughly_dishonorable_and_a_compulsive_spinner_of_intrigues_which_i_fear_will_drag_us_into_wars_or_incite_rebellions|{s18} onursuz birisi ve bizi savaşlara ve isyana sürükleyeceğinden korktuğum entrikalar sergiliyor.
@@ -2376,7 +2376,7 @@ str_militarily_you_would_have_me_join_you_only_to_find_myself_isolated_amid_a_se
 str_militarily_youre_in_no_position_to_come_to_my_help_if_someone_attacked_me_youd_let_me_be_cut_down_like_a_dog_id_bet|Askeri düşünürsek, ben bir saldırıya maruz kaldığımda, gelip bana yardım edebilecek durumda değilsin. Bahse girerim , bir savaş durumunda köpekler gibi öldürülmeme müsaade ederdin.
 str_militarily_i_wouldnt_be_any_safer_if_i_joined_you|Askeri düşünürsek, sana katıldığımda şimdi olduğumdan daha güvende olmazdım.
 str_militarily_i_might_be_safer_if_i_joined_you|Askeri düşünürsek, sana katıldığımda daha güvende olurum.
-str_finally_there_is_a_cost_to_ones_reputation_to_change_sides_in_this_case_the_cost_would_be_very_high|Sonuç olarak, birisine sunduğu sadaketten vazgeçmeyi planlayan birisi, dikkatli düşünmeli, mantıklı bir sebebi olsa dahi, sadakatinden çok çabuk vazgeçen birisi olarak isim yapmak iyi değildir. Böyle bir durum, itibarıma çok pahalıya mal olurdu.
+str_finally_there_is_a_cost_to_ones_reputation_to_change_sides_in_this_case_the_cost_would_be_very_high|Sonuç olarak, birisine sunduğu sadaketten vazgeçmeyi planlayan birisi, dikkatli düşünmeli, mantıklı bir sebebi olsa dahi, sadakatinden çok çabuk vazgeçen birisi olarak isim yapmak iyi değildir. Böyle bir durum, itibarıma çok pahalıya mâl olurdu.
 str_finally_there_is_a_cost_to_ones_reputation_to_change_sides_in_this_case_the_cost_would_be_significant|Sonuç olarak, birisine sunduğu sadaketten vazgeçmeyi planlayan birisi, dikkatli düşünmeli, mantıklı bir sebebi olsa dahi, sadakatinden çok çabuk vazgeçen birisi olarak isim yapmak iyi değildir. Böyle bir durum itibarıma kayda değer bir zarar verirdi.
 str_finally_there_is_a_cost_to_ones_reputation_to_change_sides_in_this_case_however_many_men_would_understand|Sonuç olarak, birisine sunduğu sadaketten vazgeçmeyi planlayan birisi, dikkatli düşünmeli, mantıklı bir sebebi olsa dahi, sadakatinden çok çabuk vazgeçen birisi olarak isim yapmak iyi değildir. Bir çok adam bunu  anlayacaktır.
 str_i_will_not_have_it_be_said_about_me_that_i_am_a_traitor_that_is_my_final_decision_i_have_nothing_more_to_say_on_this_matter|Kendime asla hain dedirtmem, son sözüm budur, bu konuda söyleyecek başka hiçbir şeyim yok.
@@ -2409,7 +2409,7 @@ str_both_sides_have_suffered_in_the_fighting|Savaş iki taraf içinde ızdırapl
 str_no_clear_winner_has_yet_emerged_in_the_fighting_but_i_think_we_are_getting_the_better_of_them|Savaşta galip olan taraf henüz kesinleşmedi, fakat onlardan üstün durumda olduğumuzu düşünüyorum.
 str_no_clear_winner_has_yet_emerged_in_the_fighting_but_i_fear_they_may_be_getting_the_better_of_us|Savaşta galip olan taraf henüz kesinleşmedi, fakat korkarım onlar bizden iyi durumda.
 str_no_clear_winner_has_yet_emerged_in_the_fighting|Savaşta galip olan taraf henüz kesinleşmedi.
-str_there_is_no_campaign_currently_in_progress|Halihazırda süregelen bir seferberlik yok.
+str_there_is_no_campaign_currently_in_progress|Hâlihazırda süregelen bir seferberlik yok.
 str_we_are_assembling_the_army|Orduyu topluyoruz.
 str_we_aim_to_take_the_fortress_of_s8|{s8} kalesini almayı hedefliyoruz.
 str_we_are_on_a_raid_and_are_now_targeting_s8|Şu an akındayız ve hedefimiz {s8}
@@ -2481,7 +2481,7 @@ str_s8_in_s12|{s12} topraklarında
 str__has_put_together_a_bounty_on_some_bandits_who_have_been_attacking_travellers_in_the_area| seyyahlara saldıran haydutların başına ödül koymuş.
 str__is_looking_for_a_way_to_avoid_an_impending_war| muhtemel bir savaştan kaçınmanın yollarını arıyor.
 str__may_need_help_rescuing_an_imprisoned_family_member| esir edilmiş bir aile ferdini kurtarmak için yardıma ihtiyaç duyabilir.
-str__has_been_asking_around_for_someone_who_might_want_work_id_watch_yourself_with_him_though| etrafta, iş isteyen birisi var mı diye dolanıyor. Yerinde olsam ona dikkat ederdim.
+str__has_been_asking_around_for_someone_who_might_want_work_id_watch_yourself_with_him_though| etrafta, iş isteyen birisi var mı diye dolanıyor.
 str_town|şehir.
 str_castle|kale.
 str__but_he_is_holding_there_as_a_prisoner_at_dungeon_of_s13 |Fakat o {s13} zindanında esir olarak tutuluyor,
@@ -2616,7 +2616,7 @@ str_army_size|Ordu Büyüklüğü
 str_reg0_men|{reg0} kişi
 str_start|Başla
 str_i_need_to_raise_some_men_before_attempting_anything_else|Başka bir şeye kalkışmadan önce biraz adam toplamalıyım
-str_we_are_currently_at_peace|şu anda barış hâlindeyiz
+str_we_are_currently_at_peace|Şu anda barış hâlindeyiz
 str_the_marshalship|mareşallik
 str_you|sen
 str_myself|Kendim
@@ -2662,7 +2662,7 @@ str_center_strength_not_scouted|Orayı henüz araştırmadık, yani ne kadar iyi
 str_center_strength_strongly_defended|İyi savunulduğuna inanıyoruz
 str_center_strength_moderately_defended|Orta düzeyde savunulduğuna inanıyoruz
 str_center_strength_weakly_defended|Kötü savunulduğuna inanıyoruz
-str_center_distant_from_concentration|, yerini tespit etmiş olduğumuz ordu, bize ana düşman ordusundan daha yakın. Onlar karşılık verene kadar saldırılıp, yokedilebilir
+str_center_distant_from_concentration|, yerini tespit etmiş olduğumuz ordu, bize ana düşman ordusundan daha yakın. Onlar karşılık verene kadar saldırılıp, yok edilebilir
 str_plus|+
 str_minus|-
 str_tutorial_training_ground_warning_no_weapon|Hey, bunu denemeden önce bir silaha ihtiyacın var. Orada birkaç yedek silah olması lazım. Git ve birini al.
@@ -2874,22 +2874,22 @@ str_dplmc_relation_plus_60_ns|{s59} ile cana yakın bir ilişkisi var.
 str_dplmc_relation_plus_70_ns|{s59} ile arası iyi, aşırı düşkün.
 str_dplmc_relation_plus_80_ns|{s59} ile arası iyi, sadık gözüküyor.
 str_dplmc_relation_plus_90_ns|{s59} ile arası çok iyi, kendini adamış.
-str_dplmc_s39_rival|buna ek olarak rekabet hâlinde olduğu kişiler; {s39}
+str_dplmc_s39_rival| Buna ek olarak rekabet hâlinde olduğu kişiler; {s39}
 str_dplmc_s41_s39_rival|{s41}, {s39}
 str_dplmc_s40_love_interest_s39|{s40} ayrıca {s39} ile aşk yaşıyor.
 str_dplmc_s40_betrothed_s39|{s40} ayrıca {s39} ile nişanlı.
-str_dplmc_reputation_martial|{s46} için cesur olduğu söyleniyor
-str_dplmc_reputation_debauched|{s46} için ayartıcı biri olduğu söyleniyor
-str_dplmc_reputation_pitiless|{s46} için acımasız biri olduğu söyleniyor
-str_dplmc_reputation_calculating|{s46} için çıkarcı biri olduğu söyleniyor
-str_dplmc_reputation_quarrelsome|{s46} için huysuz biri olduğu söyleniyor
-str_dplmc_reputation_goodnatured|{s46} için iyi niyetli biri olduğu söyleniyor
-str_dplmc_reputation_upstanding|{s46} için olağanüstü biri olduğu söyleniyor
-str_dplmc_reputation_conventional|{s46} için basmakalıp biri olduğu söyleniyor
-str_dplmc_reputation_adventurous|{s46} için maceraperest olduğu söyleniyor
-str_dplmc_reputation_romantic|{s46} için romantik biri olduğu söyleniyor
-str_dplmc_reputation_moralist|{s46} için olumlu düşünen biri olduğu söyleniyor
-str_dplmc_reputation_ambitious|{s46} için hırslı biri olduğu söyleniyor
+str_dplmc_reputation_martial|{s46} için cesur olduğu söyleniyor.
+str_dplmc_reputation_debauched|{s46} için ayartıcı biri olduğu söyleniyor.
+str_dplmc_reputation_pitiless|{s46} için acımasız biri olduğu söyleniyor.
+str_dplmc_reputation_calculating|{s46} için çıkarcı biri olduğu söyleniyor.
+str_dplmc_reputation_quarrelsome|{s46} için huysuz biri olduğu söyleniyor.
+str_dplmc_reputation_goodnatured|{s46} için iyi niyetli biri olduğu söyleniyor.
+str_dplmc_reputation_upstanding|{s46} için olağanüstü biri olduğu söyleniyor.
+str_dplmc_reputation_conventional|{s46} için basmakalıp biri olduğu söyleniyor.
+str_dplmc_reputation_adventurous|{s46} için maceraperest olduğu söyleniyor.
+str_dplmc_reputation_romantic|{s46} için romantik biri olduğu söyleniyor.
+str_dplmc_reputation_moralist|{s46} için olumlu düşünen biri olduğu söyleniyor.
+str_dplmc_reputation_ambitious|{s46} için hırslı biri olduğu söyleniyor.
 str_dplmc_reputation_unknown|{s46} ile ilgili bir bilgi yok.
 str_dplmc_s21__the_s5_is_bound_by_alliance_not_to_attack_the_s14s18_it_will_expire_in_reg1_days|{s21}^* {s5}{s14} ile ittifak anlaşması imzaladı. {s18} Anlaşma {reg1} gün sonra savunma anlaşmasına dönüşecek.
 str_dplmc_s21__the_s5_is_bound_by_defensive_not_to_attack_the_s14s18_it_will_expire_in_reg1_days|{s21}^*{s5}{s14} ile savunma anlaşması imzaladı. {s18} Anlaşma {reg1} gün sonra ticaret anlaşmasına dönüşecek.

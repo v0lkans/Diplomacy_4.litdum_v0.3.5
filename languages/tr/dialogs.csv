@@ -338,7 +338,7 @@ dlga_companion_recruit_backstory_delayed_response:companion_recruit_signup_b|Siz
 dlga_companion_recruit_backstory_delayed_response:close_window|Bir şey duyarsam haber veririm.
 dlga_companion_recruit_signup_confirm:close_window|Güzel! Bana hazırlanmam için biraz zaman verin, ardından yola çıkmaya hazır olurum.
 dlga_start:companion_rehire|Size tekrar katılma önerim hâlâ geçerli, tabii eğer beni grubunuzda isterseniz.
-dlga_start:companion_rehire.1|Hayatta olduğunu görmek güzel, {s5}! {s6} ve o zamandan beri yakalandın mı, öldürüldün mü yoksa kaçtın mı bilemedim. O zamandan beri arıyordum. Eşyalarımı toplayıp grubuna tekrar katılayım mı?
+dlga_start:companion_rehire.1|Hayatta olduğunu görmek güzel, {s5}! {s6}... O zamandan beri yakalandın mı, öldürüldün mü yoksa kaçtın mı bilemedim. O zamandan beri arıyordum. Eşyalarımı toplayıp grubuna tekrar katılayım mı?
 dlga_start:companion_prison_break_chains|Seni buradan çıkartmaya geldim.
 dlga_companion_prison_break_chains:close_window|Şükürler olsun ki geldin! Anahtarı nöbetçiden bir yolunu bulup alman lazım.
 dlga_start:companion_rehire.2|{s5}
@@ -619,8 +619,8 @@ dlga_lord_meet_enemy:lord_intro.1|Beni {playername} diye bilirler. Bu ismi aklı
 dlga_start:lord_start.12|{s8}
 dlga_lord_start:lord_start|{s42}
 dlga_lair_quest_intermediate_1:lord_pretalk|Harika iş çıkardın, {playername} – cüretkâr saldırın bütün diyarın dilinde. Şüphesiz ki onlar ya da onlar gibileri yakında geri dönerler, ancak kısa bir süreliğine bu topraklara bir soluk aldırdın. Sana minnettarız.
-dlga_lair_quest_intermediate_2:lord_pretalk|Evet, {playername}, görünen o ki haydutların bazıları elinden kaçtılar – ve tabiki, bunun bedelini buraların zavallı yolcuları ödeyecek. Yine de elinden geleni yaptın. Ne yapalım.
-dlga_lord_start:lord_generic_mission_completed|Cerrahınız arkadaşımı ikna etmeyi başardı ve ameliyatı gerçekleştirdi. İş artık Tanrı'ya kaldı ve yapabileceğimiz tek şey iyileşmesi için dua etmek. Her neyse, cerrahınızı ödünç verdiğim için teşekkür ederim, {dostum/madam}. Asil bir ruhunuz var, bunu unutmayacağım.
+dlga_lair_quest_intermediate_2:lord_pretalk|Evet, {playername}, görünen o ki haydutların bazıları elinden kaçtılar – ve tabii ki, bunun bedelini buraların zavallı yolcuları ödeyecek. Yine de elinden geleni yaptın. Ne yapalım.
+dlga_lord_start:lord_generic_mission_completed|Cerrahınız arkadaşımı ikna etmeyi başardı ve ameliyatı gerçekleştirdi. İş artık Tanrı'ya kaldı ve yapabileceğimiz tek şey iyileşmesi için dua etmek. Her neyse, cerrahınızı ödünç verdiğiniz için teşekkür ederim, {dostum/madam}. Asil bir ruhunuz var, bunu unutmayacağım.
 dlga_lord_start:wedding_ceremony_bride_vow|Gökler şahidim olsun ki, kızım {s4} sizinle evlenecektir.
 dlga_lord_start:lord_wedding_reschedule|Sizi görmek ne güzel, {playername}. Nikâhı dört gözle bekliyoruz ve ziyafet için toplanır toplanmaz töreni yapacağız.
 dlga_lord_wedding_reschedule:lord_start|Sorun değil. Beklerim.
@@ -670,7 +670,7 @@ dlga_lord_deliver_cattle_to_army_thank:lord_pretalk.2|Çocuk oyuncağıydı.
 dlga_lord_start:lord_scout_waypoints_thank|İyi iş çıkardın {playername}. Ulağım az önce {s13}, {s14} ve {s15} görevlerinin raporunu getirdi. Aferin.
 dlga_lord_scout_waypoints_thank:lord_pretalk|Basit bir görevdi, {s65}.
 dlga_lord_scout_waypoints_thank:lord_pretalk.1|Yapamayacağım bir şey değildi.
-dlga_lord_scout_waypoints_thank:lord_pretalk.2|Memnun oldum, efendim.
+dlga_lord_scout_waypoints_thank:lord_pretalk.2|Memnun oldum, {s65}.
 dlga_lord_start:lord_mission_told_deliver_cattle_to_army|Ordunun erzakları hızlıca tükeniyor, {playername}. Bana askerleri tok tutmam için {reg3} baş sığır getirmen gerekiyor. Nereden alacağın pek de umrumda değil, sadece en yakın zamanda getir yeter.
 dlga_lord_mission_told_deliver_cattle_to_army:lord_mission_told_deliver_cattle_to_army_accepted|Pekâlâ, size ihtiyacınız kadar sığır bulacağım.
 dlga_lord_mission_told_deliver_cattle_to_army:lord_mission_told_deliver_cattle_to_army_rejected|Üzgünüm efendim, başka planlarım var.
@@ -1393,7 +1393,7 @@ dlga_lord_mission_told_raid_caravan_to_start_war:quest_raid_caravan_to_start_war
 dlga_lord_mission_tell_raid_caravan_to_start_war_2:lord_mission_tell_raid_caravan_to_start_war_3|Ah, nihayet laftan anlayabilen biriyle karşılaştım. İşin aslı, seninle birlikte yapabileceğimiz bir şeyler var, {playername}. Birilerini kışkırtacağız birazcık. Eğer ordularımızdan biri onların bölgesine girip, kervanlarını veya köylerinden birkaçını talan edebilirse ve belkide arkalarından bir iz bırakırlarsa, bize savaş açmak için tonla sebepleri olmuş olacaktır. Ondan sonra, Pekâlâ, aramızdaki korkaklar bile kendilerini savunmak için harekete geçmek zorunda kalacak. Ne dersin peki? Var mısın?
 dlga_lord_mission_tell_raid_caravan_to_start_war_3:quest_raid_caravan_to_start_war_accepted|Kusursuz bir plan! Ben varım!
 dlga_lord_mission_tell_raid_caravan_to_start_war_3:lord_mission_tell_raid_caravan_to_start_war_4|Neden bunu kendin yapmıyorsun?
-dlga_lord_mission_tell_raid_caravan_to_start_war_4:lord_mission_tell_raid_caravan_to_start_war_5|Nihayetinde, {playername}, lordların bir kısmı krallık sınırları içerisinde kendileri haberdar edilmeden savaş başlatılmış olmasından hiç de hoşnut olmayacaklar. Beni alaşağı etmek için zaten fırsat kolluyorlar kendimi böyle bir duruma sokarsam ellerine ihtiyaçları olan bütün kozları vermiş olurum. Ancak öteyandan sen, genç, sevilen ve girişkenliğiyle tanınan birisin. Yani bu işten daha kolay sıyrılabilirsin. Ben de bu sırada senin arkanı kolluyor olacağım tabiki. Sonuçta birkaç lord senin bu yersiz görünen girişiminden rahatsız olmuş olabilir, ama emin ol ki sen bunlarla kafanı yormayacaksın
+dlga_lord_mission_tell_raid_caravan_to_start_war_4:lord_mission_tell_raid_caravan_to_start_war_5|Nihayetinde, {playername}, lordların bir kısmı krallık sınırları içerisinde kendileri haberdar edilmeden savaş başlatılmış olmasından hiç de hoşnut olmayacaklar. Beni alaşağı etmek için zaten fırsat kolluyorlar kendimi böyle bir duruma sokarsam ellerine ihtiyaçları olan bütün kozları vermiş olurum. Ancak öteyandan sen, genç, sevilen ve girişkenliğiyle tanınan birisin. Yani bu işten daha kolay sıyrılabilirsin. Ben de bu sırada senin arkanı kolluyor olacağım tabii ki. Sonuçta birkaç lord senin bu yersiz görünen girişiminden rahatsız olmuş olabilir, ama emin ol ki sen bunlarla kafanı yormayacaksın
 dlga_lord_mission_tell_raid_caravan_to_start_war_5:quest_raid_caravan_to_start_war_accepted|Bana çok mantıklı göründü. Bunu yapmaya hazırım.
 dlga_lord_mission_tell_raid_caravan_to_start_war_5:quest_raid_caravan_to_start_war_rejected_2|Bunu hiç beğenmedim. Entrikaların yüzünden suçlanacak başka bir adam bul kendine.
 dlga_quest_raid_caravan_to_start_war_accepted:close_window|Çok iyi! Bir kervanı yağmalarsak, ya da, bunu yapamazsan, köylerden birine saldırdık mı tamamdır. Sana iyi şanslar ve iyi avlanmalar. Git de komşularımız sinirden kudursunlar!
@@ -1409,7 +1409,7 @@ dlga_lord_tell_mission_follow_spy_rejected:lord_pretalk|Yazık. İşine gücüne
 dlga_lord_tell_mission:lord_tell_mission_capture_enemy_hero|Halledilmesi gereken zor bir iş var {playername} ve bunu yapabilecek tek {adam/kişi} sensin. {s13} lordlarından birinin tutsak alınması gerek. Sonrasında onu {s13} tarafından esir tutulan bir akrabamla takas edeceğim. Gördüğün gibi, senin için basit bir iş ama dikkatli ol. Çünkü kimi seçersen seç bil ki sayıca kalabalık ve oldukça eğitimli bir grup seçkin asker tarafından korunuyor olacak. Bu işe var mısın?
 dlga_lord_tell_mission_capture_enemy_hero:lord_tell_mission_capture_enemy_hero_accepted|Oldu farzedin, {s65}.
 dlga_lord_tell_mission_capture_enemy_hero:lord_tell_mission_capture_enemy_hero_rejected|Kabul edemeyeceğim, {s65}. Ben adam kaçırmam.
-dlga_lord_tell_mission_capture_enemy_hero_accepted:close_window|İşte aradığım ruh bu! Git ve bana düşmanlardan birini getir, ben de salonuma döndüğünde senin şerefine kadeh kaldırayım! Ve tabiki çabaların için de seni ödüllendireyim.
+dlga_lord_tell_mission_capture_enemy_hero_accepted:close_window|İşte aradığım ruh bu! Git ve bana düşmanlardan birini getir, ben de salonuma döndüğünde senin şerefine kadeh kaldırayım! Ve tabii ki çabaların için de seni ödüllendireyim.
 dlga_lord_tell_mission_capture_enemy_hero_rejected:lord_pretalk|Açıkça görülüyor ki sahibi olduğunu düşündüğüm sarsılmaz irade aslında sende yokmuş. Pekâlâ, {playername}, bir başkasını bulmaya çalışacağım.
 dlga_lord_tell_mission:lord_tell_mission_lend_companion|Senin için bir görevim yok, ama yoldaşın {s3} yetenekli biri ve şu anda bana {reg3?onun:onun} yeteneklerine sahip biri lazım. {reg3?Onu:Onu} bir süreliğine bana ödünç verebilir misin?
 dlga_lord_tell_mission_lend_companion:lord_tell_mission_lend_companion_2|Ne kadar bir süre {reg3?ona:ona} ihtiyacınız olacak?
@@ -1452,7 +1452,7 @@ dlga_lord_talk:lord_leave|Bu görüşme bitmiştir. Ben gidiyorum....
 dlga_lord_talk:lord_leave.1|İzninizle şimdi gidiyorum...
 dlga_lord_leave:lord_leave_give_quest|Gitmeden önce, senden bir şey isteyeceğim... Bu savaşta düşman olabiliriz, ama yine de birbirimize karşı medeni olabiliriz. Nitekim benim için önemi olan bir konuda bana yardımcı olmanı isteyeceğim.
 dlga_lord_leave_give_quest:enemy_lord_tell_mission|Dinliyorum.
-dlga_enemy_lord_tell_mission:lord_mission_told|Eskiden savaşçı olan bir arkadaşım çok hasta.. Eski bir savaş yarası enfeksiyon kapmış ve korkarım yakınlarda bir hekime görünemezse ölecek.. Bu adam yakınımdır, {playername}, ama aynı zamanda bir keçi kadar inatçı ve doktorlara güvenmediği için kimsenin yarasına bakmasına izin vermiyor. Duyduğuma göre grubun içerisinde marifetli bir cerrah bulunmaktaymış. Eğer cerrah arkadaşın buraya gelip bir bakabilirse, belki arkadaşımın inadını kırıp onu bir ameliyata ikna edebilir. Lütfen, bu ricamı gerçekleştirirsen sana çok minnetar olacağım.
+dlga_enemy_lord_tell_mission:lord_mission_told|Eskiden savaşçı olan bir arkadaşım çok hasta... Eski bir savaş yarası enfeksiyon kapmış ve korkarım yakınlarda bir hekime görünemezse ölecek.. Bu adam yakınımdır, {playername}, ama aynı zamanda bir keçi kadar inatçı ve doktorlara güvenmediği için kimsenin yarasına bakmasına izin vermiyor. Duyduğuma göre grubun içerisinde marifetli bir cerrah bulunmaktaymış. Eğer cerrah arkadaşın buraya gelip bir bakabilirse, belki arkadaşımın inadını kırıp onu bir ameliyata ikna edebilir. Lütfen, bu ricamı gerçekleştirirsen sana çok minnetar olacağım.
 dlga_lord_leave_prison:close_window|Tekrar karşılaşacağız.
 dlga_lord_leave:close_window|Hoşçakalın, hanımım. Daima sizin en ateşli aşığınız olarak kalacağım.
 dlga_lord_leave:close_window.1|Tabii ki. Hoşçakal.
@@ -2023,8 +2023,8 @@ dlga_minstrel_1:minstrel_courtship_questions|Kalradya'da nasıl kur yapıldığ�
 dlga_minstrel_1:minstrel_courtship_poem|Bana herhangi bir şiir öğretebilir misin?
 dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach|Sana “Aşk Kalesinin İhtirası” isimli şiiri öğretebilirim. Öğrenmesi kolay, sembollerin ve mecazların yer aldığı simgesel bir şiirdir. Cesur fakat kaba bir savaşçının, nazik olmayı öğrenip soylu ve gerçek bir şövalye olarak, bir kadının kalbini nasıl kazandığını anlatır. Teması – bir kadının rolünün, erkeğe ilham vererek onu çağdaşlaştırmaya çalışmasıdır – bazı soylu kadınları sever, fakat hepsi değil.
 dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.1|Sana 'Kalbin Arzusu.' isimli şiiri öğretebilirim. Erotik veya manevi taraflara çekilebilen, lirik bir şiirdir. Aşık, sevdiğinin vücuduna bakarak ilahi görkemi farkeder. Bu şiir kadında romantik bir mizaç bırakabilir, fakat diğerlerini sıkabilir hatta duygularını bile incitebilir.
-dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.2|Sana Kais ve Layala'nın hikâyesini öğretebilirim. Üzücü ve basit bir hikâyedir. Çoban olan Lais ve soylu kızı Layala birbirlerini severler, fakat asla evlenemezler. Şiir Kais'in yollara düşmesini, feryadını, akşını unutmayı redderek hasret acısı ile delirmesini anlatıyor. Bazı kadınlar Kais'in kederine tav olur, diğeri ise acınası hâlinden tiksinir.
-dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.3|Sana Helgered ve Kara destanının bir kısmını öğretebilirim. Kan ve savaş dolu yiğitçe bir hikâyedir. Kadın savaşçı Kara, aşığı olarak Helgered isminde bir savaşçıyı seçer, çünkü onu dövüşte yenebilen tek erkek odur. Kızını başka biriyle evlendirmek isteyen baba, oğulları ve muhafızlarıyla birlikte Helgered'i öldürmek için gelir. Savaşırlar ve Helgered ile Kara tüm birliği yokederler, sadece Kara'nın sevgili kardeşi hariç ve o da büyüdükten sonra babasın intikamını almak için Helgered'i öldürür. Erkek ve Kadın savaşçı tasviri çoğu kadının hoşuna gider, fakat bu kanlı hikâye bazı kadınlarda ters tepebilir.
+dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.2|Sana Kais ve Layala'nın hikâyesini öğretebilirim. Üzücü ve basit bir hikâyedir. Çoban olan Lais ve soylu kızı Layala birbirlerini severler, fakat asla evlenemezler. Şiir Kais'in yollara düşmesini, feryadını, aşkını unutmayı redderek hasret acısı ile delirmesini anlatıyor. Bazı kadınlar Kais'in kederine tav olur, diğeri ise acınası hâlinden tiksinir.
+dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.3|Sana Helgered ve Kara destanının bir kısmını öğretebilirim. Kan ve savaş dolu yiğitçe bir hikâyedir. Kadın savaşçı Kara, aşığı olarak Helgered isminde bir savaşçıyı seçer, çünkü onu dövüşte yenebilen tek erkek odur. Kızını başka biriyle evlendirmek isteyen baba, oğulları ve muhafızlarıyla birlikte Helgered'i öldürmek için gelir. Savaşırlar ve Helgered ile Kara tüm birliği yok ederler, sadece Kara'nın sevgili kardeşi hariç ve o da büyüdükten sonra babasın intikamını almak için Helgered'i öldürür. Erkek ve Kadın savaşçı tasviri çoğu kadının hoşuna gider, fakat bu kanlı hikâye bazı kadınlarda ters tepebilir.
 dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.4|Sana 'Bahçedeki münakaşa.' isimli şiiri öğretebilirim. Soyluların evlilik âdetlerine hicivli bir üslubla yaklaşan, komik bir şiirdir. Aşığın biri Veluca'da bir bahçeye sızar ve akıllıca sözler ederek kendisini kıza kabul ettirmeye çalışır. Kız adamın tüm jestlerini tek tek geri çevirir, ta ki adamın morali bozulup kederleninceye kadar. Kız adamı kollarının arasına alır ve ona onu daima isteyeceğini, fakat onun koşullarıyla değil, kendi koşullarıyla istediğini söyler. Espri anlayışı olan kadınlar bunu eğlenceli bulacaktır, fakat bazıları ise kendileriyle dalga geçildiğini hissedebilir.
 dlga_minstrel_courtship_poem_teach:minstrel_courtship_poem_teach_2|Size şiir öğretebilmem için bir kaç saatinizi alacağım – ve, tabii ki, hizmetime karşılık olarak ufak bir meblağ. 300 dinar kâfi gelecektir.
 dlga_minstrel_courtship_poem:minstrel_pretalk|Sanırım sana öğretebileceğim bütün şiirleri zaten biliyorsun.
@@ -2054,11 +2054,11 @@ dlga_minstrel_gossip_maiden_selected_2:minstrel_postgossip.1|{s12}.
 dlga_minstrel_gossip_maiden_selected_2:minstrel_postgossip.2|{s12}.
 dlga_minstrel_postgossip:minstrel_pretalk|Çok ilginç – neyse, başka konulardan bahsedelim.
 dlga_minstrel_postgossip:minstrel_gossip|Çok ilginç – Başka bir haber var mı?
-dlga_minstrel_postgossip:minstrel_duel_confirm|Ne? Şimdi bu rezil suratı kılıcıma tattıracağım.
+dlga_minstrel_postgossip:minstrel_duel_confirm|Ne? O kahpe, kılıcımla yüzleşek
 dlga_minstrel_duel_confirm:minstrel_duel_confirm_2|Öyle mi? {s11} onuru için savaşmak zorunda kalacaktır, fakat bir lordla bir kadın için dövüşmek pek akıllıca değil, bu cengaver yaşta bile.
-dlga_minstrel_duel_confirm_2:minstrel_duel_issued|Evet -- {s11} {s12} ile evlenme planlarından vazgeçsin diye onu zorlayacağım.
-dlga_minstrel_duel_confirm_2:minstrel_pretalk|Hayır – ihtiraslarımın benimle birlikte kaçmasına izin vereceğim
-dlga_minstrel_duel_issued:minstrel_pretalk|Nasıl istersen. Maksadını yayacağım, bu yüzden {s13}, sakın döneklik etmeye kalkma.
+dlga_minstrel_duel_confirm_2:minstrel_duel_issued|Evet -- {s11} {s12} ile evlenme planlarından vazgeçsin diye onu zorlayacağım
+dlga_minstrel_duel_confirm_2:minstrel_pretalk|Hayır – İhtiraslarımın benimle birlikte kaçmasına izin vereceğim
+dlga_minstrel_duel_issued:minstrel_pretalk|Nasıl istersen. Maksadını yayacağım, böylelikle {s13} dövüşten kaçamayacak.
 dlga_minstrel_1:minstrel_courtship_locations|Devam etmekte olan herhangi bir ziyafet biliyor musunuz?
 dlga_minstrel_courtship_locations:minstrel_pretalk|{s12}
 dlga_minstrel_1:close_window|Güle güle.
@@ -2175,7 +2175,7 @@ dlga_master_craftsman_talk:master_craftsman_pretalk.1|Malların üretilir üreti
 dlga_master_craftsman_talk:master_craftsman_pretalk.2|Üretilen malları ben gelene kadar depoda bekletmenizi istiyorum.
 dlga_master_craftsman_accounts:master_craftsman_pretalk|Şu anda her hafta {reg1} değerinde {s3} üretiyoruz. Bunu üretmek için gereken {s4} {reg2} dinar tutuyor, iş gücü ve diğer masraflarsa {reg3}. {s9} Buna göre teorik olarak haftada {reg0} dinarlık {s12} ediyoruz, tabi hammaddeyi pazardan alıp bitmiş malları pazarda sattığımızı varsayarsak.
 dlga_master_craftsman_talk:master_craftsman_production_options|Üretimimizle ilgili seçeneklerim neler, söyler misin?
-dlga_master_craftsman_production_options:master_craftsman_production_options_2|Tabiki, {efendim/hanımım}. Çoğu zaman sizin için en kârlı yol bizim hammadeleri pazardan alıp bitmiş malları pazara satmamıza izin vermemizdir. Yerel tüccarlarla sürekli iş yaptığımdan genellikle bize çok iyi fiyatlar verirler.
+dlga_master_craftsman_production_options:master_craftsman_production_options_2|Tabii ki, {efendim/hanımım}. Çoğu zaman sizin için en kârlı yol bizim hammadeleri pazardan alıp bitmiş malları pazara satmamıza izin vermemizdir. Yerel tüccarlarla sürekli iş yaptığımdan genellikle bize çok iyi fiyatlar verirler.
 dlga_master_craftsman_production_options_2:master_craftsman_pretalk|Fakat eğer hammadeleri {s5} dışında daha ucuza alabileceğinizi görürseniz onları kendiniz satın alıp envanterimize koyabilirsiniz. Biz de pazardan satın alacağımıza onları kullanırız. Aynı şekilde bitmiş malları dışarıda daha iyi fiyata satabilecekseniz, bize onları satmayıp sizin alabilmeniz için depoya koymamızı söyleyebilirsiniz.
 dlga_master_craftsman_talk:master_craftsman_auction_price|Artık bu işyerini işletmem mümkün olmayacak.
 dlga_master_craftsman_auction_price:master_craftsman_auction_decide|Bunu duyduğuma üzüldüm, efendim. Eğer arsayı ve malzemeleri satar ve envanterdekileri elden çıkarırsak, hesaplarıma göre elinize {reg4} dinar geçecektir.
@@ -2249,7 +2249,7 @@ dlga_investment_choose_enterprise:investment_summary.6|Bir dokumacı ve boyacı,
 dlga_investment_choose_enterprise:investment_summary.7|Bir dokumacı, yünden kıyafet yapmak için
 dlga_investment_choose_enterprise:investment_summary.8|Bir dokumacı, ketenden kumaş yapmak için
 dlga_investment_choose_enterprise:mayor_pretalk|Boş ver
-dlga_investment_summary:mayor_investment_confirm|Pekâlâ Efendim. {s3} inşaa etmek için gereken arazi ve malzemeler size {reg7} dinara mal olacak. Şu an, haftalık {reg1} dinar tutarında {s4} üretebilirsiniz ve bu tek birimi üretmek için gereken {s6} maliyeti {reg2} dinar, tüm işçi ve bakım masrafları ise {reg3} dinar olacaktır. {s9} Harcamalarınızı çıkarttığımızda ve bütün üretilenler satıldığında haftalık kârınız {reg0} dinar olacaktır. Tabii bu hesap fiyatların sabit kalması koşulu ile doğru olur ki size garanti veririm sabit kalmayacaktır. İşleri başlatmak ister misiniz?
+dlga_investment_summary:mayor_investment_confirm|Pekâlâ Efendim. {s3} inşaa etmek için gereken arazi ve malzemeler size {reg7} dinara mâl olacak. Şu an, haftalık {reg1} dinar tutarında {s4} üretebilirsiniz ve bu tek birimi üretmek için gereken {s6} maliyeti {reg2} dinar, tüm işçi ve bakım masrafları ise {reg3} dinar olacaktır. {s9} Harcamalarınızı çıkarttığımızda ve bütün üretilenler satıldığında haftalık kârınız {reg0} dinar olacaktır. Tabii bu hesap fiyatların sabit kalması koşulu ile doğru olur ki size garanti veririm sabit kalmayacaktır. İşleri başlatmak ister misiniz?
 dlga_mayor_investment_confirm:mayor_investment_purchase|Evet. İşte yatırım için gereken para.
 dlga_mayor_investment_confirm:mayor_pretalk|Hayır -- bu şu an için kârlı gözükmüyor.
 dlga_mayor_investment_purchase:mayor_pretalk|Çok iyi. İşletmeniz bir hafta içinde çalışır durumda olur. Bir dahaki sefer geldiğinizde işler hakkında {s4} ile konuşabilirsiniz. 
@@ -2479,7 +2479,7 @@ dlga_village_elder_recruit_decision:village_elder_pretalk|{reg7?Onlara:Ona} haz�
 dlga_village_elder_recruit_decision:village_elder_pretalk.1|Hayır, şimdi değil.
 dlga_village_elder_active_mission_1:village_elder_active_mission_2|Evet {beyim/hanımım}, herhangi bir gelişme var mı?
 dlga_village_elder_active_mission_2:village_elder_deliver_grain_thank|Tabii ki. Sizlere {reg5} çuval buğday getirdim.
-dlga_village_elder_deliver_grain_thank:village_elder_deliver_grain_thank_2|Değerli {beyim/hanımım}. Bizi açlıktan ve sefaletten kurtardınız! Ne kadar teşekkür etsek azdır. Dualarımızda artık hep siz olacaksınız. {s13} köyü bu yaptığınız iyiliği asla unutmayacak.
+dlga_village_elder_deliver_grain_thank:village_elder_deliver_grain_thank_2|Değerli {beyim/hanımım}. Bizi açlıktan ve sefaletten kurtardınız! Ne kadar teşekkür etsek azdır. Dualarımızda artık hep siz olacaksınız. {s13} bu yaptığınız iyiliği asla unutmayacak.
 dlga_village_elder_deliver_grain_thank_2:village_elder_talk|Değerli {beyim/hanımım}, sizin için yapabileceğimiz herhangi bir şey var mı?
 dlga_village_elder_active_mission_2:village_elder_active_mission_3|Hâlâ uğraşıyorum.
 dlga_village_elder_active_mission_2:village_elder_mission_failed|Korkarım o işi tamamlayamayacağım.
@@ -2808,8 +2808,8 @@ dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.5|Hayhay, {s11
 dlga_dplmc_message_send_confirm:dplmc_chancellor_pretalk|Teşekkürler
 dlga_dplmc_message_send_confirm:dplmc_chancellor_pretalk.1|Fikrimi değiştirdim.
 dlga_dplmc_chancellor_talk:dplmc_chancellor_gift_ask_where|Bir hediye gönder.
-dlga_dplmc_chancellor_gift_ask_where:dplmc_chancellor_pretalk|Hazinemizde hediye göndermeye yeterli para yok! Hediye göndermek bize 50 dinara mal olacak.
-dlga_dplmc_chancellor_gift_ask_where:dplmc_chancellor_gift_where|Hediye göndermek 50 dinara mal olacak. Parayı hazineden alacağım. Hediyenizi bir şehre mi yoksa bir kişiye mi göndermek istersiniz?
+dlga_dplmc_chancellor_gift_ask_where:dplmc_chancellor_pretalk|Hazinemizde hediye göndermeye yeterli para yok! Hediye göndermek bize 50 dinara mâl olacak.
+dlga_dplmc_chancellor_gift_ask_where:dplmc_chancellor_gift_where|Hediye göndermek 50 dinara mâl olacak. Parayı hazineden alacağım. Hediyenizi bir şehre mi yoksa bir kişiye mi göndermek istersiniz?
 dlga_dplmc_chancellor_gift_where:dplmc_chancellor_gift_ask_person|Kişiye.
 dlga_dplmc_chancellor_gift_where:dplmc_chancellor_center_gift_ask_type|Şehre.
 dlga_dplmc_chancellor_gift_where:dplmc_chancellor_pretalk|Hiç kimseye.
@@ -2902,7 +2902,7 @@ dlga_dplmc_constable_train_type_ask:dplmc_constable_train_type|Yakın dövüşç
 dlga_dplmc_constable_train_type:dplmc_constable_train_improved_ask|Yakın dövüşçü.
 dlga_dplmc_constable_train_type:dplmc_constable_train_improved_ask.1|Uzak dövüşçü.
 dlga_dplmc_constable_train_type:dplmc_constable_pretalk|Hiçbiri.
-dlga_dplmc_constable_train_improved_ask:dplmc_constable_train_improved|Eğer isterseniz fazladan eğitmen atayabilirim, böylece acemileri daha iyi ve hızlı eğitebiliriz. Bu günde 10 dinara mal olur.
+dlga_dplmc_constable_train_improved_ask:dplmc_constable_train_improved|Eğer isterseniz fazladan eğitmen atayabilirim, böylece acemileri daha iyi ve hızlı eğitebiliriz. Bu günde 10 dinara mâl olur.
 dlga_dplmc_constable_train_improved:dplmc_constable_train_center|Evet, fazladan eğitmen al.
 dlga_dplmc_constable_train_improved:dplmc_constable_train_center.1|Hayır, onları tek başına eğitmelisin.
 dlga_dplmc_constable_train_center:dplmc_constable_pretalk|Pekâlâ, acemileri {s11} topraklarında eğiteceğim. {s12} Lütfen hazinede araç gereçleri karşılayacak para{s13} olduğundan emin olun. 
@@ -2926,7 +2926,7 @@ dlga_dplmc_constable_security:dplmc_constable_move_troops|Birlikleri başka bir 
 dlga_dplmc_constable_move_troops:dplmc_constable_move_troops_location|Nereye göndermek istersiniz? 
 dlga_dplmc_constable_move_troops_location:dplmc_constable_pretalk|Hiçbir yere. 
 dlga_dplmc_constable_move_troops_location_confirm_ask:dplmc_constable_pretalk|Hiç asker seçmediniz. Görünüşe göre fikrinizi değiştirdiniz.
-dlga_dplmc_constable_move_troops_location_confirm_ask:dplmc_constable_move_troops_location_confirm|Gerçekten birlikleri {s9} bölgesine göndermek istiyor musunuz? Bu bize {reg5} dinara mal olacak. 
+dlga_dplmc_constable_move_troops_location_confirm_ask:dplmc_constable_move_troops_location_confirm|Gerçekten birlikleri {s9} bölgesine göndermek istiyor musunuz? Bu bize {reg5} dinara mâl olacak. 
 dlga_dplmc_constable_move_troops_location_confirm:dplmc_constable_pretalk|Evet.
 dlga_dplmc_constable_move_troops_location_confirm:dplmc_constable_pretalk.1|Hayır. Bunu karşılayabilecek miyim bir bakayım.
 dlga_dplmc_constable_security:dplmc_constable_patrol_size_ask|Bir devriye oluşturmak istiyorum. 
@@ -3042,19 +3042,19 @@ dlga_dplmc_chamberlain_talk:close_window|Hayır, bir şey yok, sadece belgeleri 
 dlga_spouse_talk:dplmc_spouse_staff_talk_ask|Yeni devlet adamı atamak istiyorum.
 dlga_dplmc_spouse_staff_talk_ask:dplmc_talk_staff|Ne tür bir devlet adamı atamak istiyorsunuz?
 dlga_dplmc_talk_staff:dplmc_talk_appoint_constable|Bir komiser atamak istiyorum.
-dlga_dplmc_talk_appoint_constable:dplmc_talk_appoint_constable_confirm|Miles de Gloucester'ı yeniden işe almak isteyeceksiniz sanırım? Haftada 15 dinar istiyor ve onu atamak bize 20 dinara mal olacak. 
+dlga_dplmc_talk_appoint_constable:dplmc_talk_appoint_constable_confirm|Miles de Gloucester'ı yeniden işe almak isteyeceksiniz sanırım? Haftada 15 dinar istiyor ve onu atamak bize 20 dinara mâl olacak. 
 dlga_dplmc_talk_appoint_constable_confirm:dplmc_talk_appoint_confirm_yes|Öyle olsun bakalım. 
 dlga_dplmc_talk_appoint_constable_confirm:spouse_pretalk|Belki sonra. 
 dlga_dplmc_talk_appoint_constable_confirm:minister_pretalk|Belki sonra. 
 dlga_dplmc_talk_appoint_confirm_yes:spouse_pretalk|Ona bir mektup yollayacağım, yakında sarayda olur.
 dlga_dplmc_talk_appoint_confirm_yes:minister_pretalk|Ona bir mektup yollayacağım, yakında sarayda olur.
 dlga_dplmc_talk_staff:dplmc_talk_appoint_chamberlain|Finansal işleri halletmesi için muhasebeci atamak istiyorum. 
-dlga_dplmc_talk_appoint_chamberlain:dplmc_talk_appoint_chamberlain_confirm|Eski muhasebeciniz olan Aubrey de Vere'yi tekrar işe almak isteyeceksiniz sanırım? Haftada 15 dinar istiyor ve onu atamak bize 20 dinara mal olacak. 
+dlga_dplmc_talk_appoint_chamberlain:dplmc_talk_appoint_chamberlain_confirm|Eski muhasebeciniz olan Aubrey de Vere'yi tekrar işe almak isteyeceksiniz sanırım? Haftada 15 dinar istiyor ve onu atamak bize 20 dinara mâl olacak. 
 dlga_dplmc_talk_appoint_chamberlain_confirm:dplmc_talk_appoint_confirm_yes|Öyle olsun bakalım. 
 dlga_dplmc_talk_appoint_chamberlain_confirm:spouse_pretalk|Belki sonra.
 dlga_dplmc_talk_appoint_chamberlain_confirm:minister_pretalk|Belki sonra. 
 dlga_dplmc_talk_staff:dplmc_talk_appoint_chancellor|Bir bakan atamak istiyorum.
-dlga_dplmc_talk_appoint_chancellor:dplmc_talk_appoint_chancellor_confirm|Eski bakanınız olan Herfast'ı tekrar işe almak istyeceksiniz sanırım? Haftada 20 dinar istiyor ve onu atamak 20 dinara mal olacak. 
+dlga_dplmc_talk_appoint_chancellor:dplmc_talk_appoint_chancellor_confirm|Eski bakanınız olan Herfast'ı tekrar işe almak istyeceksiniz sanırım? Haftada 20 dinar istiyor ve onu atamak 20 dinara mâl olacak. 
 dlga_dplmc_talk_appoint_chancellor_confirm:dplmc_talk_appoint_confirm_yes|Öyle olsun bakalım.
 dlga_dplmc_talk_appoint_chancellor_confirm:spouse_pretalk|Belki sonra.
 dlga_dplmc_talk_appoint_chancellor_confirm:minister_pretalk|Belki sonra.
@@ -3063,7 +3063,7 @@ dlga_dplmc_talk_staff:spouse_pretalk|Hiçbiri.
 dlga_spouse_talk:dplmc_spouse_talk_buy_food_amount_ask|Birkaç tane ekmek alabilir misin lütfen? 
 dlga_dplmc_spouse_talk_buy_food_amount_ask:dplmc_spouse_talk_buy_food_amount|Ne kadar ekmek istiyorsun?
 dlga_dplmc_spouse_talk_buy_food_amount:spouse_pretalk|Hiç.
-dlga_dplmc_spouse_talk_buy_food:dplmc_spouse_talk_buy_food_confirm|Elbette. {s6} pazarına gideceğim ve birkaç tane ekmek alacağım. Bu bize {reg0} dinara mal olacak.
+dlga_dplmc_spouse_talk_buy_food:dplmc_spouse_talk_buy_food_confirm|Elbette. {s6} pazarına gideceğim ve birkaç tane ekmek alacağım. Bu bize {reg0} dinara mâl olacak.
 dlga_dplmc_spouse_talk_buy_food:spouse_pretalk|Şu anda hiçbir pazarda yeterli ekmek yok. Beklemek zorundayız.
 dlga_dplmc_spouse_talk_buy_food_confirm:close_window|Tamam, bunu karşılayabiliriz, lütfen git. Teşekkür ederim.
 dlga_dplmc_spouse_talk_buy_food_confirm:close_window.1|Oh, belki sonra. 
@@ -3267,7 +3267,7 @@ dlga_dplmc_claimant_marriage_proposal_pc_reax:lord_pretalk.5|{s14}
 dlga_dplmc_claimant_marriage_proposal_pc_reax:lord_marriage_proposal_female_pc_confirm_engagement|{s14}
 dlga_lord_talk:dplmc_prisoner_chat_let_go|Gitmekte özgürsün.
 dlga_dplmc_prisoner_chat_let_go:close_window|{s43}
-dlga_spouse_talk:dplmc_spouse_tournament_dedication_reaction|Benim sevgili eşim, bu turnuvadaki başarımı sana adıyorum.
+dlga_spouse_talk:dplmc_spouse_tournament_dedication_reaction|Benim sevgili {reg65?eşim/kocam}, bu turnuvadaki başarımı sana adıyorum.
 dlga_dplmc_spouse_tournament_dedication_reaction:spouse_pretalk|{s9}
 dlga_lady_talk:dplmc_lady_relations2|Senin akrabalarından birini soracaktım.
 dlga_dplmc_lady_relations2:dplmc_lady_info_relative_select|Hangi lord hakkında bilgi istiyorsun?
@@ -3344,10 +3344,10 @@ dlga_dplmc_constable_patrol_garrison:dplmc_constable_patrol_garrison_2|{Lordum/L
 dlga_dplmc_constable_patrol_garrison_2:dplmc_constable_pretalk|Hiç asker seçmediniz. Görünüşe göre fikrinizi değiştirdiniz.
 dlga_dplmc_constable_patrol_garrison_2:dplmc_constable_patrol_garrison_location|Devriyeyi nereye yollamak istersiniz?
 dlga_dplmc_constable_patrol_garrison_confirm_ask:dplmc_constable_pretalk|Hiç asker seçmediniz. Görüşüne göre fikrinizi değiştirdiniz.
-dlga_dplmc_talk_appoint_constable:dplmc_talk_appoint_constable_confirm.1|Buranın yerlisi olan Miles de Gloucester adlı soylu bir adam hakkında iyi şeyler duydum ve inanıyorum ki o bu iş için çok uygun. Buna karşın haftada 15 dinar istiyor. Onu atamak bize 20 dinara mal olacak.
-dlga_dplmc_talk_appoint_constable:dplmc_talk_appoint_constable_confirm.2|Bu çok zekice bir fikir. Size aile dostum olan çok hünerli ve soylu birini önerebilir miyim? Adı Miles de Gloucester. Buna karşın haftada 15 dinar istiyor. Onu atamak bize 20 dinara mal olacak.
-dlga_dplmc_talk_appoint_chamberlain:dplmc_talk_appoint_chamberlain_confirm.1|Buranın yerlisi olan Aubrey de Vere adlı soylu bir adam hakkında iyi şeyler duydum ve inanıyorum ki o bu iş için çok uygun. Buna karşın haftada 15 dinar istiyor. Onu atamak bize 20 dinara mal olacak. 
-dlga_dplmc_talk_appoint_chamberlain:dplmc_talk_appoint_chamberlain_confirm.2|Bu çok zekice bir fikir. Size aile dostum olan çok hünerli ve soylu birini önerebilir miyim? Adı Aubrey de Vere. Buna karşın haftada 15 dinar istiyor. Onu atamak bize 20 dinara mal olacak.
+dlga_dplmc_talk_appoint_constable:dplmc_talk_appoint_constable_confirm.1|Buranın yerlisi olan Miles de Gloucester adlı soylu bir adam hakkında iyi şeyler duydum ve inanıyorum ki o bu iş için çok uygun. Buna karşın haftada 15 dinar istiyor. Onu atamak bize 20 dinara mâl olacak.
+dlga_dplmc_talk_appoint_constable:dplmc_talk_appoint_constable_confirm.2|Bu çok zekice bir fikir. Size aile dostum olan çok hünerli ve soylu birini önerebilir miyim? Adı Miles de Gloucester. Buna karşın haftada 15 dinar istiyor. Onu atamak bize 20 dinara mâl olacak.
+dlga_dplmc_talk_appoint_chamberlain:dplmc_talk_appoint_chamberlain_confirm.1|Buranın yerlisi olan Aubrey de Vere adlı soylu bir adam hakkında iyi şeyler duydum ve inanıyorum ki o bu iş için çok uygun. Buna karşın haftada 15 dinar istiyor. Onu atamak bize 20 dinara mâl olacak. 
+dlga_dplmc_talk_appoint_chamberlain:dplmc_talk_appoint_chamberlain_confirm.2|Bu çok zekice bir fikir. Size aile dostum olan çok hünerli ve soylu birini önerebilir miyim? Adı Aubrey de Vere. Buna karşın haftada 15 dinar istiyor. Onu atamak bize 20 dinara mâl olacak.
 dlga_dplmc_lord_family_affiliate:lord_pretalk.1|Hiç şansın yok. Senden hiç hazzetmediğim için seni desteklemeyeceğim.
 dlga_companion_embassy_results:dplmc_companion_truce_pay.2|{s12} eğer ona {s18} toprağını verirsen yirmi günlük ateşkes yapabileceğini söylüyor
 dlga_companion_embassy_results:dplmc_companion_truce_pay.3|{s12} eğer ona {reg0} dinar ödersen ve {s18} toprağını verirsen yirmi günlük ateşkes yapabileceğini söylüyor.
@@ -3360,8 +3360,8 @@ dlga_companion_embassy_results:companion_rejoin_response.7|{s12} barış yapmaya
 dlga_companion_embassy_results:companion_rejoin_response.8|{s12} sizin zaten başka birine bağlılık yemini ettiğinizi söylüyor.
 dlga_companion_embassy_results:companion_rejoin_response.9|{s12} sizin bir derebeyi olarak gereken yükümlülükleri yerine getireceğinize inanmadığını ve teklifinizin bir hile olduğunu düşündüğünü söylüyor.
 dlga_dplmc_patrol_garrison_confirm:close_window|Teşekkür ederim.
-dlga_dplmc_talk_appoint_chancellor:dplmc_talk_appoint_chancellor_confirm.1|Buranın yerlisi olan Herfast adlı soylu bir adam hakkında iyi şeyler duydum ve inanıyorum ki o bu iş için çok uygun. Buna karşın haftada 15 dinar istiyor. Onu atamak bize 20 dinara mal olacak. 
-dlga_dplmc_talk_appoint_chancellor:dplmc_talk_appoint_chancellor_confirm.2|Bu çok zekice bir fikir. Size aile dostum olan çok hünerli ve soylu birini önerebilir miyim? Adı Herfast. Buna karşın haftada 15 dinar istiyor. Onu atamak bize 20 dinara mal olacak.
+dlga_dplmc_talk_appoint_chancellor:dplmc_talk_appoint_chancellor_confirm.1|Buranın yerlisi olan Herfast adlı soylu bir adam hakkında iyi şeyler duydum ve inanıyorum ki o bu iş için çok uygun. Buna karşın haftada 15 dinar istiyor. Onu atamak bize 20 dinara mâl olacak. 
+dlga_dplmc_talk_appoint_chancellor:dplmc_talk_appoint_chancellor_confirm.2|Bu çok zekice bir fikir. Size aile dostum olan çok hünerli ve soylu birini önerebilir miyim? Adı Herfast. Buna karşın haftada 15 dinar istiyor. Onu atamak bize 20 dinara mâl olacak.
 dlga_drunk_player_high_renown:drunk_fight_start.2|Neden, dövüş mü istiyorsun? Haydi o zaman!
 dlga_lord_give_troops:lord_pretalk.1|Şu anda fazlasıyla askerim var zaten. Ama birkaç asker daha alabilirim sanırım.
 dlga_lord_give_troops:lord_pretalk.2|Eh, iyi bir grup asker işime yarayabilir. Teşekkürler.
@@ -3415,7 +3415,7 @@ dlga_tavern_traveler_talk:tavern_traveler_ransom_broker_location|Köle tacirleri
 dlga_dplmc_constable_patrol_change:dplmc_constable_patrol_change_target_ask|{s11}.
 dlga_lord_courtship_permission:lord_pretalk.3|{s12}
 dlga_lord_husband_auto_recruit:lord_pretalk.1|Buradan uzaklaşana kadar bunu yapamayız. Bunu daha sonra konuşalım, hanımım.
-dlga_lord_request_enlistment:lord_request_enlistment_confirm|Senin özelliklerindeki bir {adam/kadın}a ordumda yer var, {playername}.  Seni bir {s1} olarak kabul edebilirim, haftalık {s2} ödeme alırsın. Ve tabiki yiyecek. Terfi edebilmen için yeterince imkân ve rütbenin gerektirdiği ekipmanlara da sahip olacaksın. Tabi, yağmalardan payına düşeni de alacaksın. Ne diyorsun?
+dlga_lord_request_enlistment:lord_request_enlistment_confirm|Senin özelliklerindeki bir {adam/kadın}a ordumda yer var, {playername}.  Seni bir {s1} olarak kabul edebilirim, haftalık {s2} ödeme alırsın. Ve tabii ki yiyecek. Terfi edebilmen için yeterince imkân ve rütbenin gerektirdiği ekipmanlara da sahip olacaksın. Tabi, yağmalardan payına düşeni de alacaksın. Ne diyorsun?
 dlga_lord_request_enlistment_confirm:close_window|Bu diyar için oldukça adil ve istikrarlı bir iş gibi görünüyor. Sizinleyim lordum.
 dlga_lord_request_enlistment_confirm:lord_pretalk|Tekrar düşününce lordum, şansımı bir süre daha yalnız deneyebilirim. Teşekkür ederim.
 dlga_lord_request_enlistment:lord_pretalk|Hizmetime alacak kadar sana güvenmiyorum.
