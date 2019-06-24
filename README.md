@@ -112,8 +112,8 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
 - - - -
 ## Parti Morali
 #### Liderlik Puanı Başına Parti Morali:
-  * **Kral değilken** : *~~12~~* --> *25*
-  * **Kral iken**     : *~~15~~* --> *50*
+  * **Kral değilken** : *~~12~~* --> *20*
+  * **Kral iken**     : *~~15~~* --> *40*
 
 
 - - - -
