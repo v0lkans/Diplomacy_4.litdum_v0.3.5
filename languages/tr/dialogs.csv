@@ -467,7 +467,7 @@ dlga_event_triggered:companion_political_grievance_response|{s21}
 dlga_companion_political_grievance_response:close_window|Fikriniz dikkate alındı.
 dlga_event_triggered:companion_rejoin_response.4|Merhabalar, {s21}. Size tekrar katılabilir miyim?
 dlga_event_triggered:companion_rejoin_response.5|Pekâlâ, {s21}, nihayet sizi bulabildim. İddianızı yaydım ve gruba katılmaya hazırım.
-dlga_event_triggered:companion_rejoin_response.6|Pekâlâ, {s21}, nihayet sizi bulabildim. {s11}. Raporumun geri kalanını size yazılı olarak teslim ediyorum.
+dlga_event_triggered:companion_rejoin_response.6|Pekâlâ, {s21}, nihayet sizi bulabildim. {s11} Raporumun geri kalanını size yazılı olarak teslim ediyorum.
 dlga_event_triggered:companion_embassy_results|Pekâlâ, {s21}, nihayet sizi bulabildim. {s31} görevimden döndüm. Raporum genel olarak şöyle: {s14}
 dlga_companion_embassy_results:companion_rejoin_response|Bu mektupta, {s12} size {s4} topraklarının {Beyi/Hanımı} diye hitap ediyor ki bu bir çeşit hükümdarlığınızı ve bağımsızlığınızı tanıdığını gösterme şeklidir.
 dlga_companion_embassy_results:companion_rejoin_response.1|Bu mektupta, {s12} size herhangi bir sıfat belirtmeden {playername} diye hitap ediyor. Bu, sizin hükümdarlığınızı tanımadığını gösteriyor.

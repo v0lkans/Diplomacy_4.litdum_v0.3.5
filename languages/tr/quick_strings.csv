@@ -892,8 +892,8 @@ qstr_Guildmaster_of_{s4}_|{s4} lonca başkanı haydutlar tarafından kaçırıla
 qstr_Guildmaster_of_{s4}_p|{s4} lonca başkanı {s12} ve {s13} kişilerinin, {s15} ve {s14} arasında olası bir barış durumuna karşı tehdit olmamalarını sağlamayı başarırsan sana {reg12} dinar önerdi. Bunu yapmak için onları ya ikna etmeli ya da anlaşma yapılana kadar esir olarak tutmalısın.
 qstr_The_Guildmaster_of_{s|{s14} lonca başkanı {s14} sokaklarına terör saçan bir grup haydutla ilgilenmeni istedi. Sadece geceleri ortaya çıkıyorlar ve sadece sokaklardaki yalnız yolculara saldırıyorlar.
 qstr_Guildmaster_of_{s10}|{s10} lonca başkanı bir sığır sürüsünü {s13}ne sürmeni istedi. Karşılığında {reg8} dinar kazanacaksın.
-qstr_He_is_not_commanding|Şu an hiçkimseyi yönetmiyor.
-qstr_He_currently_command|Şu an {reg1?, yaklaşık {reg1} tanesi yaralı olan }{reg0} askere hükmediyor.
+qstr_He_is_not_commanding|Şu an hiç kimseyi yönetmiyor.
+qstr_He_currently_command|Şu an {reg1?, yaklaşık {reg1} tanesi yaralı olan :}{reg0} askere hükmediyor.
 qstr_The_elder_of_the_vil|{s3}nün yaşlısı ona {reg5} çuval buğday getirmeni istedi.
 qstr_The_elder_of_the_vill|{s3}nün yaşlısı haydutlarla savaşabilmeleri için {reg5} çiftçiyi eğitmeni istedi.
 qstr_The_elder_of_the_villa|{s3}nün yaşlısı ona {reg5} baş sığır getirmeni istedi.
