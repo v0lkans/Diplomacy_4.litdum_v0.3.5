@@ -1,14 +1,6 @@
 # [Diplomacy 4.litdum](https://forums.taleworlds.com/index.php?topic=356425.0) Unofficial Update 
 
-~~Yaptığım birçok değişikliğin amacı, oyundaki dengesizliğin ve adaletsizliğin biraz olsun düzelmesini sağlamaktır.~~
-
-~~Yapay Zekâ lordlar yattığı yerden para kazanıp üstüne bir de oyuncunun ulaşamayacağı sayılarda asker ile ordu kurarken benim *emekçi, Kalradya'ya mutlak adaleti, huzuru, refahı* getirecek yegâne savaşçılarından olan kardeşlerimin bu denli zorluklar altında bırakılması büyük bir haksızlıktır.*~~
-
-~~Bu güncelleme, Kalradya'ya adaleti getirecek savaşçılar için yapılmış bir '**Adalet**' güncellemesidir.~~
-
 #### Birkaç yenilik ve değişiklik getiren bir güncelleme.
-
-Adalet getireceğini düşündüğüm bu güncelleme, oyuncuyu çok güçlendirdi. Oyunu daha dengeli hâle getirmek için 2 değişikliği *(Kira geliri ve İşletme ücretleri)* eski hâline geri getirdim.
 
 - - - -
 ### İçerik
@@ -94,18 +86,8 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
  #### Kiralardan Gelen Gelir Böleni:
   * **Oyuncu için** *120* --> **değişmedi**
   * **NPC'ler için** *120* --> *80*
-  ###### ~~(*Oyuncu, sahip olduğu topraklardan 2 kat daha fazla kira geliri elde eder*)~~ (Geri alındı)
   ###### (*Oyuncuya verilen avantajlar, NPC'lerin savaşlarda biraz güçsüz kalmasına neden oluyor. Bu yüzden, biraz daha para kazanmalarında sakınca yoktur diye düşünüyorum.*)
 
-
-- - - -
-## ~~İşletme Ücretleri~~
-Bu değişiklik geri alındı.
-  * ~~*İşletme açma fiyatları* **1.2x**~~
-  * ~~*İşçi ve diğer masrafları* **2x**~~
-  * ~~*Üretim için gereken mal sayısı* **3x**~~
-  * ~~*Üretilen mal sayısı* **3x**~~
-##### ~~Arttı~~
 
 
 - - - -
@@ -116,8 +98,8 @@ Bu değişiklik geri alındı.
 - - - -
 ## Parti Morali
 #### Liderlik Puanı Başına Parti Morali:
-  * **Kral değilken** : *~~12~~* --> *20*
-  * **Kral iken**     : *~~15~~* --> *40*
+  * **Kral değilken** : *~~12~~* --> *15*
+  * **Kral iken**     : *~~15~~* --> *30*
 
 
 - - - -
