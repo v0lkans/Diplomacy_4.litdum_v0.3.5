@@ -17,7 +17,7 @@ _Modül sistemiyle çok basit ve hızlı bir şekilde yapılabilecek bu özellik
 # Değişiklikler
 
 ## Oyuncu Parti büyüklüğü
-###### Sadece NPC lordlarında olan özellikler artık oyuncu için de geçerli.
+###### NPC lordlarında olan özellikler artık oyuncu için de geçerli.
 Oyuncu parti büyüklüğü bileşenleri karşılaştırması:
 
 v0.3                      | Bonus         |   |  v0.3.5                   | Bonus         |
@@ -29,10 +29,14 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
 Ø                         |               |   | Sahip Olunan Kale Başına  | +20           |
 Ø                         |               |   | Mareşal Olma              | +20           |
 Ø                         |               |   | Kral Olma                 | +100          |
-Ø                         |               |   | Seviye¹                   | formül        |
+Ø                         |               |   | _Seviye**¹**_             | formül**²**   |
 
-¹Seviye formülü: **Parti büyüklüğü** x ((*Oyuncunun Seviyesi* + **80** ) / **80**)
+¹Bu ayar varsayılan olarak kapalıdır. Bu ayarı da dahil etmek için oyun dosyalarındaki "**script Seviye_Carpanli.txt**" dosyasının adını "**script.txt**" olarak değiştirin. (_Varsayılan "**script.txt**" dosyasını ister silin, ister adını değiştirin. Size kalmış_)
+
+²Seviye formülü: **Parti büyüklüğü** x ((*Oyuncunun Seviyesi* + **80** ) / **80**)
 (En son bu formül uygulanır.)
+
+
 
 
 
