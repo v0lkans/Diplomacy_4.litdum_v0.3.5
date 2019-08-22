@@ -762,7 +762,7 @@ mno_dplmc_switch_woman_prejudice_1|Önyargı seviyesini değiştir (şu anki sev
 mno_dplmc_switch_woman_prejudice_2|Önyargı seviyesini değiştir (şu anki seviye yok)
 mno_dplmc_switch_woman_prejudice_3|Önyargı seviyesini değiştir (şu anki seviye yüksek)
 menu_dplmc_affiliated_family_report|{s0}
-menu_dplmc_start_select_prejudice|Oyunda tasvir edilen geleneksel orta çağ toplumunda, savaş ve politikanın hakimi genelde soylu erkeklerdir. Bu yüzden, bir kadın karakter ön yargıyla karşılaşabilir ve erkeklere has olan bazı fırsatlar kadınlar için geçerli değildir (kadınında erkeklerde olmayan ayrı fırsatları olsa bile). Bazı oyuncular bunu tatsız bulabilir bu yüzden toplumun bakış açısını iptal edebilirsiniz.^^Daha sonra Kamp Menüsündeki ayarlardan değiştirebilirsiniz.
+menu_dplmc_start_select_prejudice|Oyunda tasvir edilen geleneksel orta çağ toplumunda, savaş ve politikanın hakimi genelde soylu erkeklerdir. Bu yüzden, bir kadın karakter ön yargıyla karşılaşabilir ve erkeklere has olan bazı fırsatlar kadınlar için geçerli değildir (kadının da erkeklerde olmayan ayrı fırsatları olsa bile). Bazı oyuncular bunu tatsız bulabilir bu yüzden toplumun bakış açısını iptal edebilirsiniz.^^Daha sonra Kamp Menüsündeki ayarlardan değiştirebilirsiniz.
 mno_dplmc_start_prejudice_yes|Cinsiyet ayrımını aldırmam.
 mno_dplmc_start_prejudice_no|Cinsiyet ayrımıyla karşılaşmamayı tercih ederim.
 mno_view_affiliated_family_report|Aile üyesi / eş raporunu görüntüle.

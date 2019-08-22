@@ -30,7 +30,7 @@ qst_duel_courtship_rival|{s13}'{.i} düelloya davet et (isteğe bağlı)
 qst_duel_avenge_insult|{s13}'{.i} düelloya davet et
 qst_move_cattle_herd|Sığır Sürüsünü {s13}{.e} sür.
 qst_escort_merchant_caravan|Kervana {s8}{.e} Kadar Refakat Et
-qst_deliver_wine|{s8}n{.e} {reg5} Adet {s6} Götür.
+qst_deliver_wine|{s4}{.e} {reg5} Adet {s6} Götür.
 qst_troublesome_bandits|Belalı Haydutları Yok Et
 qst_kidnapped_girl|Kızın Fidyesini Götür
 qst_persuade_lords_to_make_peace|İki Lordun barışa karşı gelmeyeceklerine emin ol

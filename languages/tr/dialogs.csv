@@ -1547,7 +1547,7 @@ dlga_lady_betrothed:lady_suggest_elope|Asla! Bir an önce kaçmalıyız!
 dlga_lady_betrothed:lady_pretalk|Belki de lordunun fikrini değiştirebilirim.
 dlga_lady_betrothed:lady_conclude_relationship|Öyle olsun – ayrılalım o hâlde.
 dlga_lady_suggest_elope:lady_conclude_relationship|Pekâlâ {playername} – siz iyi ve cömert birisiniz, fakat bir kadın ailesine meydan okuyamaz. Bu tür şeylerin olması mümkün değil.
-dlga_lady_suggest_elope:lady_other_suitor|{Beyim/Madam} – biliyorsunuz ki sizin gibi birkaç {beyden/hanımdan} daha teklif aıyorum. Henüz herhangi birinize yanıt verebilecek bir konumda değilim.
+dlga_lady_suggest_elope:lady_other_suitor|{Beyim/Madam} – biliyorsunuz ki sizin gibi birkaç {beyden/hanımdan} daha teklif alıyorum. Henüz herhangi birinize yanıt verebilecek bir konumda değilim.
 dlga_lady_suggest_elope:lady_conclude_relationship.1|Ah {playername}, fark etmelisiniz artık. Hâlâ diyar diyar yolunuzu arıyorsunuz. Size karşı büyük bir ilgim var, {playername}, fakat kendimi böylesine meçhul bir şeye adayamam.
 dlga_lady_suggest_elope:lady_conclude_relationship.2|Ah {playername}, bana karşı çok naziksiniz, fakat hâlâ böyle bir riski göze alacak kadar tanımıyorum sizi. Kocamı çok az sevmeme rağmen, ailemin kararlarına karşı gelmiş olmak benim için çok ağır bir şey ve böylesine bir kararı alacak kadar emin değilim sizden.
 dlga_lady_suggest_elope:lady_conclude_relationship.3|Pekâlâ {playername} –kaçmak, ailemle tüm bağlarımı koparmam anlamına gelir, ki onlar benim her şeyim! Sizi seviyorum, fakat böylesine bir riski göze alacağımdan emin değilim.
@@ -1595,7 +1595,7 @@ dlga_lady_recite_poetry:lady_pretalk|Açıkçası, okumaya değer bir şiir dü�
 dlga_lady_recite_poetry_response:lady_private_conversation_end|{s11}
 dlga_lady_private_conversation_end:lady_pretalk|Zaman hızla geçiyor, burada daha fazla oyalanamayız.
 dlga_lady_talk:lady_marriage_discussion|Sizce birlikte bir geleceğimiz olabilir mi, {reg65?hanımefendi:beyefendi}?
-dlga_lady_marriage_discussion:lady_other_suitor|{Beyim/Madam} – biliyorsunuz ki sizin gibi birkaç {beyden/hanımdan} daha teklif aıyorum. Henüz herhangi birinize yanıt verebilecek bir konumda değilim.
+dlga_lady_marriage_discussion:lady_other_suitor|{Beyim/Madam} – biliyorsunuz ki sizin gibi birkaç {beyden/hanımdan} daha teklif alıyorum. Henüz herhangi birinize yanıt verebilecek bir konumda değilim.
 dlga_lady_marriage_discussion:lady_proposal_refused|Benimle ilgili niyetlerinizin ne kadar onurlu olduğunu duymak beni rahatlattı. Fakat belki de böyle şeyler konuşmadan önce birlikte biraz daha vakit geçirmeliyiz.
 dlga_lady_marriage_discussion:lady_proposal_refused.1|Gelecek hakkında ciddi planlarınız olduğunu duymak çok güzel. Yine de, sizinle evlenmeye niyetlenmeden önce biraz daha yükseklere gelebildiğinizi görmek isterdim.
 dlga_lady_marriage_discussion:lady_proposal_refused.2|Benimle ilgili niyetlerinizin ne kadar onurlu olduğunu duymak beni rahatlattı. Yine de, evleneceğim erkeğin yüksek bir ahlaka sahip olmasını beklerim. Bu konuda kendinizi biraz daha kanıtlamış olmanızı dilerdim.
@@ -2390,7 +2390,7 @@ dlga_merchant_quest_persuade_peace_3:merchant_quest_persuade_peace_4|Bu bahsetti
 dlga_merchant_quest_persuade_peace_3:merchant_quest_persuade_peace_4.1|Bu bahsettiğin lordlar kim?
 dlga_merchant_quest_persuade_peace_4:merchant_quest_persuade_peace_5|Bunlar {s15} tarafından {s12} ve {s14} tarafından {s13}. Fikirlerini değiştirinceye veya nüfuzlarını kaybedinceye kadar iki taraf arasında barış diye bir şey olmayacak.
 dlga_merchant_quest_persuade_peace_5:merchant_quest_persuade_peace_6|Bununla ilgili ne yapılabilir peki?
-dlga_merchant_quest_persuade_peace_5:merchant_quest_persuade_peace_6.1|Ne yazik ki bu konuyla ilgili yapılabilecek hiçbir şey yok.
+dlga_merchant_quest_persuade_peace_5:merchant_quest_persuade_peace_6.1|Ne yazık ki bu konuyla ilgili yapılabilecek hiçbir şey yok.
 dlga_merchant_quest_persuade_peace_6:merchant_quest_persuade_peace_7|Sorunu çözmek için bir yol olabilir. Kararlı biri gidip lordların biriyle, hatta ikisiyle birden görüşüp onları barışa ikna etmeyi deneyebilir. Bu yöntem başarısız olsa bile bir şekilde bu lordlara karşı güç kullanarak mevkilerinden indirilip tutsak alınmaları denenebilir. Esaretleri durumunda diğer soylular arasında nüfuzlarını kaybedecekleri için diğer lordlar herhangi bir anlaşmaya karşı çıkmaz... Ne düşünüyorsun? Bunu yapabilir misin?
 dlga_merchant_quest_persuade_peace_7:merchant_quest_persuade_peace_8|Zor görünüyor. Ama yine de deneyeceğim.
 dlga_merchant_quest_persuade_peace_7:merchant_quest_persuade_peace_8.1|Ücret uygunsa, olabilir.

@@ -594,7 +594,7 @@ ui_how_to_change|Nasıl Değiştirilir?
 ui_change_directx_explanation|Çizim metodunu başlangıç ekranındaki Ayarlar düğmesine tıklayarak ulaşacağın ekranda DirectX 7 veya DirectX 9 olarak değiştirebilirsin.
 ui_dropping_picking_up| %s bırakılıyor; %s alınıyor.
 ui_dropping|%s bırakılıyor.
-ui_picking_up| %s alınıyor.
+ui_picking_up|%s alınıyor.
 ui_unable_to_take|Bunu alamazsın.
 ui_age|Yaş
 ui_cannot_be_used_on_horseback|At sırtında kullanılamaz.
