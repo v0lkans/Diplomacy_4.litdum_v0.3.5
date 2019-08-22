@@ -252,7 +252,7 @@ qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?{s3} topraklarındaydı:şu anda {s3} topra
 qstr_{s2}_{reg3?was:is}_t|{s2} {s3} topraklarına doğru {reg3?gidiyordu:gidiyor} ve {reg3?:şu sıralar} {s4} yakınlarında {reg3?idi:olmalı}.
 qstr_{s2}_{reg3?was:is}_tr|{s2} {s3} topraklarına seyahat {reg3?ediyordu:ediyor} ve {reg3?: şu anda} {s4} ile {s1} {reg3?arasındaydı:arasında olmalı}.
 qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?kırdaydı:kırda} ve {reg3?:şu sıralar} {s3} {reg3?yakınlarındaydı:yakınlarında olmalı}.
-qstr_{s2}_{reg3?was:is}_in|{s2} savaş {reg3?meydanındaydı:meydanında} ve {reg3?: şu anda} {s3} ile {s1} {reg3?arasındaydı:arasında olmalı}..
+qstr_{s2}_{reg3?was:is}_in|{s2} savaş {reg3?meydanındaydı:meydanında} ve {reg3?: şu anda} {s3} ile {s1} {reg3?arasındaydı:arasında olmalı}.
 qstr_{s2}_{reg3?was:is}_b|{s2} {s3} zindanında {reg3?hapsedilmişti:tutuluyor}.
 qstr_{s2}_{reg3?was:has_b|{s2} düşmanları tarafından esir {reg3?alınmıştı:tutuluyor}. 
 qstr_{reg3?{s2}_s_locatio|{reg3?{s2} nerede bilinmiyordu:{s2} nerede bilmiyorum}.

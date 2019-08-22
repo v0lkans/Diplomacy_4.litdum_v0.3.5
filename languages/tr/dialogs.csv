@@ -282,7 +282,7 @@ dlga_merchant_quest_2a_whynotcome:merchant_quest_2a|Çünkü sana bu iş için p
 dlga_merchant_quest_2a:close_window.1|Bu konu ile şu anda ilgilenemem.
 dlga_merchant_quest_3a:close_window|Pekâlâ. Ben şimdi haydutların inlerini basıp kardeşini bulmaya gidiyorum.
 dlga_merchant_quest_3a:close_window.1|Bu konu ile şu anda ilgilenemem.
-dlga_start:merchant_quest_persuasion|İstediğini yapabilirsin, {reg65?dostum:hanımım}, ancak hayal kırıklığına uğradım. Bu konuyu tekrar düşünürsen iyi edersin. Ben zengin biriyim ve sana olan minnettarlığımı cömertliğim ile gösterebilirim.
+dlga_start:merchant_quest_persuasion|İstediğini yapabilirsin, {dostum/hanımım}, ancak hayal kırıklığına uğradım. Bu konuyu tekrar düşünürsen iyi edersin. Ben zengin biriyim ve sana olan minnettarlığımı cömertliğim ile gösterebilirim.
 dlga_merchant_quest_persuasion:merchant_quest_1_prologue_3|Sanırım ikna oldum. Size yardım edeceğim.
 dlga_merchant_quest_persuasion:merchant_quest_2|Sanırım ikna oldum. Size yardım edeceğim.
 dlga_merchant_quest_persuasion:merchant_quest_3|Sanırım ikna oldum. Size yardım edeceğim.
