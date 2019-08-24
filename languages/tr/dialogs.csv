@@ -2235,7 +2235,7 @@ dlga_mayor_investment_possible:mayor_pretalk|Burada zaten bir {s4} işletiyorsun
 dlga_mayor_investment_possible:mayor_investment_advice|HİLE: Evet, biz bu özelliği test ediyoruz. Doğruca git.
 dlga_mayor_investment_possible:mayor_pretalk.1|{s9}
 dlga_mayor_investment_possible:mayor_investment_advice.1|Tabii ki, {beyim/hanımım}. Siz bu kasabanın lordusunuz ve kimse sizi durduracak değil. 
-dlga_mayor_investment_possible:mayor_investment|Hımm... Lordumuzla olan ilişkinizi göz önüne alırsak, {s4}, burada size toprak satabilecek kadar cesur birini bulamayacağınızı düşünüyorum.
+dlga_mayor_investment_possible:mayor_investment|Hımm... Lordumuzla olan ilişkinizi göz önüne alırsak ({s4}), burada size toprak satabilecek kadar cesur birini bulamayacağınızı düşünüyorum.
 dlga_mayor_investment_possible:mayor_pretalk.2|Pekâlâ... Dürüst olmak gerekirse, lonca üyeleri sizi daha yakından tanımak isteyeceklerdir. Buraya gelip toprak satın almak isteyen yabancılara konusunda oldukça titizdirler.
 dlga_mayor_investment_possible:mayor_investment_advice.2|Çok güzel, {beyim/hanımım}. Bu loncadaki bizler sizi tanıyor ve güveniyoruz. Sanırım sizin ihtiyacınız olan araziyi size satacak birisini bulabilirim.
 dlga_mayor_investment_advice:investment_choose_enterprise|Aklınızda tutmanız gereken bir kaç şey var – burada vasıflı ustalar az bulunur. Bu yüzden burada birden fazla işletme açabileceğinizden kuşkuluyum. Size yarar sağlayabilecek bir kâr elde etmeniz için, buralarda az bulunan fakat hammaddesi ucuz olan bir malın ticaretini yapmalısınız. Ne tür bir işletme açmayı düşünüyorsunuz?

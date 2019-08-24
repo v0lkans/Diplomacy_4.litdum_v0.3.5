@@ -818,7 +818,7 @@ menu_ship_reembark|Gemiye binmek istiyor musun?
 mno_reembark_yes|Evet.(Mürettebat En az:20, En fazla 100)
 mno_reembark_no|Hayır.
 menu_port|{s1} Limanını ziyaret ettin. Etrafına bakınırken okyanustan gelen sert rüzgar zırhını havalandırıyor. Birçok gemi burada ve mürettebat mal yüklemekle meşgul, bir grup insan ise mal indiriyor. Bunlardan biri limanın başı gibi duruyordu, bu yüzden ona doğru yürüdün ve ondan yardım istedin. Sana şu cevabı verdiğini duyuyorsun:^Ne istiyorsun {delikanlı/küçük hanım}? Burada işimiz var, görmüyor musun!
-mno_Buy_a_ship|Gemi satın al (16000 dinar)
+mno_Buy_a_ship|Gemi satın al (20000 dinar)
 mno_sail_from_port|Geminle açıl.(Mürettebat En az: 20, En fazla: 100)
 mno_manage_ships|Gemileri yönet.
 mno_View_notes|Gemi kayıtlarını görüntüle.

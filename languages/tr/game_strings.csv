@@ -770,7 +770,7 @@ str_npc14_home_intro|Şuradaki kayaların tepesindeki hisarı görüyor musunuz?
 str_npc15_home_intro|Tepedeki kaleyi görüyor musunuz? Culmarr Kalesi derler ona. Yakın zamanda orada çalışmıştım. Diğerleri kadar şatafatlı görünmüyor kuşkusuz, ama diyardaki en iyi taş işçiliğini burada görebilirsiniz.
 str_npc16_home_intro|Şefim! Şuradakileri görüyor musunuz? Şurada karın üzerindekiler tavşan izleri! Doğduğum yerin çok yakınında olmalıyız.
 str_npc1_home_description|Kergitler hep buralarda yaşadılar, eski çağdan beri. Diğer kavimleri dışarıda tutmak için imparator onlara para ve toprak verdi. Dedemin bir Kergit kabile şefi olduğu söylenmişti bana, ancak ben babamı ne kadar tanıyabildiysem annem de dedemi o kadar tanıyabilmiş. Annem genç bir kızken Kergitler dağların ardından gelmeye başlamışlar. Şimdi ise Tulga'da bir Kergit Kağan'ı var.
-str_npc2_home_description|İnsanlar Nordların kana susamış barbarlar olduğunu söylerler ama bana sorarsanız ticareti de iyi yapıyorlar. Kıyı boyunca insanlara keten yetiştirtip, kendileri daha sonra dokumasını yapıyorlar. Lüks bir kumaş olarak Jelkala ipeğiyle yarışamaz tabii ki ama rahat bir yaz kıyafeti oluyor ve gemilerin yelken yapımında bunu kullanabiliyorsun.. Daha da önemlisi, onlardan önce Kalradya'da keten dokumayı yapan başkaları yoktu.
+str_npc2_home_description|İnsanlar Nordların kana susamış barbarlar olduğunu söylerler ama bana sorarsanız ticareti de iyi yapıyorlar. Kıyı boyunca insanlara keten yetiştirtip, kendileri daha sonra dokumasını yapıyorlar. Lüks bir kumaş olarak Jelkala ipeğiyle yarışamaz tabii ki ama rahat bir yaz kıyafeti oluyor ve gemilerin yelken yapımında bunu kullanabiliyorsun. Daha da önemlisi, onlardan önce Kalradya'da keten dokumayı yapan başkaları yoktu.
 str_npc3_home_description|Veluca'da kışlar ıslak ve yazlar da sıcaktır ama insanlar burada tarlalarını sulamak için büyük sarnıçlar inşa ettiler. Üzüm yetiştiriyorlar. Veluca şarabı meşhurdur, {beyim/hanımım}. Şarabı alabilecek parası olanlar duvarlı bahçelerde yaşayıp, geceleri ince nameler eşliğinde satranç oynarlar.
 str_npc4_home_description|Svadya Kralı burayı kendi av alanı olarak ilan etti ve biri çıkıp buraya yayını asacak bile olsa idam edilmesini emretti. Sonra ne mi oldu? Açlık çeken bir aile artık dayanamadı ve kendilerini buradan doyurdular, bir bekçi onları gördü ve baba asılıp toprakları da ellerinden alındı. Oğlanlar aç kalmak yerine haydut olmayı tercih ettiler. Tabi artık doğal olarak vadide ne kadar borçlu, alacaklı, aldatılan, aldatan, ne kadar derdi olan insan varsa gelip onlara katılıyor.
 str_npc5_home_description|Kergitler sürekli buraya gelip avlanıp, ticaret yapıp yağmalarlardı ancak imparatorluğun son zamanlarında buraya yerleşmeyi tercih ettiler. Vaegirler, Svadyalılar, Rodoklar, Nordlar ve Sarran hanedanlığı gibi biz de diğer kavimleri sınırlarda tutmak için imparator tarafından maaşa bağlanmıştık. Ancak dedemin zamanında Büyük Güruh saldırdığında zor kullanarak bu bölgeye hareket ettik. Vaegirleri geri çekilmeye zorlayarak kalelerini ele geçirdik.
@@ -2405,17 +2405,17 @@ str_we_have_been_hitting_them_very_hard_and_giving_them_little_chance_to_recover
 str_the_fighting_has_been_hard_but_we_have_definitely_been_getting_the_better_of_them|Çatışma bayağı zorlu geçiyor fakat kesinlikle onlardan üstün durumdayız.
 str_they_have_been_hitting_us_very_hard_and_causing_great_suffering|Bize çok sert bir şekilde saldırıyorlar ve büyük bir ıstıraba sebep oluyorlar.
 str_the_fighting_has_been_hard_and_i_am_afraid_that_we_have_been_having_the_worst_of_it|Savaş zorlu geçti ve korkarım onlardan kötü durumdayız.
-str_both_sides_have_suffered_in_the_fighting|Savaş iki taraf içinde ızdıraplıydı.
+str_both_sides_have_suffered_in_the_fighting|Savaş iki taraf için de ızdıraplıydı.
 str_no_clear_winner_has_yet_emerged_in_the_fighting_but_i_think_we_are_getting_the_better_of_them|Savaşta galip olan taraf henüz kesinleşmedi, fakat onlardan üstün durumda olduğumuzu düşünüyorum.
 str_no_clear_winner_has_yet_emerged_in_the_fighting_but_i_fear_they_may_be_getting_the_better_of_us|Savaşta galip olan taraf henüz kesinleşmedi, fakat korkarım onlar bizden iyi durumda.
 str_no_clear_winner_has_yet_emerged_in_the_fighting|Savaşta galip olan taraf henüz kesinleşmedi.
 str_there_is_no_campaign_currently_in_progress|Hâlihazırda süregelen bir seferberlik yok.
 str_we_are_assembling_the_army|Orduyu topluyoruz.
 str_we_aim_to_take_the_fortress_of_s8|{s8} kalesini almayı hedefliyoruz.
-str_we_are_on_a_raid_and_are_now_targeting_s8|Şu an akındayız ve hedefimiz {s8}
+str_we_are_on_a_raid_and_are_now_targeting_s8|Şu an akındayız ve hedefimiz {s8}.
 str_we_are_trying_to_seek_out_and_defeat_s8|{s8} hakkında araştırma yapmayı ve orayı devirmeyi dşüünüyoruz.
 str_we_are_riding_to_the_defense_of_s8|{s8} savunmasına saldırmaya gidiyoruz.
-str_we_are_gathering_for_a_feast_at_s8|{s8} topraklarında ziyafet veriyoruz
+str_we_are_gathering_for_a_feast_at_s8|{s8} topraklarında ziyafet veriyoruz.
 str__however_that_may_change_shortly_s14| Genede kısa zamanda değişebilir. {s14}
 str_it_is_our_custom_to_seal_any_such_alliances_with_marriage_and_in_fact_we_have_been_looking_for_a_suitable_groom_for_my_s11_s14|Evliliği ittifakla mühürlemek bizim adetimizdir ve aslında bizde {s14} için uygun bir damat adayı arıyorduk.
 str_once_again_|bir kez daha
