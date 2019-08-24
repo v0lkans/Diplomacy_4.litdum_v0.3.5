@@ -51,7 +51,7 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
     <details>
       <summary>Senaryo 1</summary>
       <p>1) Unvan değiştirme ekranını açtın.</p>
-      <p>2) Metin kutusunu sildin ve 'Paşa' yazdın.</p>
+      <p>2) Metin kutusunda yazan unvanı sildin ve 'Paşa' yazdın.</p>
       <p>3) Onay kutusunu da tikledin ve tamam dedin.</p>
       <p>4) Yazdığın unvanın doğru bir şekilde derebeylerinin isminin sonuna eklendiğini gördün çünkü metin kutusunda bir değişiklin yapmıştın.</p>
      <p>Sıra Senaryo 2'de.</p>
@@ -126,8 +126,10 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
   * NPC Parti Büyüklüğü:
     * Taban Büyüklük *~~+10~~* --> *+30*
   #
-  * *Esir yönetimi:
+  * Esir yönetimi:
     * *Puan başına* **~~+5~~** --> **+10**
+  #
+  * Atlı birlik ücretlerinin taban ücrete oranı **~~%166~~** --> **%200** _(Atlı birlikler artık daha pahalı)_
   #
   * *Yemek her* **~~14~~** --> **12** *saatte bir yenir.*
   #
@@ -138,9 +140,9 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
   #
   * *Raporlar sekmesinde "Sonraki ödeme günü" bilgisi*
   #
-  * *Gemi ücreti* **~~60000~~** --> **20000**
+  * *Gemi ücreti:* **~~60000~~** --> **20000**
   #
-  * Gezgin Kadın Verdiği Moral **~~4~~** --> **20**
+  * Gezgin Kadın Verdiği Moral: **~~4~~** --> **20**
   #
   * Askerlere bira ısmarlama
     * Birim fiyatı **~~25~~** --> **15**
