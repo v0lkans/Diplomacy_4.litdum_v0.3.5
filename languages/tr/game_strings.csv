@@ -1201,7 +1201,7 @@ str_comment_i_blamed_defeat|{s54} ile {s51} şahsının yararına işler yapmas�
 str_comment_i_was_entitled_to_fief|{s54} ile aram, bana vermesi gereken toprakları {s54} denen adama vermesinden dolayı pek iyi değil.
 str_comment_i_quarreled_with_troop_over_woman|{s51} denen adam {s54} ile evlenmek istiyor, hem de ben onunla önceden beri kur yaparken. O adama ondan uzak durması gerektiğini öğreteceğim.
 str_comment_i_quarreled_with_you_over_woman_default|Duyduğuma göre {s54} ile ilgileniyormuşsun. Senin o kadına uygun biri olmadığını biliyorum ve sana tavsiyem, peşinde dolanmayı bırak.
-str_comment_i_quarreled_with_you_over_woman_derisive|Duyduğuma göre {s54} ile ilgileniyormuşsun. Sana bir şey söyleyeyim – Benim delikanlı, onunda genç bir kız olduğu zamanlardan beri onda gözüm var. Bu ülkenin soylu ailelerinden gelme birisidir o ve aklının senin gibi bir yabancı tarafından karıştırılmasına göz yumamam. Ondan uzak dur, yoksa bedelini ödersin!
+str_comment_i_quarreled_with_you_over_woman_derisive|Duyduğuma göre {s54} ile ilgileniyormuşsun. Sana bir şey söyleyeyim – Benim {reg65?genç kız:delikanlı}, onun da {reg4?genç bir kız:delikanlı} olduğu zamanlardan beri onda gözüm var. {s54}, Bu ülkenin soylu ailelerinden gelme birisidir ve aklının senin gibi bir yabancı tarafından karıştırılmasına göz yumamam. Ondan uzak dur, yoksa bedelini ödersin!
 str_comment_player_suggestion_succeeded|Sizin tavsiyenize uydum ve bu işime yaradı.
 str_comment_player_suggestion_failed|Sizin tavsiyenize uydum ve başıma gelmeyen kalmadı. Bunlardan sizi sorumlu tutuyorum.
 str_comment_you_enfiefed_a_commoner_hesitant|Duyduğuma göre {s51} bölgesini kendine {s54} diyen birine vermişsin. Dikkatli ol. Yönetmeyi öğrenmek basit bir iş değildir ve belki de bu yüzden babalar işlerini oğullarına bırakırlar. Sana tavsiyem, aile kurumuna başka birini karıştırma.
@@ -1494,7 +1494,7 @@ str_feast_description_4|kâfi
 str_feast_description_5|bol
 str_feast_description_6|olağanüstü
 str_feast_lengthy_description_1|Senin sunduğun yiyecek konukların ve onların maiyetleri için yetersizdi ve bu onları, kendi yiyeceklerini fahiş bir fiyatla şehrin etrafından satın almak zorunda bıraktı. Katılanların genel kanısına göre evsahibi olarak görevini yerine getiremedin ve bu hem onların sana olan güvenini yıktı, hem de senin toplumdaki saygınlığını azalttı.
-str_feast_lengthy_description_2|Malesef senin sunduğun yiyecek ve içecek tükendiği için bazı konuklar kendilerine bunları seyyar satıcılardan satın almak ya da maiyetlerinin bir kısmını eve geri yollamak zorunda kaldı. İnsaflı olanlar açığı cimriliğe değil plansızlığa bağladılar, fakat her iki şekilde de, bu senin saygınlığın için hiç iyi olmadı.
+str_feast_lengthy_description_2|Maalesef senin sunduğun yiyecek ve içecek tükendiği için bazı konuklar kendilerine bunları seyyar satıcılardan satın almak ya da maiyetlerinin bir kısmını eve geri yollamak zorunda kaldı. İnsaflı olanlar açığı cimriliğe değil plansızlığa bağladılar, fakat her iki şekilde de, bu senin saygınlığın için hiç iyi olmadı.
 str_feast_lengthy_description_3|Sunduğun yiyecek ve içecek soylulara yetse de onların maiyetindeki bir halk tabakasından birkaç kişi faydalanamadılar. En azından sosyal sorumluluklarını kavramış bir soylu olarak ün yapıyorsun.
 str_feast_lengthy_description_4|İtibar yapmana yetecek miktarda ve çeşitlilikte yiyecek ve içecek sağladın. Yiyecek, içecek ve cümbüş misafirlerinin seninle karşılıklı samimiyet kuracak ve sana olan güvenlerini derinleştirecek kadar memnun etti.
 str_feast_lengthy_description_5|Hem misafirlerine, hem onların maiyetlerindekilere yetecek, üstelik de artanları fakirlere dağıtacak bollukta bir masa hazırladın. Misafirlerin cömertliğine ve makamının getirdiği sosyal sorumlulukları kavrayışına övgüler yağdırlar. Yiyecek ve içeceklerle doldurulan karşılıklı konuşmalar katılımcıların arasındaki bağı güçlendirir şekilde ve neşeli geçti.
@@ -2219,7 +2219,7 @@ str_roughlooking_character_in_s4|{s4} içinde sert-görünümlü biri
 str_roughlooking_character_not_found|Sert-görünümlü biri bulunamadı
 str__however_you_have_sufficiently_distinguished_yourself_to_be_invited_to_attend_the_ongoing_feast_in_the_lords_castle| Fakat, kendini lordun kalesinde verilen ziyafete davet ettirmek için yeterince çabaladın.
 str_s8_you_are_also_invited_to_attend_the_ongoing_feast_in_the_castle|{s8}. Ayrıca kalede devam etmekte olan ziyafete davet edildin.
-str_s11_unfortunately_s12_was_wounded_and_had_to_be_left_behind|{s11} Malesef, {s12} yaralandı ve savaş alanında bırakılmak zorunda kalındı.
+str_s11_unfortunately_s12_was_wounded_and_had_to_be_left_behind|{s11} Maalesef, {s12} yaralandı ve savaş alanında bırakılmak zorunda kalındı.
 str_s11_also_s12_was_wounded_and_had_to_be_left_behind|{s11} Ayrıca, {s12} yaralandı ve savaş alanında bırakılmak zorunda kalındı.
 str_with_the_s10|{s10} ile beraber
 str_outside_calradia|Kalradya'nın dışında.

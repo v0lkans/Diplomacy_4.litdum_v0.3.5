@@ -183,7 +183,7 @@ dlga_pretender_progress:pretender_progress_2|{reg11?Şu an tarafımızda {reg11}
 dlga_pretender_progress_2:supported_pretender_pretalk|O zaman savaşmaya devam edip müttefiklerimizi toplamalıyız!
 dlga_pretender_progress_2:pretender_quit_rebel_confirm|Bu isyan bir yere varacağa benzemiyor. Vazgeçmeliyiz.
 dlga_pretender_quit_rebel_confirm:pretender_quit_rebel_confirm_2|{playername}, beni şimdi böyle bırakamazsın. Ciddi misin?
-dlga_pretender_quit_rebel_confirm_2:pretender_quit_rebel_confirm_3|Malesef ciddiyim. Sizi daha fazla destekleyemeyeceğim.
+dlga_pretender_quit_rebel_confirm_2:pretender_quit_rebel_confirm_3|Maalesef ciddiyim. Sizi daha fazla destekleyemeyeceğim.
 dlga_pretender_quit_rebel_confirm_2:supported_pretender_pretalk|Şaka yapıyordum. Muvaffak olana kadar sizin için savaşacağım.
 dlga_pretender_quit_rebel_confirm_3:pretender_quit_rebel_confirm_4|Gerçekten emin misin? Eğer davamı terkedersen seni asla affetmem.
 dlga_pretender_quit_rebel_confirm_4:pretender_quit_rebel|Eminim.
@@ -898,7 +898,7 @@ dlga_lord_challenge_duel_for_lady_2:lord_challenge_duel|Bu yalanlarını geri al
 dlga_lord_challenge_duel_for_lady_2:lord_pretalk|Eğer öyle diyorsan...
 dlga_lord_challenge_duel:close_window|{s15}
 dlga_lord_talk:lord_challenge_courtship_rival|{s5} ile evlenme fikrinden vazgeç!
-dlga_lord_challenge_courtship_rival:lord_challenge_courtship_rival_2|Yoksa ne? Bir kadın için dövüşmek mi istiyorsun? Şunu aklından çıkarma ki – lordumuz, omuz omuza düşmanlara karşı savaşmamız gerekirken, bu çocuksu savaşa girişmemizi öfkeyle karşılayacaktır.
+dlga_lord_challenge_courtship_rival:lord_challenge_courtship_rival_2|Yoksa ne? Bir kadın için dövüşmek mi istiyorsun? Şunu aklından çıkarma ki – omuz omuza düşmanlara karşı savaşmamız gerekirken, bu çocuksu savaşa girişmemizi lordumuz öfkeyle karşılayacaktır.
 dlga_lord_challenge_courtship_rival_2:lord_challenge_duel|Benimle dövüşmekten korkuyor musun?
 dlga_lord_challenge_courtship_rival_2:lord_pretalk|Özür dilerim. Düşüncesizce konuştum...
 dlga_lord_talk:lord_message_delivered|{s9}'{.den} bir mesaj getiriyorum.
@@ -1360,9 +1360,9 @@ dlga_lord_mission_raise_troops_told:lord_mission_raise_troops_accepted|Elbette, 
 dlga_lord_mission_raise_troops_told:lord_mission_raise_troops_rejected|Bu günlerde kimseyi eğitemeyecek kadar meşgulüm.
 dlga_lord_mission_raise_troops_accepted:close_window|Omuzlarımdan büyük bir yük aldın, {playername}. Adamlarıma derhal sana gönüllülerden göndermelerini ve bunların emrin altına tayin edilmelerini söyleyeceğim. Hatta olabilecek harcamaların için bu ödemeyi de kabul et. Yardımın için teşekkürler.
 dlga_lord_mission_raise_troops_rejected:lord_pretalk|Hımm, Pekâlâ. Öyleyse, sana iyi şanslar.
-dlga_lord_tell_mission:lord_mission_collect_taxes_told|Benim {s3} {reg9?şehrinin:köyünün} lordu olduğumu biliyorsundur herhâlde. Her neyse, {s3} hakkım olan vergi ve kiraları bana ulaştırmayalı aylar oldu. Öyle görünüyor ki oradaki halk biraz kanunsuzlaşmaya başladı ve birilerinin onlara yükümlülüklerini hatırlatması gerek. Benim bu 'hatırlatmayı' yapacak birine ihtiyacım var. Hatta dinlemezlerse onları... 'ikna' edecek birine. Eğer oraya gidip bana borçlu oldukları vergileri toplamayı kabul edersen, toplayabildiğin verginin beşte birini sana bırakacağım.
+dlga_lord_tell_mission:lord_mission_collect_taxes_told|Benim {s3} {reg9?şehrinin:} lordu olduğumu biliyorsundur herhâlde. Her neyse, {s3} hakkım olan vergi ve kiraları bana ulaştırmayalı aylar oldu. Öyle görünüyor ki oradaki halk biraz kanunsuzlaşmaya başladı ve birilerinin onlara yükümlülüklerini hatırlatması gerek. Benim bu 'hatırlatmayı' yapacak birine ihtiyacım var. Hatta dinlemezlerse onları... 'ikna' edecek birine. Eğer oraya gidip bana borçlu oldukları vergileri toplamayı kabul edersen, toplayabildiğin verginin beşte birini sana bırakacağım.
 dlga_lord_mission_collect_taxes_told:lord_mission_collect_taxes_accepted|Makul bir teklif, {s65}. Anlaştık.
-dlga_lord_mission_collect_taxes_told:lord_mission_collect_taxes_rejected|Beni affedin, malesef zamanım yok.
+dlga_lord_mission_collect_taxes_told:lord_mission_collect_taxes_rejected|Beni affedin, maalesef zamanım yok.
 dlga_lord_mission_collect_taxes_accepted:close_window|Harika bir gelişme, {playername}. Bu mevzuyu senin sorumluluğuna bırakıyorum. Unutma, bu {reg9?adamlar:köylüler} çok kurnazdırlar. Hakkım olanı bana ödememek için her türlü yalanı söyleyebilirler. Seni kandırmalarına izin verme.
 dlga_lord_mission_collect_taxes_rejected:lord_pretalk|Ah, tamam. Pekâlâ, sana iyi şanslar o zaman.
 dlga_lord_tell_mission:lord_mission_hunt_down_fugitive_told|Bana yardım edebileceğin bir durum var, {s4} adında kanunsuz bir adamla ilgili. Adamlarımdan birini öldürdü ve o zamandan beri adaletten kaçmaya devam ediyor ki ben onun adaletten kaçmasına izin veremem, bu yüzden de kellesine 300 dinar ödül koydum. Katilin arkadaşları bu adamın cinayeti işledikten sonra {s3} civarındaki akrabalarınca saklandığını söylüyorlar. Onu yakalayıp cezasını vererek ödülü sen alabilirsin.
@@ -1387,7 +1387,7 @@ dlga_quest_meet_spy_in_enemy_town_accepted_4:quest_meet_spy_in_enemy_town_accept
 dlga_quest_meet_spy_in_enemy_town_accepted_response:quest_meet_spy_in_enemy_town_accepted_end|Yapılması gerekeni biliyorum. Hoşça kalın lordum.
 dlga_quest_meet_spy_in_enemy_town_accepted_end:lord_pretalk|İyi şanslar, {playername}. Unutma, cümle '{s11}', karşı cümle ise '{s12}'. Bütün raporları bana getir ki, emeğinin karşılığını fazlasıyla al.
 dlga_quest_meet_spy_in_enemy_town_rejected:lord_pretalk|İstediğin gibi olsun, {playername}, o zaman sana az önce casuslarla ilgili söylediğim her şeyi unutmanı şiddetle öneririm. Casuslar yok, hiç olmadılar ve kimse onları bulamayacak. Bunu aklından çıkarma.
-dlga_lord_tell_mission:lord_mission_told_raid_caravan_to_start_war|{s13} ile bu barış durumu beni çok rahatsız ediyor, {playername}. Bunların canlarının istediği gibi yaşamalarına çok fazla müsaade ettik. Şimdi de her geçen gün daha da güçleniyorlar ve züppeliklerinden geçilmiyor! Diyorum ki çok geç olmadan onlara karşı haklı savaşımıza girişmemiz gerekiyor! Malesef bizim taraftaki bazı lordların yufka yüreklilikleri yüzünden seferimizin önü kapatılıyor. Kan görmeye bile dayanamıyor bu adamlar! Peh!
+dlga_lord_tell_mission:lord_mission_told_raid_caravan_to_start_war|{s13} ile bu barış durumu beni çok rahatsız ediyor, {playername}. Bunların canlarının istediği gibi yaşamalarına çok fazla müsaade ettik. Şimdi de her geçen gün daha da güçleniyorlar ve züppeliklerinden geçilmiyor! Diyorum ki çok geç olmadan onlara karşı haklı savaşımıza girişmemiz gerekiyor! Maalesef bizim taraftaki bazı lordların yufka yüreklilikleri yüzünden seferimizin önü kapatılıyor. Kan görmeye bile dayanamıyor bu adamlar! Peh!
 dlga_lord_mission_told_raid_caravan_to_start_war:lord_mission_tell_raid_caravan_to_start_war_2|Haklısın, {s65}, ama ne yapabiliriz ki?
 dlga_lord_mission_told_raid_caravan_to_start_war:quest_raid_caravan_to_start_war_rejected_1|Reddediyorum, bayım. Savaş yerine barışı yeğlerim.
 dlga_lord_mission_tell_raid_caravan_to_start_war_2:lord_mission_tell_raid_caravan_to_start_war_3|Ah, nihayet laftan anlayabilen biriyle karşılaştım. İşin aslı, seninle birlikte yapabileceğimiz bir şeyler var, {playername}. Birilerini kışkırtacağız birazcık. Eğer ordularımızdan biri onların bölgesine girip, kervanlarını veya köylerinden birkaçını talan edebilirse ve belkide arkalarından bir iz bırakırlarsa, bize savaş açmak için tonla sebepleri olmuş olacaktır. Ondan sonra, Pekâlâ, aramızdaki korkaklar bile kendilerini savunmak için harekete geçmek zorunda kalacak. Ne dersin peki? Var mısın?
@@ -1605,7 +1605,7 @@ dlga_lady_proposal_refused:lady_proposal_refused_persuade_check|Belki sizi daha 
 dlga_lady_proposal_refused_persuade_check:lady_proposal_refused_persuade_player_response|Ne söyleyeceksiniz?
 dlga_lady_proposal_refused_persuade_player_response:lady_proposal_refused_persuade_result|Ununtmayın ki aşk bir gül gibidir. Eğer zamanında koparılmazsa solup gider.
 dlga_lady_proposal_refused_persuade_player_response:lady_pretalk|Ah, boş verin.
-dlga_lady_proposal_refused_persuade_result:close_window|Yeter, beyim! Ne siz ne de başkası ile evlenmek için acele etmeyeceğim! Lütfen şimdi beni yalnız bırakın. Sizinle tekrar görüşmeye hazır olduğumda size haber gönderirim.
+dlga_lady_proposal_refused_persuade_result:close_window|Yeter, {beyim/hanımım}! Ne siz ne de başkası ile evlenmek için acele etmeyeceğim! Lütfen şimdi beni yalnız bırakın. Sizinle tekrar görüşmeye hazır olduğumda size haber gönderirim.
 dlga_lady_proposal_refused_persuade_result:lady_betrothed|Oh {playername}, bunun olmasına asla izin veremem! Keşke hemen şimdi evlenebilsek! Ama {s11}{.m} {s4} bize asla izin vermez... Belki de en iyisi birbirimizi bir daha görmememiz...
 dlga_lady_proposal_refused_persuade_result:close_window.1|Oh {playername}, bunun olmasına asla izin veremem! Lütfen hemen şimdi gidip {s11}{.m} {s4}{.den} evlenebilmemiz için izin isteyin!
 dlga_lady_proposal_refused:close_window|Peki o hâlde -- İtibarınıza layık olmak için çaba göstereceğim!
@@ -1616,12 +1616,12 @@ dlga_lady_player_threatens_compel_2:close_window|Evet -- sizin için neyin iyi o
 dlga_lady_other_suitor:lady_pretalk|Bunu duymak beni kahrediyor, {reg65?hanımefendi:beyefendi}, ama böyle şeyler olmak zorunda
 dlga_lady_other_suitor:lady_other_suitor_challenge|Kimmiş bu! Bana derhal onun adını söyleyin!
 dlga_lady_other_suitor:lady_player_threatens_compel|Sıkıldım bu oyunlardan! Ailenizle konuşacağım, sizi benimle evlenmeye zorlasınlar.
-dlga_lady_other_suitor_challenge:lady_pretalk|Minnet duyarım! Ama anladığım kadarıyla zaten bir düelloya katılacaksınız. Fakau bu kişi sizinle dövüşmek zorunda olmayan birisi. Lütfen, diğer işlerinizi çabucak halledin ki, beni bu adamın ilgisinden kurtarabilesiniz!
-dlga_lady_other_suitor_challenge:lady_pretalk.1|Ah! Boş sözler. Duyduğum kadarıyla siz zaten bir düelloya katılacaktınız. Başka bir işe başlamadan önce diğerini bitirin. Ah... Siz erkekler çok aptal olabiliyorsunuz...
-dlga_lady_other_suitor_challenge:lady_other_suitor_challenge_confirm|{s5}. Lütfen, beni bu adamın ilgisinden kurtarın!
+dlga_lady_other_suitor_challenge:lady_pretalk|Minnet duyarım! Ama anladığım kadarıyla zaten bir düelloya katılacaksınız. Başka bir düellonuz varsa, sizinle dövüşmek istemeyecektir. Lütfen, diğer işlerinizi çabucak halledin ki, beni bu {reg0?kadının:adamın} ilgisinden kurtarabilesiniz!
+dlga_lady_other_suitor_challenge:lady_pretalk.1|Ah! Boş sözler. Duyduğum kadarıyla siz zaten bir düelloya katılacaktınız. Başka bir işe başlamadan önce diğerini bitirin. Ah... Siz {erkekler/kadınlar} çok aptal olabiliyorsunuz...
+dlga_lady_other_suitor_challenge:lady_other_suitor_challenge_confirm|{s5}. Lütfen, beni bu {reg0?kadının:adamın} ilgisinden kurtarın!
 dlga_lady_other_suitor_challenge:lady_other_suitor_challenge_confirm.1|Öyle mi? Bu ilginç olacak. Pekâlâ. Rakibiniz {s5}. Bakalım hanginiz daha cesur.
-dlga_lady_other_suitor_challenge:lady_other_suitor_challenge_confirm.2|Ah, olamaz! Keşke bu bir şeref meselesi olmasaydı da, böyle bir teklifi reddedebilseydim. Ne yazık ki, size rakibinizin {s5} olduğunu söylemek zorundayım. Keşke gökler katı bana böylesine düzgün bir yüz vermeseydi de, erkeklerin arzularının hedefi olmasaydım bu kadar!
-dlga_lady_other_suitor_challenge:lady_other_suitor_challenge_confirm.3|Bu sözlere katlanmayacağım! {s5} ile savaşmanız çok anlamsız – Ah, şey...! Yalvarırım efendim, o adı anmadığımı varsayın...
+dlga_lady_other_suitor_challenge:lady_other_suitor_challenge_confirm.2|Ah, olamaz! Keşke bu bir şeref meselesi olmasaydı da, böyle bir teklifi reddedebilseydim. Ne yazık ki, size rakibinizin {s5} olduğunu söylemek zorundayım. Keşke gökler katı bana böylesine düzgün bir yüz vermeseydi de, {erkeklerin/kadınların} arzularının hedefi olmasaydım bu kadar!
+dlga_lady_other_suitor_challenge:lady_other_suitor_challenge_confirm.3|Bu sözlere katlanmayacağım! {s5} ile savaşmanız çok anlamsız – Ah, şey...! Yalvarırım {efendim/hanımım}, o adı anmadığımı varsayın...
 dlga_lady_other_suitor_challenge_confirm:lady_other_suitor_challenge_confirm_yes|Öyle olsun! Onunla kapışacağım!
 dlga_lady_other_suitor_challenge_confirm:lady_other_suitor_challenge_confirm_no|Tekrar düşündüm de, tutkularımın beni ele geçirmesine izin vermişim. Boş verin.
 dlga_lady_other_suitor_challenge_confirm_yes:lady_pretalk|{s15}
@@ -2341,13 +2341,13 @@ dlga_kidnapped_girl_quest_brief:kidnapped_girl_quest_taken|Pekâlâ, fidyeyi al�
 dlga_kidnapped_girl_quest_taken:close_window|Güzel. Bu işte sana güvenebileceğimizi biliyordum. Fidye parasını al, {reg12} dinar. Almadan önce say ve lütfen düşüncesiz bir şeyler yapmaya kalkışma. Unutma kızın tek parça eve dönmesi her şeyden daha önemli!
 dlga_kidnapped_girl_quest_brief:merchant_quest_stall|Üzgünüm şu anda bunu yapamam.
 dlga_kidnapped_girl_liberated_map:kidnapped_girl_liberated_map_2a|Evet, gel benimle. Eve dönüyoruz!
-dlga_kidnapped_girl_liberated_map_2a:close_window|Malesef birliğinde benim için yerin yok.
+dlga_kidnapped_girl_liberated_map_2a:close_window|Maalesef birliğinde benim için yerin yok.
 dlga_kidnapped_girl_liberated_map_2a:close_window.1|Öyle mi? Çok teşekkürler!
 dlga_kidnapped_girl_liberated_map:kidnapped_girl_liberated_map_2b|Burada biraz daha bekle, senin için geleceğim.
 dlga_kidnapped_girl_liberated_map_2b:close_window|Ah, lütfen {beyim/hanımım}, beni buralarda bir başıma bırakmayın!
 dlga_start:kidnapped_girl_liberated_map|Ah, {beyim/hanımım}. Beni kurtardığınız için çok teşekkür ederim. Şimdi beni aileme götürecek misiniz?
 dlga_kidnapped_girl_liberated_battle:kidnapped_girl_liberated_battle_2a|Evet, gel benimle, seni eve götüreceğim.
-dlga_kidnapped_girl_liberated_battle_2a:kidnapped_girl_liberated_battle_2b|Malesef birliğinde benim için yerin yok.
+dlga_kidnapped_girl_liberated_battle_2a:kidnapped_girl_liberated_battle_2b|Maalesef birliğinde benim için yerin yok.
 dlga_kidnapped_girl_liberated_battle_2a:close_window|Gerçekten mi? Çok teşekkür ederim!
 dlga_kidnapped_girl_liberated_battle:kidnapped_girl_liberated_battle_2b|Biraz daha buralarda bekle, senin için döneceğim.
 dlga_kidnapped_girl_liberated_battle_2b:close_window|Oh, lütfen {beyim/hanımım}, beni burada yalnız bırakmayın.
@@ -2369,11 +2369,11 @@ dlga_bandits_awaiting_remeet:bandits_awaiting_remeet_2|Bir işimiz daha var, o p
 dlga_bandits_awaiting_remeet_2:close_window|Ah, öyle demek ki. O zaman buyur bakalım, haydi!
 dlga_start:kidnapped_girl_encounter_1|Ah {beyim/hanımım}. Beni kurtardığınız için size çok teşekkür ederim. Şimdi beni ailemin yanına mı götüreceksiniz?
 dlga_kidnapped_girl_encounter_1:kidnapped_girl_join|Evet, gel benimle, seni eve götüreceğim.
-dlga_kidnapped_girl_join:close_window|Malesef birliğinde benim için yerin yok.
+dlga_kidnapped_girl_join:close_window|Maalesef birliğinde benim için yerin yok.
 dlga_kidnapped_girl_join:close_window.1|Ah çok teşekkür ederim!
 dlga_kidnapped_girl_encounter_1:kidnapped_girl_wait|Burada biraz daha bekle, senin için geleceğim.
 dlga_kidnapped_girl_wait:close_window|Ah, lütfen {beyim/hanımım}, beni buralarda bir başıma bırakmayın!
-dlga_merchant_quest_about_job_2:lost_kidnapped_girl|Malesef kızı buraya gelirken kaybettim.
+dlga_merchant_quest_about_job_2:lost_kidnapped_girl|Maalesef kızı buraya gelirken kaybettim.
 dlga_lost_kidnapped_girl:lost_kidnapped_girl_2|Olamaz! Bunu arkadaşıma nasıl söylerim?
 dlga_lost_kidnapped_girl_2:lost_kidnapped_girl_3|Üzgünüm. Yapabileceğim hiçbir şey yoktu.
 dlga_lost_kidnapped_girl_3:lost_kidnapped_girl_4|Beni hayal kırıklığına uğrattın {playername}. Sana güvenmiştim. İnsanların senin bu görevdeki beceriksizliğini duyacaklar, emin ol. Sana başta fidye olarak verdiğim {reg8} dinarı da geri istiyorum.
