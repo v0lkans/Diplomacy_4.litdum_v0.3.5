@@ -250,9 +250,9 @@ qstr_{s0}_is_visiting_{s1|{s0} {s1} topraklarını ziyaret ediyor.
 qstr_{s1}_and_{s2}_have_m|{s1} ve {s2} barış anlaşması imzaladılar.
 qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?{s3} topraklarındaydı:şu anda {s3} topraklarında}.
 qstr_{s2}_{reg3?was:is}_t|{s2} {s3} topraklarına doğru {reg3?gidiyordu:gidiyor} ve {reg3?:şu sıralar} {s4} yakınlarında {reg3?idi:olmalı}.
-qstr_{s2}_{reg3?was:is}_tr|{s2} {s3} topraklarına seyahat {reg3?ediyordu:ediyor} ve {reg3?: şu anda} {s4} ile {s1} {reg3?arasındaydı:arasında olmalı}.
+qstr_{s2}_{reg3?was:is}_tr|{s2} {s3} topraklarına seyahat {reg3?ediyordu:ediyor} ve {reg3?:şu anda} {s4} ile {s1} {reg3?arasındaydı:arasında olmalı}.
 qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?kırdaydı:kırda} ve {reg3?:şu sıralar} {s3} {reg3?yakınlarındaydı:yakınlarında olmalı}.
-qstr_{s2}_{reg3?was:is}_in|{s2} savaş {reg3?meydanındaydı:meydanında} ve {reg3?: şu anda} {s3} ile {s1} {reg3?arasındaydı:arasında olmalı}.
+qstr_{s2}_{reg3?was:is}_in|{s2} savaş {reg3?meydanındaydı:meydanında} ve {reg3?:şu anda} {s3} ile {s1} {reg3?arasındaydı:arasında olmalı}.
 qstr_{s2}_{reg3?was:is}_b|{s2} {s3} zindanında {reg3?hapsedilmişti:tutuluyor}.
 qstr_{s2}_{reg3?was:has_b|{s2} düşmanları tarafından esir {reg3?alınmıştı:tutuluyor}. 
 qstr_{reg3?{s2}_s_locatio|{reg3?{s2} nerede bilinmiyordu:{s2} nerede bilmiyorum}.
@@ -380,9 +380,9 @@ qstr_wine|şarap
 qstr_{reg6?M:m}y_poppet|{reg6?B:b}enim kuklam
 qstr_{reg0?Y:y}ou|{reg0?S:s}en
 qstr_{reg0?M:m}yself|{reg0?K:k}endim
-qstr_{reg0?O:o}ur_{s1}_{s|{reg0?B:b}izim {s1} {s0}
-qstr_{reg0?M:m}y_{s1}_{s0|{reg0?B:b}enim {s1} {s0}
-qstr_{reg0?Y:y}our_{s1}_{|{reg0?S:s}enin {s1} {s0}
+qstr_{reg0?O:o}ur_{s1}_{s|{reg0?B:b}izim {s1}{.m}{.i}z {s0}
+qstr_{reg0?M:m}y_{s1}_{s0|{reg0?B:b}enim {s1}{.m} {s0}
+qstr_{reg0?Y:y}our_{s1}_{|{reg0?S:s}enin {s1}{.n} {s0}
 qstr_{s2}:_{reg3}_{reg4}_|{s2}: {reg3}, {reg4} days
 qstr_{s4}:_{reg4}|{s4}: {reg4}
 qstr_{s1}_gathering_suppo|{s1}(destek topluyor)
@@ -569,7 +569,7 @@ qstr_You_are_currently_re|Bu aralar şu kitabı okuyorsun: {s8}.
 qstr_You_are_not_reading_|Şimdilik herhangi bir kitabı okumuyorsun.
 qstr_{s5}_and_{s6}|{s5} ve {s6}
 qstr_Your_estates_are:_{s|Mülklerin: {s8}.^{s9}
-qstr_Current_party_size_l|Grup büyüklüğü limiti {reg5}.^Grup büyüklüğü bileşenleri:^^Temel büyüklük:  +30^Liderlik: {s2}{reg1}^Karizma: {s3}{reg2}^Nam: {s4}{reg3}^^Kaleler: {s6}{reg8}^Mareşal: {s7}{reg7}^Kral: {s8}{reg6}^Seviye: {s9}{reg9}^^TOPLAM:  {reg5}
+qstr_Current_party_size_l|Grup büyüklüğü limiti {reg5}.^Grup büyüklüğü bileşenleri:^^Temel büyüklük:  +30^Liderlik: {s2}{reg1}^Karizma: {s3}{reg2}^Nam: {s4}{reg3}^^Kaleler: {s6}{reg8}^Mareşal: {s7}{reg7}^Kral: {s8}{reg6}^^TOPLAM:  {reg5}
 qstr_Your_relation_with_t|Krallıklarla ilişkin:^{s2}
 qstr_Player_renown_is_inc|Oyuncunun namı 100 arttı. 
 qstr_Player_honor_is_incr|Oyuncunun namı 1 yükseldi ve {reg7} oldu.
@@ -819,7 +819,7 @@ qstr_So_be_it._We_are_hon|Öyle olsun.Seni ailemize almaktan onur duyarız.
 qstr__I_will_appreciate_y| Seni evladım gibi seveceğim.
 qstr_I_accept_your_reques|Teklifini kabul ediyorum.Ailemi destekledikçe bizde seni destekleyecegiz.
 qstr_Since_you_have_turne|Çok değerli bir kardeşim olduğundan, artık bütün aile için değerlisin.
-qstr_Your_leader_is_not_e|Senin liderin kral bile değil,neden sana katılayım?
+qstr_Your_leader_is_not_e|Senin liderin kral bile değil, neden sana katılayım?
 qstr_{s40}_I_would_never_|{s40} Kalesi veya şehri olmayan birine asla katılmam.
 qstr_{s40}_I_know_too_lit|{s40} senin liderin hakkında çok az şey biliyorum.
 qstr_{s40}_I_found_your_m|{s40} Senin gönderdiğin ulağı inandırıcı bulmadım.

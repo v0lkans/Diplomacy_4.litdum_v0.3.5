@@ -22,7 +22,7 @@ qst_report_to_army|Mareşale ({s13}) rapor ver.
 qst_deliver_cattle_to_army|{s13} için {reg3} baş sığır götür.
 qst_join_siege_with_army|{s14} kuşatmasına katıl
 qst_screen_army|{s13} ordusunun ilerlemesini görüntüle
-qst_scout_waypoints|{s13}, {s14} ve {s15}{.i} gözle.
+qst_scout_waypoints|{s13}, {s14} ve {s15}{.n}{.i} gözle.
 qst_rescue_lord_by_replace|{s13} kişisini {s14} kişisinden kurtar.
 qst_deliver_message_to_prisoner_lord|{s14} bölgesindeki {s13}'{.e} mesaj ilet.
 qst_duel_for_lady|{s13}'{.i} düelloya davet et.

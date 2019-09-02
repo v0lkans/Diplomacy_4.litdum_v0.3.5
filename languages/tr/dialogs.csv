@@ -237,12 +237,12 @@ dlga_member_kingsupport_2a:do_member_trade|{s21}
 dlga_member_kingsupport_3:member_kingsupport_3a|{s21}
 dlga_member_kingsupport_3a:member_kingsupport_4|Çok iyi. Bunu sen yap.
 dlga_member_kingsupport_3a:do_member_trade|Tekrar düşündüm de, bir süre benimle kal
-dlga_member_kingsupport_4:close_window|O hâlde şimdilik hoşçakal, {s21}.
+dlga_member_kingsupport_4:close_window|O hâlde şimdilik hoşça kal, {s21}.
 dlga_member_intelgathering_1:member_intelgathering_3|{s21}
 dlga_member_intelgathering_3:member_intelgathering_3|Tabii ki, bunu mümkün olduğu kadar az insan bilmeli. Eğer bilgi almak veya beni kaleden geri çekmek istersen, haberci yollama. Gel ve kendin al – bu kale kapısından sızman anlamına gelse de.
 dlga_member_intelgathering_3:member_intelgathering_4|Harika fikir – Bunu sen yap.
 dlga_member_intelgathering_3:do_member_trade|Aslında, şimdilik uzak dur.
-dlga_member_intelgathering_4:close_window|Güzel. 5 güne rapor vermeye hazır olurum. O hâlde şimdilik hoşçakal, {s21}.
+dlga_member_intelgathering_4:close_window|Güzel. 5 güne rapor vermeye hazır olurum. O hâlde şimdilik hoşça kal, {s21}.
 dlga_merchant_quest_4_start:close_window|Şimdi aslanlar! Üzerlerine çullanın!
 dlga_start:relative_saved_1a|Teşekkürler! Teşekkürler! Beni bu eşkıyaların elinden kurtardın! Beni kurtarman için seni buraya {s9}'{.de} ki ağabeyim mi gönderdi?
 dlga_relative_saved_1a:close_window|Evet. Ona, seni bulacağıma dair söz vermiştim. Sana tavsiyem, şimdi mümkün olduğunca çabuk ailenin yanına dön ve giderken çok dikkatli ol.
@@ -431,7 +431,7 @@ dlga_companion_quitting_response:companion_quitting_no|Unutma ki biz bu gruptan 
 dlga_companion_quitting_no:companion_quitting_no_confirm|Oo, öyle mi... Söylediklerinizde ciddi misiniz?
 dlga_companion_quitting_no_confirm:companion_quitting_no_confirmed|Kesinlikle. Bu gruptan ya benim emrimle ayrılırsın, ya da bedenin kalkanının üzerinde dışarı taşınırken.
 dlga_companion_quitting_no_confirm:companion_quitting_yes|Hayır, aslında onu kastetmemiştim. Gitmekte serbestsin.
-dlga_companion_quitting_yes:close_window|O zaman bu bir veda. Hoşçakal, {playername}.
+dlga_companion_quitting_yes:close_window|O zaman bu bir veda. Hoşça kal, {playername}.
 dlga_companion_quitting_no_confirmed:close_window|Hmm... O hâlde kalıyorum, sanırım.
 dlga_event_triggered:companion_objection_response|{s5}
 dlga_companion_objection_response:close_window|Teşekkürler, desteğini takdir ediyorum.
@@ -462,7 +462,7 @@ dlga_companion_home_description_3:close_window|{s5}
 dlga_event_triggered:rebel_thanks_answer|{s6}
 dlga_rebel_thanks_answer:rebel_thanks_answer_2|Davanız için savaşmak bir şerefti, {reg65?hanımım:lordum}.
 dlga_rebel_thanks_answer:rebel_thanks_answer_2.1|Her zaman yanınızda olacağım, {reg65?hanımım:efendim}
-dlga_rebel_thanks_answer_2:close_window|Maceracı zamanlarımızı özleyeceğim, ama görev beni bekliyor. O hâlde... şimdilik hoşçakal, {playername}. Umarım yakın zamanda tekrar görüşürüz.
+dlga_rebel_thanks_answer_2:close_window|Maceracı zamanlarımızı özleyeceğim, ama görev beni bekliyor. O hâlde... şimdilik hoşça kal, {playername}. Umarım yakın zamanda tekrar görüşürüz.
 dlga_event_triggered:companion_political_grievance_response|{s21}
 dlga_companion_political_grievance_response:close_window|Fikriniz dikkate alındı.
 dlga_event_triggered:companion_rejoin_response.4|Merhabalar, {s21}. Size tekrar katılabilir miyim?
@@ -574,7 +574,7 @@ dlga_pretender_discuss_rebellion_3:pretender_rebellion_ready|Yetenekli bir sava�
 dlga_pretender_rebellion_ready:lord_give_oath_2|Kendimi davanıza adamaya hazırım, {reg3?hanımım:efendim}.
 dlga_pretender_rebellion_ready:pretender_end|Bir süre daha bekleyelim.
 dlga_lord_give_conclude_2:close_window|O hâlde ileri! İlk görevimiz bir kale ele geçirip diğer lordları bize katılmaları için ikna etmek. Yolumuza öncülük et!
-dlga_pretender_end:close_window|Şimdilik hoşçakal o zaman.
+dlga_pretender_end:close_window|Şimdilik hoşça kal o zaman.
 dlga_start:lord_event_choose_friend|{s6} denen {s43} ile dostluk kurduğunu duydum. İnan bana o adama güvenilmez. Onunla ilişkilerini sona erdirmelisin.
 dlga_lord_event_choose_friend:lord_event_choose_friend_renounce|Seni temin ederim, {s65}, {s6} dostum değil.
 dlga_lord_event_choose_friend_renounce:lord_pretalk|Güzel haberler, {playername}. Öbür türlü güvenliğin için endişelenirdim. Eğer {s6} karışına çıkarsan, savunmada ol ve bir kelimesine bile inanma.
@@ -585,7 +585,7 @@ dlga_lord_event_choose_friend_neutral:lord_pretalk|Hmm. Nasıl istersen, {player
 dlga_start:lord_start.4|Evet, {s0}?
 dlga_start:lord_start.5|Seni görmek çok güzel, eski dostum.
 dlga_start:lord_start.6|Evet, {Beyim/Hanımım}?
-dlga_start:lord_invite_player_monarch_1|Evet, {playername}. Senin kendini hükümdar ilan etme arsızlığını göstermeni görmezden gelmeye hazırım ve derebeylerimden biri olarak krallığıma şerefinle katılabilirsin. Bana bağlılık yemini etmeye hazır mısın?
+dlga_start:lord_invite_player_monarch_1|Evet, {playername}. Senin kendini hükümdar ilan etme arsızlığını görmezden gelmeye hazırım ve derebeylerimden biri olarak krallığıma şerefinle katılabilirsin. Bana bağlılık yemini etmeye hazır mısın?
 dlga_lord_invite_player_monarch_1:lord_invite_2|Evet... Hükümdarım.
 dlga_lord_invite_player_monarch_1:lord_enter_service_reject|Hayır. Bu yemin boğazıma diziliyor.
 dlga_start:lord_invite_1|{playername}, ben de seni bekliyordum. Yiğitliğine dair sözler kulaklarıma kadar geldi. Böylesine cesaret dolu kahramanlık öykülerini duyunca hızlıca kararımı verdim. Derebeyim olmaya değecek birisini bulduğumu biliyordum.
@@ -1185,8 +1185,8 @@ dlga_lord_give_oath_3:lord_give_oath_give_up|Kusura bakmayın, {reg65?hanımım:
 dlga_lord_give_oath_4:lord_give_oath_5|Nefes aldığım sürece sadık ve bağlı {adamınız/takipçiniz} olarak kalacağım...
 dlga_lord_give_oath_5:lord_give_oath_6|Nefes aldığım sürece sadık ve bağlı {adamınız/takipçiniz} olarak kalacağım...
 dlga_lord_give_oath_5:lord_give_oath_give_up|{reg65?Hanımım:Efendim}, bunu düşünmek için biraz zaman isteyebilir miyim?
-dlga_lord_give_oath_6:lord_give_oath_7|...ve kılıcıma ihtiyaç duyarsanız, düşmanlarınızla savaşmak üzere yanınızda olacağım
-dlga_lord_give_oath_7:lord_give_oath_8|...ve kılıcıma ihtiyaç duyarsanız, düşmanlarınızla savaşmak üzere yanınızda olacağım
+dlga_lord_give_oath_6:lord_give_oath_7|...ve kılıcıma ihtiyaç duyarsanız, düşmanlarınızla savaşmak üzere yanınızda olacağım.
+dlga_lord_give_oath_7:lord_give_oath_8|...ve kılıcıma ihtiyaç duyarsanız, düşmanlarınızla savaşmak üzere yanınızda olacağım.
 dlga_lord_give_oath_7:lord_give_oath_give_up|{reg65?Hanımım:Lordum}, lütfen bana bunu düşünmek için daha fazla vakit verin.
 dlga_lord_give_oath_8:lord_give_oath_9|Son olarak, sizin ve varislerinizin davalarını destekleyeceğim.
 dlga_lord_give_oath_9:lord_give_oath_10|Son olarak, sizin ve varislerinizin davalarını destekleyeceğim.
@@ -1195,7 +1195,7 @@ dlga_lord_give_oath_10:lord_give_oath_go_on_2|Pekâlâ. Bana kutsal yeminini ett
 dlga_lord_give_oath_go_on_2:lord_give_oath_go_on_3|Bu günden itibaren biline, benim yeminli {adamım/takipçim} ve derebeyimsin. Sana korunma ve adıma silah taşıma hakkını bahşediyorum ve ülke kanunu veya diğer asillerin meşru muhakemesi dışında hayatın boyunca özgürlüğünden ya da mallarından mahrum kılınmayacağına dair söz veriyorum. {reg1?Buna ek olarak sana {s1} toprağını, tüm kira ve geliriyle bahşediyorum.:}
 dlga_lord_give_oath_go_on_3:lord_give_conclude|Zekice davrandın, {playername}. Bana iyi hizmet et ve sözüm olsun, şanın yükselip duracaktır.
 dlga_lord_give_conclude:lord_give_conclude_2|{s41}
-dlga_lord_give_conclude_2:close_window.1|Peki öyleyse, sevgili karım. Umarım bütün derebeylerim senin kadar yürekli ve sadık olur.
+dlga_lord_give_conclude_2:close_window.1|Peki öyleyse, {s0}. Umarım bütün derebeylerim senin kadar yürekli ve sadık olur.
 dlga_lord_give_conclude_2:close_window.2|Sana dair büyük umutlarım var {playername}. Eminim bulunduğun yeri ne kadar hakettiğini ispat edeceksin.
 dlga_lord_ask_enter_service:lord_enter_service_swear|Heh, zekice, {playername}. Sadık hizmetle, yanımda duran bir {adam/kadın} zengin ve güçlü olabilir ve düşmanlarımız... eh, düşmanlarımız sapır sapır düşecekler. Ama hizmetime girmek için öncelikle tüm yemin ve bağlardan kurtulmalı ve sadece {s5}na hizmet etmeye yemin etmelisin.
 dlga_lord_enter_service_swear:lord_enter_service_swear_accepted|Öyle olacağına yemin ediyorum, {s65}.
@@ -1214,7 +1214,7 @@ dlga_lord_ask_leave_service_verify_again:lord_ask_leave_service_giveup|Tabii ki 
 dlga_lord_ask_leave_service_3:lord_ask_leave_service_end|Nasıl istersen. Burada tüm yeminlerini boş ve geçersiz sayıyorum. Artık adıma toprak ya da makam sahibi değilsin ve evime olan görevlerinden azat edildin. Özgürsün, {playername}.
 dlga_lord_ask_leave_service_end:lord_ask_leave_service_end_2|Teşekkürler, efendim. Size hizmet etmek bir şerefti...
 dlga_lord_ask_leave_service_end:lord_ask_leave_service_end_2.1|Teşekkürlerimi sunarım. Tekrar özgür olmak güzel.
-dlga_lord_ask_leave_service_end_2:close_window|O zaman hoşçakal, {playername} ve iyi şanslar dilerim.
+dlga_lord_ask_leave_service_end_2:close_window|O zaman hoşça kal, {playername} ve iyi şanslar dilerim.
 dlga_lord_active_mission_1:lord_lend_companion_end|Ah, yoldaşını geri mi istiyorsun? Anlıyorum...
 dlga_lord_active_mission_1:lord_pretalk|{playername}, lütfen biraz daha sabret, yoldaşına hâlâ ihtiyacım var. Lütfen durumlar yerine oturunca gel.
 dlga_lord_active_mission_1:lord_active_mission_2|Evet, herhangi bir gelişme var mı?
@@ -1347,7 +1347,7 @@ dlga_lord_mission_deliver_message_rejected_rudely_2:lord_mission_deliver_message
 dlga_lord_mission_deliver_message_rejected_rudely_2:lord_mission_deliver_message_accepted|Asabiyetimi bağışlayın, {s65}. Mektubunuzu yerine ulaştıracağım.
 dlga_lord_mission_deliver_message_rejected_rudely_3:close_window|Tamam, bunu hatırlayacağım.
 dlga_lord_tell_mission:lord_mission_deliver_message.1|{s15}'ndan {s13} için mektup var. Eğer o tarafa gidiyorsan ona mektubu iletebilir misin? Yeri {s4}. 40 gün içinde mektubun eline ulaşması gerekiyor.
-dlga_lord_tell_mission:lord_mission_told|Şöyle ufak bir şey var... {s17}mın {s14}ndeki akrabalarını ziyaret etmesi gerek. Bu ziyaret şimdiden yollarda çıkabilecek sıkıntılar yüzünden birkaç kez ertelendi, ancak bu sefer gitmeye kararlı. Ben de en azından gideceği yere iyi bir koruma eşliğinde gitmesini istiyorum. Sana güveniyorum {playername} ve eğer onu {s14}ne kadar götürüp gideceği yere sağ salim ulaştırırsan sana minnettar olurum.
+dlga_lord_tell_mission:lord_mission_told|Şöyle ufak bir şey var... {s17}{.m}{.nin} {s14}ndeki akrabalarını ziyaret etmesi gerek. Bu ziyaret şimdiden yollarda çıkabilecek sıkıntılar yüzünden birkaç kez ertelendi, ancak bu sefer gitmeye kararlı. Ben de en azından gideceği yere iyi bir koruma eşliğinde gitmesini istiyorum. Sana güveniyorum {playername} ve eğer onu {s14}ne kadar götürüp gideceği yere sağ salim ulaştırırsan sana minnettar olurum.
 dlga_lord_tell_mission:lord_mission_deal_with_bandits_told|{s15} köyümü haydutlar ele geçirdi. Çevredeki tarlaları yağmalayıp, hayvanlarımı kullanıp, vergilerimi çalıyorlar. Oraya gidip onlara bir ders vermeyi çok isterdim, fakat şu an yapmam gereken çok önemli işler var ve bu konuda hiçbir şey yapamıyorum.
 dlga_lord_mission_deal_with_bandits_told:lord_mission_deal_with_bandits_accepted|Endişelenme, {s15} topraklarına doğru yola çıkacağım ve senin için o pisliklerden kurtulacağım.
 dlga_lord_mission_deal_with_bandits_told:lord_mission_deal_with_bandits_rejected|Başka birinden yardım alman gerekecek, zira şu sıralar çok meşgulüm.
@@ -1448,16 +1448,16 @@ dlga_lord_mission_told:lord_mission_rejected|Korkarım bu görevi şu sıralar k
 dlga_lord_mission_accepted:close_window|Mükemmel, {playername}, mükemmel. Sana sonuna kadar güveniyorum.
 dlga_lord_mission_rejected:close_window|Öyle mi? Demek ki bu iş için uygun biri değilsin. Demek ki daha cesaretli birilerini bulmam gerek.
 dlga_lord_talk:lord_leave_prison|Şimdi gitmem gerekiyor.
-dlga_lord_talk:lord_leave|Bu görüşme bitmiştir. Ben gidiyorum....
+dlga_lord_talk:lord_leave|Bu görüşme bitmiştir. Ben gidiyorum...
 dlga_lord_talk:lord_leave.1|İzninizle şimdi gidiyorum...
 dlga_lord_leave:lord_leave_give_quest|Gitmeden önce, senden bir şey isteyeceğim... Bu savaşta düşman olabiliriz, ama yine de birbirimize karşı medeni olabiliriz. Nitekim benim için önemi olan bir konuda bana yardımcı olmanı isteyeceğim.
 dlga_lord_leave_give_quest:enemy_lord_tell_mission|Dinliyorum.
 dlga_enemy_lord_tell_mission:lord_mission_told|Eskiden savaşçı olan bir arkadaşım çok hasta... Eski bir savaş yarası enfeksiyon kapmış ve korkarım yakınlarda bir hekime görünemezse ölecek.. Bu adam yakınımdır, {playername}, ama aynı zamanda bir keçi kadar inatçı ve doktorlara güvenmediği için kimsenin yarasına bakmasına izin vermiyor. Duyduğuma göre grubun içerisinde marifetli bir cerrah bulunmaktaymış. Eğer cerrah arkadaşın buraya gelip bir bakabilirse, belki arkadaşımın inadını kırıp onu bir ameliyata ikna edebilir. Lütfen, bu ricamı gerçekleştirirsen sana çok minnetar olacağım.
 dlga_lord_leave_prison:close_window|Tekrar karşılaşacağız.
-dlga_lord_leave:close_window|Hoşçakalın, hanımım. Daima sizin en ateşli aşığınız olarak kalacağım.
-dlga_lord_leave:close_window.1|Tabii ki. Hoşçakal.
+dlga_lord_leave:close_window|Hoşça kalın, hanımım. Daima sizin en ateşli aşığınız olarak kalacağım.
+dlga_lord_leave:close_window.1|Tabii ki. Hoşça kal.
 dlga_lord_leave:close_window.2|İyi yolculuklar.
-dlga_lord_leave:close_window.3|Evet, evet. Hoşçakal.
+dlga_lord_leave:close_window.3|Evet, evet. Hoşça kal.
 dlga_lord_leave:close_window.4|Tekrar görüşeceğiz.
 dlga_member_chat:lady_journey_1|Yolculuğu beğendin mi, {s65}?
 dlga_lady_journey_1:close_window|Gayet iyi gidiyor, {playername}. İlginiz için teşekkür ederim.
@@ -1544,7 +1544,7 @@ dlga_lady_proposal_pending:close_window|Şimdilik bir şey yok...
 dlga_lady_proposal_pending:lady_proposal_pending_end|Tekrar düşündüm de, şu sıralar evlenmemiz için uygun bir vakit değil.
 dlga_lady_proposal_pending_end:close_window|{s11}
 dlga_lady_betrothed:lady_suggest_elope|Asla! Bir an önce kaçmalıyız!
-dlga_lady_betrothed:lady_pretalk|Belki de lordunun fikrini değiştirebilirim.
+dlga_lady_betrothed:lady_pretalk|Belki de {s11}'{.nin} fikrini değiştirebilirim.
 dlga_lady_betrothed:lady_conclude_relationship|Öyle olsun – ayrılalım o hâlde.
 dlga_lady_suggest_elope:lady_conclude_relationship|Pekâlâ {playername} – siz iyi ve cömert birisiniz, fakat bir kadın ailesine meydan okuyamaz. Bu tür şeylerin olması mümkün değil.
 dlga_lady_suggest_elope:lady_other_suitor|{Beyim/Madam} – biliyorsunuz ki sizin gibi birkaç {beyden/hanımdan} daha teklif alıyorum. Henüz herhangi birinize yanıt verebilecek bir konumda değilim.
@@ -1599,7 +1599,7 @@ dlga_lady_marriage_discussion:lady_other_suitor|{Beyim/Madam} – biliyorsunuz k
 dlga_lady_marriage_discussion:lady_proposal_refused|Benimle ilgili niyetlerinizin ne kadar onurlu olduğunu duymak beni rahatlattı. Fakat belki de böyle şeyler konuşmadan önce birlikte biraz daha vakit geçirmeliyiz.
 dlga_lady_marriage_discussion:lady_proposal_refused.1|Gelecek hakkında ciddi planlarınız olduğunu duymak çok güzel. Yine de, sizinle evlenmeye niyetlenmeden önce biraz daha yükseklere gelebildiğinizi görmek isterdim.
 dlga_lady_marriage_discussion:lady_proposal_refused.2|Benimle ilgili niyetlerinizin ne kadar onurlu olduğunu duymak beni rahatlattı. Yine de, evleneceğim erkeğin yüksek bir ahlaka sahip olmasını beklerim. Bu konuda kendinizi biraz daha kanıtlamış olmanızı dilerdim.
-dlga_lady_marriage_discussion:lady_betrothed|Ah {playername}, beni nasıl mutlu ettiniz! Fakat vasim ({s4}) alsa izin vermeyecektir... Belki de ayrılmamız en iyisi...
+dlga_lady_marriage_discussion:lady_betrothed|Ah {playername}, beni nasıl mutlu ettiniz! Fakat vasim ({s4}) asla izin vermeyecektir... Belki de ayrılmamız en iyisi...
 dlga_lady_marriage_discussion:close_window|Ah {playername}, beni nasıl mutlu ettiniz! Gidip vasimden ({s4}) izin alın!
 dlga_lady_proposal_refused:lady_proposal_refused_persuade_check|Belki sizi daha fazla beklememek için ikna edebilirim.
 dlga_lady_proposal_refused_persuade_check:lady_proposal_refused_persuade_player_response|Ne söyleyeceksiniz?
@@ -1708,7 +1708,7 @@ dlga_seneschal_talk:seneschal_ask_something|Bir soru sormak istiyorum...
 dlga_seneschal_talk:seneschal_ask_about_someone|Biri hakkında detaylı bir bilgi istiyordum...
 dlga_seneschal_ask_about_someone:seneschal_ask_about_someone_2|Belki ben yardımcı olabilirim. Aklınızdaki kim?
 dlga_seneschal_ask_about_someone_2:seneschal_pretalk|Boş ver.
-dlga_seneschal_talk:close_window|Şimdi ayrılmam gerekiyor. Hoşçakalın.
+dlga_seneschal_talk:close_window|Şimdi ayrılmam gerekiyor. Hoşça kalın.
 dlga_seneschal_ask_something:seneschal_ask_something_2|Yardım etmek için elimden geleni yapacağım. Sormak istediğiniz nedir?
 dlga_seneschal_ask_something_2:seneschal_ask_location|Belki birinin yerini biliyorsundur...
 dlga_seneschal_ask_location:seneschal_ask_location_2|Benim durumumda bir adam pekçok şey işitir. Düşündüğünüz tam olarak kimdir?
@@ -1971,7 +1971,7 @@ dlga_ransom_broker_ransom_companion_verify:ransom_broker_ransom_companion_accept
 dlga_ransom_broker_ransom_companion_verify:ransom_broker_ransom_companion_refuse|Bunu ödeyecek param yok.
 dlga_ransom_broker_ransom_companion_accept:ransom_broker_talk|Mükemmel! Birkaç gün içinde {s5} yanınıza gelip grubunuza tekrar katılacaktır ve eminim çok müteşekkir olacaktır! Size yardımcı olabileceğim başka bir şey var mıydı?
 dlga_ransom_broker_ransom_companion_refuse:ransom_broker_talk|Elbette, elbette... Sıçanlar hakkında söylediklerimi boş verin -- Onlardan birini gözlerimle görmedim, zaten zindanın zifiri karanlığında bir şey görmek mümkün değildi. Neyse, eminim {s5} paranızı başka yerlere harcamanızı anlayışla karşılayacaktır. Şimdi... Başka bir şey var mıydı?
-dlga_ransom_broker_talk:close_window|Bu sefer olmaz. Hoşçakal
+dlga_ransom_broker_talk:close_window|Bu sefer olmaz. Hoşça kal
 dlga_ransom_broker_sell_prisoners:ransom_broker_sell_prisoners_2|Bir bakalım nelerin varmış...
 dlga_ransom_broker_sell_prisoners_2:close_window|Birkaç gün daha buralarda kalacağım. Hizmetlerimden faydalanmak istersen bana söyle.
 dlga_start:tavern_traveler_talk|Selam dostum. Beni tanıması işine yarayabilecek bir {adama/kişiye} benziyorsun. Kalradya'da diyarlar boyunca seyahat ederim ve kulağım iyi duyar. Faydalı bilgiler sunabilirim. Uygun bir ücret karşılığı tabii ki.
@@ -2007,11 +2007,11 @@ dlga_tavern_traveler_companion_location_ask_2:tavern_traveler_companion_location
 dlga_tavern_traveler_companion_location_ask_money:tavern_traveler_companion_location_tell|Pekâlâ, işte 30 dinar.
 dlga_tavern_traveler_companion_location_ask_money:tavern_traveler_pretalk|Boş ver gitsin.
 dlga_tavern_traveler_companion_location_tell:tavern_traveler_pretalk|{s15} şu an {s11} civarlarında.
-dlga_tavern_traveler_talk:close_window|Hoşçakal.
+dlga_tavern_traveler_talk:close_window|Hoşça kal.
 dlga_start:tavern_traveler_answer|Merhabalar. {s17} bölgesine sürekli seyahat etmemle ilgilenecek bir {bey/hanım} olduğunuz söyleniyor. 100 dinar karşılığında size bildiğim her şeyi anlatabilirim.
 dlga_tavern_traveler_answer:tavern_traveler_continue|İşte 100 dinar. Anlat bakalım.
 dlga_tavern_traveler_answer:close_window|Üzgünüm dostum, ilgilenmiyorum.
-dlga_tavern_traveler_continue:close_window|Bildiklerim bu kadar. Hoşçakal.
+dlga_tavern_traveler_continue:close_window|Bildiklerim bu kadar. Hoşça kal.
 dlga_start:bookseller_talk|İyi günler {beyim/hanımım}, kitaplarıma bakmak ister misiniz?
 dlga_bookseller_talk:bookseller_buy|Evet, neler satıyorsun bakalım bir.
 dlga_bookseller_buy:book_trade_completed|Tabii ki {beyim/hanımım}.
@@ -2054,7 +2054,7 @@ dlga_minstrel_gossip_maiden_selected_2:minstrel_postgossip.1|{s12}.
 dlga_minstrel_gossip_maiden_selected_2:minstrel_postgossip.2|{s12}.
 dlga_minstrel_postgossip:minstrel_pretalk|Çok ilginç – neyse, başka konulardan bahsedelim.
 dlga_minstrel_postgossip:minstrel_gossip|Çok ilginç – Başka bir haber var mı?
-dlga_minstrel_postgossip:minstrel_duel_confirm|Ne? O kahpe, kılıcımla yüzleşek
+dlga_minstrel_postgossip:minstrel_duel_confirm|Ne? O kahpe, kılıcımla yüzleşek!
 dlga_minstrel_duel_confirm:minstrel_duel_confirm_2|Öyle mi? {s11} onuru için savaşmak zorunda kalacaktır, fakat bir lordla bir kadın için dövüşmek pek akıllıca değil, bu cengaver yaşta bile.
 dlga_minstrel_duel_confirm_2:minstrel_duel_issued|Evet -- {s11} {s12} ile evlenme planlarından vazgeçsin diye onu zorlayacağım
 dlga_minstrel_duel_confirm_2:minstrel_pretalk|Hayır – İhtiraslarımın benimle birlikte kaçmasına izin vereceğim
@@ -2136,7 +2136,7 @@ dlga_start:trainer_talk|İyi günler. Bugün için biraz eğitime hazır mısın
 dlga_trainer_pretalk:trainer_talk|Ah, bugün için biraz eğitime hazır mısın?
 dlga_trainer_talk:trainer_practice_1|Biraz talim yapmaya hazırım!
 dlga_trainer_talk:trainer_combat_begin|İlkin, dövüşle ilgili bir şeyler anlat...
-dlga_trainer_talk:close_window|Artık gitmem lazım. Hoşçakal...
+dlga_trainer_talk:close_window|Artık gitmem lazım. Hoşça kal...
 dlga_trainer_combat_begin:trainer_talk_combat|Ne öğrenmek istiyorsun?
 dlga_trainer_combat_pretalk:trainer_talk_combat|Başka ne öğrenmek istiyorsun?
 dlga_trainer_talk_combat:trainer_explain_defense|Kendimi nasıl koruyacağımı anlat.
@@ -2197,9 +2197,9 @@ dlga_lord_deal_with_night_bandits_completed:close_window|Benim için bir zevkti 
 dlga_mayor_begin:mayor_looters_quest_response|Ah, {playername}. Herhangi bir ilerleme kaydettin mi?
 dlga_mayor_looters_quest_response:mayor_looters_quest_destroyed|Birkaç yağmacı öldürdüm.
 dlga_mayor_looters_quest_response:mayor_looters_quest_goods|Size bir miktar malzeme getirdim.
-dlga_mayor_looters_quest_response:close_window|Henüz değil bayım. Hoşçakalın.
+dlga_mayor_looters_quest_response:close_window|Henüz değil bayım. Hoşça kalın.
 dlga_mayor_looters_quest_destroyed:mayor_looters_quest_destroyed_2|Evet, gözcülerim yaptığın her şeyi gördüler. Bu kanunsuzların sonu, diğerlerinin de bir kere daha düşünmesini sağlayacak! Prim çete başına 40 dinardı, bu da toplamda {reg1} dinar yapıyor. Anlaştığımız gibi, paran burada.
-dlga_mayor_looters_quest_destroyed_2:close_window|Ayrıca tek iyi haber bu değil! Sayende artık çapulcular bir tehdit olmaktan çıktılar. Bir süredir tek bir saldırı haberi bile gelmedi. Hâlâ daha çapulcu kaldıysa ya kaçmıştır ya da bir yerlerde saklanıyordur. Bu ticaret için de iyi oldu! Ticaretin iyi olması da şehir menfaati için iyi oldu! Sanırım işimiz burada sonlanıyor, {playername}. Lütfen minnettarlığımın göstergesi olarak bu parayı kabul et. Teşekkürler ve hoşçakal!
+dlga_mayor_looters_quest_destroyed_2:close_window|Ayrıca tek iyi haber bu değil! Sayende artık çapulcular bir tehdit olmaktan çıktılar. Bir süredir tek bir saldırı haberi bile gelmedi. Hâlâ daha çapulcu kaldıysa ya kaçmıştır ya da bir yerlerde saklanıyordur. Bu ticaret için de iyi oldu! Ticaretin iyi olması da şehir menfaati için iyi oldu! Sanırım işimiz burada sonlanıyor, {playername}. Lütfen minnettarlığımın göstergesi olarak bu parayı kabul et. Teşekkürler ve hoşça kal!
 dlga_mayor_looters_quest_destroyed_2:mayor_looters_quest_response|Başka bir ihtiyacın var mı?
 dlga_mayor_looters_quest_goods:mayor_looters_quest_goods_response|Sana güvenebileceğimi biliyordum! Yükünden hangi ürünün alınacağını söyle ben de onu alması için birilerini göndereyim. Hâlâ {reg1} dinar değerinde ürüne ihtiyacım var.
 dlga_mayor_looters_quest_goods_response:mayor_looters_quest_goods_2|{s5}.
@@ -2554,7 +2554,7 @@ dlga_arena_master_melee_reject:arena_master_pre_talk|Akıllı {adam/kız}. Çok 
 dlga_arena_master_melee_talk:arena_training_melee_explain_reward|Aslında bana tekrardan şu ödüllendirmeden bahsedebilir misin?
 dlga_start:galeas_talk|Merhaba {delikanlı/kızım}. Eğer tutsakların varsa seve seve satın alırım.
 dlga_galeas_talk:galeas_sell_prisoners|O zaman para keseni getir bakalım. Satacak esirlerim var.
-dlga_galeas_talk:close_window|Bu sefer değil, hoşçakal.
+dlga_galeas_talk:close_window|Bu sefer değil, hoşça kal.
 dlga_galeas_sell_prisoners:galeas_sell_prisoners_2|Elindekileri bir görelim...
 dlga_galeas_sell_prisoners_2:close_window|Daha başka esirlerin, bana getir. İyi ödeme yaparım...
 dlga_bandit_introduce:bandit_talk|{s5}
@@ -2613,7 +2613,7 @@ dlga_town_dweller_quest_meet_spy_in_enemy_town:town_dweller_quest_meet_spy_in_en
 dlga_town_dweller_quest_meet_spy_in_enemy_town_dont_know:close_window|Boş ver.
 dlga_town_dweller_quest_meet_spy_in_enemy_town_know:town_dweller_quest_meet_spy_in_enemy_town_chat|{s4} raporlarını toplamam için beni gönderdi. Yanındalar mı?
 dlga_town_dweller_quest_meet_spy_in_enemy_town_chat:town_dweller_quest_meet_spy_in_enemy_town_chat_2|Ben de seni bekliyordum. İşte, {s4} bunları geciktirmeden ona ulaştırmanı bekliyor.
-dlga_town_dweller_quest_meet_spy_in_enemy_town_chat_2:close_window|Hoşçakal.
+dlga_town_dweller_quest_meet_spy_in_enemy_town_chat_2:close_window|Hoşça kal.
 dlga_town_dweller_talk:town_dweller_ask_info|Bu köy hakkında bana ne söyleyebilirsin?
 dlga_town_dweller_talk:town_dweller_ask_info.1|Bu kasaba hakkında bana ne söyleyebilirsin?
 dlga_town_dweller_talk:town_dweller_ask_info.2|Bu kasaba hakkında bana ne söyleyebilirsin?
@@ -2861,7 +2861,7 @@ dlga_dplmc_chancellor_lady_gift_send_confirm:dplmc_chancellor_pretalk|Teşekkür
 dlga_dplmc_chancellor_lady_gift_send_confirm:dplmc_chancellor_pretalk.1|Boş ver.
 dlga_dplmc_chancellor_talk:dplmc_chancellor_talk_household|Ambarıma göz atmak istiyorum.
 dlga_dplmc_chancellor_talk_household:dplmc_chancellor_pretalk|Bütün önemli eşyaları ambarda saklamalısınız.
-dlga_dplmc_chancellor_talk:close_window|Hoşçakal!
+dlga_dplmc_chancellor_talk:close_window|Hoşça kal!
 dlga_start:dplmc_constable_talk|Daima hizmetinizdeyim!
 dlga_dplmc_constable_pretalk:dplmc_constable_talk|Başka bir arzunuz var mı, {s0}?
 dlga_dplmc_constable_talk:dplmc_constable_talk_ask_war|Savaş nasıl gidiyor?
@@ -3271,7 +3271,7 @@ dlga_spouse_talk:dplmc_spouse_tournament_dedication_reaction|Benim sevgili {reg6
 dlga_dplmc_spouse_tournament_dedication_reaction:spouse_pretalk|{s9}
 dlga_lady_talk:dplmc_lady_relations2|Senin akrabalarından birini soracaktım.
 dlga_dplmc_lady_relations2:dplmc_lady_info_relative_select|Hangi lord hakkında bilgi istiyorsun?
-dlga_dplmc_lady_info_relative_select:dplmc_lady_info_relative_1|Senin {s11} {s18}
+dlga_dplmc_lady_info_relative_select:dplmc_lady_info_relative_1|Senin {s11}{.n} {s18}
 dlga_dplmc_lady_info_relative_select:lady_pretalk|Boş ver.
 dlga_dplmc_lady_info_relative_1:lady_pretalk|Üzgünüm ama seninle kişisel sorunlarımı paylaşmaktan rahatsız oluyorum.
 dlga_dplmc_lady_info_relative_1:dplmc_lady_info_relative_2|{s47}
