@@ -605,10 +605,10 @@ qstr_former_companion|eski yoldaş
 qstr_marshall|mareşal
 qstr_vassal|derebeyi
 qstr__Your_own_banner_fli| Sancağın kale girişinde dalgalanıyor.
-qstr__You_see_the_banner_| Senin {s11}ın {s7} sancağını kalenin girişinde görüyorsun.
+qstr__You_see_the_banner_| Senin {s11}{.n} {s7}'{.nin} sancağını kalenin girişinde görüyorsun.
 qstr__You_see_the_banner_o| Kale kapısının üzerinde {s7}'{.e} ait sancağın dalgalandığını farkediyorsun.
 qstr__Your_own_banner_flie| Sancağın şehir girişinde dalgalanıyor.
-qstr__You_see_the_banner_of| Senin {s11}ın {s7} sancağını şehrin girişinde görüyorsun.
+qstr__You_see_the_banner_of| Senin {s11}{.n} {s7}'{.nin} sancağını şehrin girişinde görüyorsun.
 qstr__You_see_the_banner_of_| Şehir kapısının üzerinde {s7}'{.e} ait sancağın dalgalandığını farkediyorsun.
 qstr_The_{reg6?town_s:cas|{reg6?Kentin:Kalenin} yiyecek stokları {reg3} gün daha dayanabilir.
 qstr_The_{reg6?town_s:cast|{reg6?Kentin:Kalenin} yiyecek stokları tükendi ve müdafaadakiler açlık çekiyor.
@@ -651,10 +651,10 @@ qstr_You_fail_to_steal_an|Hiç bir sığırı kaçırmayı başaramadınız.
 qstr_You_drive_away_{reg1|Köyün sürüsünden {reg17} baş sığır kaçırıyorsunuz.
 qstr_You_are_at_{s2}.|{s2}ne geldin.
 qstr__This_castle_has_no_| Bu kalede garnizon yok.
-qstr__The_banner_of_your_| Senin {s11}ın {s7}'{.e} ait sancak şehrin girişinde dalgalanıyor.
+qstr__The_banner_of_your_| Senin {s11}{.n} {s7}'{.e} ait sancak şehrin girişinde dalgalanıyor.
 qstr__This_town_has_no_ga| Bu şehirde garnizon yok.
 qstr__You_have_successful| Başarıyla içeri sızdın.
-qstr_{s13}_A_tournament_w|{s13} Yakında burada bir turnuva yapılacak.
+qstr_{s13}_A_tournament_w|{s13}^Yakında burada bir turnuva yapılacak.
 qstr___{reg1}_denars_per_| (Geceliği {reg1} dinar)
 qstr_Moreover_you_earn_{r|Üstüne bir de, kendi üstüne oynadığın zekice bahislerden {reg8} dinar kazandın...
 qstr_Victory_is_yours!_Yo|Galibiyet senin! Bu turu kazandın ama şimdi sonraki tura hazırlanman gerekiyor.
@@ -675,7 +675,7 @@ qstr_The_training_went_qu|Talim fena geçmedi.
 qstr_The_training_went_ve|Talim oldukça iyi geçti.
 qstr_The_training_went_pe|Talim mükemmel geçti.
 qstr_{s13}_asked_you_to_r|{s13}, en az {reg13} askerle ona rapor vermeni emretti.
-qstr_{s13}_ordered_you_to|{s13}, {s14}ne yapılan saldırıya katılmanı emretti.
+qstr_{s13}_ordered_you_to|{s13}, {s14}{.n}{.e} yapılan saldırıya katılmanı emretti.
 qstr_Find_and_speak_with_|{s4}ndan {s3} ile konuşup ona bağlılık yeminini sunmalısın.
 qstr_There_has_been_an_al|Bir hudud hadisesi oldu: {s9}
 qstr_^^Note_that_so_long_|^^Mareşal olarak kaldığın sürece, ülkenin lordları senin seferde onlara öncülük etmeni bekleyeceklerdir. Yani eğer bir şölenin başlamasını evlilik veya başka bir nedenle beklersen, öncelikle hükümdarınla konuşup mareşalliğini başkasına devretmek isteyebilirsin.
@@ -943,7 +943,7 @@ qstr_But_you_do_not_have_|Ama, senin bizim gibi hanımları karşılamaya yetece
 qstr_As_long_as_you_have_|Ödeyebildiğin sürece elbette var! Kızlara söyleyeyim hazırlansınlar. Odalarımızda bekliyor olacağız.
 qstr_Your_party_morale_ha|Grup morali yükseldi!
 qstr_Your_army_s_morale_h|Grup morali yükseldi!
-qstr_Of_course_{sir/madam|Tabii ki efendim. En kısa zamanda hazır olacak.
+qstr_Of_course_{sir/madam|Tabii ki {efendim/hanımım}. En kısa zamanda hazır olacak.
 qstr_You_don_t_have_enough|Üzgünüm! Yeterince paran yok.
 qstr_You_should_leave_15_|Gemini korumaları için en az 15 adamı geride bırakmalısın, aksi takdirde gemin çalınabilir.
 qstr_There_is_no_port_in_|Buralarda hiç liman yok.

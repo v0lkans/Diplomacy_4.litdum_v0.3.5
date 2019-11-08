@@ -230,7 +230,7 @@ dlga_member_kingsupport_1:do_member_trade|Hımm... Evet, duymuştum.
 dlga_member_kingsupport_1:member_kingsupport_1a|{s21}
 dlga_member_kingsupport_1a:member_kingsupport_2|O hâlde benim davama ortak olur muydun?
 dlga_member_kingsupport_1a:do_member_trade|Çok iyi. Bunu aklımda tutacağım.
-dlga_member_kingsupport_2:do_member_trade|Tabii ki, {s21}. Dahası, tahta geçmeniz hakkında size nasıl yardımcı olacağıma dair bir teklifim var. Fakat, {s22} daha yeni benzer bir göreve gönderildi. Belkide üzerimize çok fazla dikkat çekmemek için bir süre beklemeliyiz.
+dlga_member_kingsupport_2:do_member_trade|Tabii ki, {s21}. Dahası, tahta geçmeniz hakkında size nasıl yardımcı olacağıma dair bir teklifim var. Fakat, {s22} daha yeni benzer bir göreve gönderildi. Belki de üzerimize çok fazla dikkat çekmemek için bir süre beklemeliyiz.
 dlga_member_kingsupport_2:member_kingsupport_2a|{s21}
 dlga_member_kingsupport_2a:member_kingsupport_3|{s21}
 dlga_member_kingsupport_2a:do_member_trade|{s21}
@@ -411,7 +411,7 @@ dlga_minister_grant_fief_complete:minister_pretalk|Pekâlâ - {s2} {s1} toprakla
 dlga_minister_indict:minister_indict_select|Vay başımıza gelenler! Sizce ihanet etmeyi planlayan kişi kim?
 dlga_minister_indict_select:minister_indict_confirm|{s11}
 dlga_minister_indict_select:minister_pretalk|Boş ver.
-dlga_minister_indict_confirm:minister_indict_confirm_answer|Bunu dikkatlice düşünün, efendim. Eğer {s4} boş yere ihanetle suçlanırsa, diğerleri de size hizmet etmek konusunda tedirginleşeceklerdir. Diğer bir yandan, eğer gerçektende {reg4?onun:onun} size ihanet ettiğini düşünüyorsanız, belkide {reg4?onun:onun} kalesininin kontrolünü ele geçirmek için ilk önce bizim hareket etmemiz en doğrusu olacaktır.
+dlga_minister_indict_confirm:minister_indict_confirm_answer|Bunu dikkatlice düşünün, efendim. Eğer {s4} boş yere ihanetle suçlanırsa, diğerleri de size hizmet etmek konusunda tedirginleşeceklerdir. Diğer bir yandan, eğer gerçektende {reg4?onun:onun} size ihanet ettiğini düşünüyorsanız, belki de {reg4?onun:onun} kalesininin kontrolünü ele geçirmek için ilk önce bizim hareket etmemiz en doğrusu olacaktır.
 dlga_minister_indict_confirm_answer:minister_indict_conclude|Yeteri kadar düşündüm. Suçlamayı bildirin!
 dlga_minister_indict_confirm_answer:minister_pretalk|Belki de bir süre daha beklemeliyim.
 dlga_minister_indict_conclude:minister_pretalk|Gönderildi, efendim.
@@ -736,8 +736,8 @@ dlga_lord_bandit_information:lord_pretalk|{s15}
 dlga_lord_talk:lord_internal_politics_cur_stance|Sizce ülkemizin mareşali kim olmalı?
 dlga_lord_talk:lord_internal_politics_cur_stance.1|Sizce {s4} toprakları kime bırakılmalı?
 dlga_lord_talk:lord_husband_auto_recruit|Şimdi {s4}na olan bağlılık yemini bozup {s5}na katılman gerekiyor.
-dlga_lord_husband_auto_recruit:lord_pretalk|Buradan uzaklaşana kadar bunu yapamayız. Bunu daha sonra konuşalım, hanımım.
-dlga_lord_husband_auto_recruit:close_window|İstediğin gibi olsun, hanımım.
+dlga_lord_husband_auto_recruit:lord_pretalk|Buradan uzaklaşana kadar bunu yapamayız. Bunu daha sonra konuşalım, {s0}.
+dlga_lord_husband_auto_recruit:close_window|İstediğin gibi olsun, {s0}.
 dlga_lord_talk:lord_recruit_1_relation.1|Sizinle gizlice görüşmek istediğim bir konu var.
 dlga_lord_talk:lord_recruit_1_relation.2|Sizinle gizlice görüşmek istediğim bir konu var.
 dlga_lord_talk:lord_talk|Lordun sabrını sıfırla
@@ -850,7 +850,7 @@ dlga_lord_recruit_3_d:lord_recruit_3_claim.2|Eğer {s45} {s47} olsaydı, {s45} s
 dlga_lord_recruit_3_d:lord_recruit_3_claim.3|Çünkü {s45} tüm Kalradya'yı birleştirip, bu kavgaya bir son verebilir.
 dlga_lord_recruit_3_d:lord_recruit_3_claim.4|Çünkü {s45} seni topraklarla ödüllendirecek.
 dlga_lord_recruit_3_d:lord_pretalk|Boş ver.
-dlga_lord_recruit_3_claim:lord_recruit_3_claim|Belkide herkese duymak istedikleri şeyleri söylüyorsunuzdur? {s12}
+dlga_lord_recruit_3_claim:lord_recruit_3_claim|Belki de herkese duymak istedikleri şeyleri söylüyorsunuzdur? {s12}
 dlga_lord_recruit_3_claim:lord_recruit_4|{s12}
 dlga_lord_recruit_3_claim:lord_pretalk|{s12}
 dlga_lord_recruit_4:lord_recruit_4_objective_conditions|{s16} üzerine bağlılık yemini etmeni istiyorum.
@@ -1171,7 +1171,7 @@ dlga_lord_ask_enter_service_female_response:lord_ask_enter_service_female_soluti
 dlga_lord_ask_enter_service_female_response:lord_ask_enter_service|Bana toprak vermeseniz de, sizin için savaşmaya razıyım.
 dlga_lord_ask_enter_service_female_response:lord_pretalk|Boş ver.
 dlga_lord_ask_enter_service_female_solution_marriage:lord_ask_enter_service_female_response|Pekâlâ, yine de size toprak vermeye razı olmazdım. Fakat, şüphe yok ki kocanın mülkiyetini kullanıp, benim bir derebeyimmiş gibi hareket edebilirsin, ama tabii ki öyle anılmazsın. Başka bir sorunuz var mı?
-dlga_lord_ask_enter_service_female_solution_competitor:lord_ask_enter_service_female_response|Oh, belkide tamamen ümitsiz birini bulmalısın – ama o zaman, verecek çok da topraklarının olmadığını düşünürüm. Başka bir sorunuz var mı?
+dlga_lord_ask_enter_service_female_solution_competitor:lord_ask_enter_service_female_response|Oh, belki de tamamen ümitsiz birini bulmalısın – ama o zaman, verecek çok da topraklarının olmadığını düşünürüm. Başka bir sorunuz var mı?
 dlga_lord_ask_enter_service_female_solution_capture:lord_ask_enter_service_female_response|Pekâlâ, o hâlde, durumu göz önüne aldığımızda, belki size bu konuda daha ılımlı olabilirim. Başka bir sorunuz var mı?
 dlga_lord_ask_enter_service:lord_give_oath_1|Cesur bir savaşçı ve insanların iyi bir lideri olarak biliniyorsun, {playername}. Eğer bana bağlılık yemini etmeye hazırsan, kılıcını hizmetime alıp sana kulluk bahşetmekten memnuniyet duyarım.
 dlga_lord_ask_enter_service:lord_pretalk.1|Daha kendini yeterli bir kumandan olarak kanıtlaman lazım, {playername}. Kılıcını düşmanlarıma götür ve vasalım olmaya değer olduğunu bana kanıtla. Ancak ondan sonra bu konuyu daha derin konuşabiliriz.
@@ -1390,7 +1390,7 @@ dlga_quest_meet_spy_in_enemy_town_rejected:lord_pretalk|İstediğin gibi olsun, 
 dlga_lord_tell_mission:lord_mission_told_raid_caravan_to_start_war|{s13} ile bu barış durumu beni çok rahatsız ediyor, {playername}. Bunların canlarının istediği gibi yaşamalarına çok fazla müsaade ettik. Şimdi de her geçen gün daha da güçleniyorlar ve züppeliklerinden geçilmiyor! Diyorum ki çok geç olmadan onlara karşı haklı savaşımıza girişmemiz gerekiyor! Maalesef bizim taraftaki bazı lordların yufka yüreklilikleri yüzünden seferimizin önü kapatılıyor. Kan görmeye bile dayanamıyor bu adamlar! Peh!
 dlga_lord_mission_told_raid_caravan_to_start_war:lord_mission_tell_raid_caravan_to_start_war_2|Haklısın, {s65}, ama ne yapabiliriz ki?
 dlga_lord_mission_told_raid_caravan_to_start_war:quest_raid_caravan_to_start_war_rejected_1|Reddediyorum, bayım. Savaş yerine barışı yeğlerim.
-dlga_lord_mission_tell_raid_caravan_to_start_war_2:lord_mission_tell_raid_caravan_to_start_war_3|Ah, nihayet laftan anlayabilen biriyle karşılaştım. İşin aslı, seninle birlikte yapabileceğimiz bir şeyler var, {playername}. Birilerini kışkırtacağız birazcık. Eğer ordularımızdan biri onların bölgesine girip, kervanlarını veya köylerinden birkaçını talan edebilirse ve belkide arkalarından bir iz bırakırlarsa, bize savaş açmak için tonla sebepleri olmuş olacaktır. Ondan sonra, Pekâlâ, aramızdaki korkaklar bile kendilerini savunmak için harekete geçmek zorunda kalacak. Ne dersin peki? Var mısın?
+dlga_lord_mission_tell_raid_caravan_to_start_war_2:lord_mission_tell_raid_caravan_to_start_war_3|Ah, nihayet laftan anlayabilen biriyle karşılaştım. İşin aslı, seninle birlikte yapabileceğimiz bir şeyler var, {playername}. Birilerini kışkırtacağız birazcık. Eğer ordularımızdan biri onların bölgesine girip, kervanlarını veya köylerinden birkaçını talan edebilirse ve belki de arkalarından bir iz bırakırlarsa, bize savaş açmak için tonla sebepleri olmuş olacaktır. Ondan sonra, Pekâlâ, aramızdaki korkaklar bile kendilerini savunmak için harekete geçmek zorunda kalacak. Ne dersin peki? Var mısın?
 dlga_lord_mission_tell_raid_caravan_to_start_war_3:quest_raid_caravan_to_start_war_accepted|Kusursuz bir plan! Ben varım!
 dlga_lord_mission_tell_raid_caravan_to_start_war_3:lord_mission_tell_raid_caravan_to_start_war_4|Neden bunu kendin yapmıyorsun?
 dlga_lord_mission_tell_raid_caravan_to_start_war_4:lord_mission_tell_raid_caravan_to_start_war_5|Nihayetinde, {playername}, lordların bir kısmı krallık sınırları içerisinde kendileri haberdar edilmeden savaş başlatılmış olmasından hiç de hoşnut olmayacaklar. Beni alaşağı etmek için zaten fırsat kolluyorlar kendimi böyle bir duruma sokarsam ellerine ihtiyaçları olan bütün kozları vermiş olurum. Ancak öteyandan sen, genç, sevilen ve girişkenliğiyle tanınan birisin. Yani bu işten daha kolay sıyrılabilirsin. Ben de bu sırada senin arkanı kolluyor olacağım tabii ki. Sonuçta birkaç lord senin bu yersiz görünen girişiminden rahatsız olmuş olabilir, ama emin ol ki sen bunlarla kafanı yormayacaksın
@@ -1468,14 +1468,14 @@ dlga_spouse_cancel_political_quest:spouse_cancel_political_quest_confirm|Bu fiki
 dlga_spouse_cancel_political_quest_confirm:spouse_pretalk|Evet eminim. Vazgeçelim.
 dlga_spouse_cancel_political_quest_confirm:spouse_pretalk.1|Aslında emin değilim.
 dlga_spouse_talk:combined_political_quests|Bu ülkedeki itibarımızı yükseltmek için bir şeyler düşünmeliyiz.
-dlga_spouse_talk:spouse_organize_feast|Düşünüyordum da, belkide bir ziyafet ayarlamalıyız.
+dlga_spouse_talk:spouse_organize_feast|Düşünüyordum da, belki de bir ziyafet ayarlamalıyız.
 dlga_spouse_talk:spouse_household_possessions|Hanemizdeki malların sayımını yapalım.
 dlga_spouse_household_possessions:spouse_pretalk|Her neyse, elimizdekilerin listesi bu.
-dlga_spouse_talk:close_window|Daha sonra konuşalım {sevgili karım/sevgili kocam}
-dlga_wedding_ceremony_bride_vow:wedding_ceremony_player_vow|[Gelin konuşur, kamera henüz dönmemiştir:] Sevgili kocam, iyi günde ve kötü günde karınız olmaya ant içiyorum. Gökler yüzümüze gülsün, bize çocuklar ve refah bahşetsin.
+dlga_spouse_talk:close_window|Daha sonra konuşalım sevgili {karım/kocam}.
+dlga_wedding_ceremony_bride_vow:wedding_ceremony_player_vow|Sevgili kocam, iyi günde ve kötü günde karınız olmaya ant içiyorum. Gökler yüzümüze gülsün, bize çocuklar ve refah bahşetsin.
 dlga_wedding_ceremony_player_vow:wedding_ceremony_vows_complete|Ben de yemin ediyorum. Artık karı kocayız.
 dlga_wedding_ceremony_player_vow:close_window|Dur – bekle... henüz hazır değilim.
-dlga_wedding_ceremony_vows_complete:close_window|Siz ve {s3}, sizi karı koca ilan ediyorum. Şimdi sizin için hazırlanan odaya gidin ve biz de gelinini {s11} topraklarındaki konağına götürmek için gerekli hazırlıkları yapalım.
+dlga_wedding_ceremony_vows_complete:close_window|{playername} ve {s3}, sizi karı koca ilan ediyorum. Şimdi sizin için hazırlanan odaya gidin ve biz de gelini {s11} topraklarındaki konağına götürmek için gerekli hazırlıkları yapalım.
 dlga_spouse_pretalk:spouse_talk|Başka bir şey var mı, sevgili {kocam/karım}?
 dlga_spouse_organize_feast:spouse_pretalk|Çok iyi bir fikir, sevgili eşim. Ama yenisini düzenlemeden önce şimdiki şölenin bitmesini bekleyelim.
 dlga_spouse_organize_feast:spouse_pretalk.1|Çok iyi bir fikir, sevgili eşim. Ama bir şölen düzenlemeden önce kendimize bir merkez edinmeliyiz.
@@ -1486,7 +1486,7 @@ dlga_spouse_feast_confirm:spouse_feast_added_items|Kilere biraz daha erzak koyal
 dlga_spouse_feast_added_items:spouse_evaluate_larder_for_feast|Pekâlâ – kileri tekrar kontrol edeyim.
 dlga_spouse_feast_confirm:spouse_feast_confirm_yes|Davetiyeleri yollayalım.
 dlga_spouse_feast_confirm:spouse_pretalk|O hâlde bekleyelim.
-dlga_spouse_feast_confirm_yes:spouse_pretalk|Ülke içerisindeki şartlar uygun hale gelir gelmez haber göndereceğim ve sonra da ziyafeti hazırlarız. Belkide bu esnada kileri zenginleştirmeye devam etmelisin, böylece konukseverliğimiz ile ün kazanırız.
+dlga_spouse_feast_confirm_yes:spouse_pretalk|Ülke içerisindeki şartlar uygun hale gelir gelmez haber göndereceğim ve sonra da ziyafeti hazırlarız. Belki de bu esnada kileri zenginleştirmeye devam etmelisin, böylece konukseverliğimiz ile ün kazanırız.
 dlga_spouse_feast_confirm_yes:spouse_pretalk.1|İyi o zaman, şölen derhal {reg4?burada:} {s9}ndeki köşkümüzde başlasın. Sen de depolarımıza gereken öte beriyi eklemeye devam et ki şanımıza yakışır bir sofra donatalım. Unutma ki istediğin zaman bir sefer ilan ederek ya da derebeylerin evlerine gönmesine izin vererek şöleni bitirebilirsin.
 dlga_start:kingdom_lady_captive|Kendimi çok yalnız hissediyorum! Ailemi nasıl özledim!
 dlga_start:kingdom_lady_captive.1|Siz, böyle birine eşlik edemeyecek kadar aşağılık {adamın/kadının} tekisiniz...
@@ -3267,7 +3267,7 @@ dlga_dplmc_claimant_marriage_proposal_pc_reax:lord_pretalk.5|{s14}
 dlga_dplmc_claimant_marriage_proposal_pc_reax:lord_marriage_proposal_female_pc_confirm_engagement|{s14}
 dlga_lord_talk:dplmc_prisoner_chat_let_go|Gitmekte özgürsün.
 dlga_dplmc_prisoner_chat_let_go:close_window|{s43}
-dlga_spouse_talk:dplmc_spouse_tournament_dedication_reaction|Benim sevgili {reg65?eşim/kocam}, bu turnuvadaki başarımı sana adıyorum.
+dlga_spouse_talk:dplmc_spouse_tournament_dedication_reaction|Sevgili {reg65?eşim:kocam}, bu turnuvadaki başarımı sana adıyorum.
 dlga_dplmc_spouse_tournament_dedication_reaction:spouse_pretalk|{s9}
 dlga_lady_talk:dplmc_lady_relations2|Senin akrabalarından birini soracaktım.
 dlga_dplmc_lady_relations2:dplmc_lady_info_relative_select|Hangi lord hakkında bilgi istiyorsun?
@@ -3414,8 +3414,8 @@ dlga_tavern_traveler_talk:tavern_traveler_bookseller_location|Kitap tüccarları
 dlga_tavern_traveler_talk:tavern_traveler_ransom_broker_location|Köle tacirlerini arıyorum.
 dlga_dplmc_constable_patrol_change:dplmc_constable_patrol_change_target_ask|{s11}.
 dlga_lord_courtship_permission:lord_pretalk.3|{s12}
-dlga_lord_husband_auto_recruit:lord_pretalk.1|Buradan uzaklaşana kadar bunu yapamayız. Bunu daha sonra konuşalım, hanımım.
-dlga_lord_request_enlistment:lord_request_enlistment_confirm|Senin özelliklerindeki bir {adam/kadın}a ordumda yer var, {playername}.  Seni bir {s1} olarak kabul edebilirim, haftalık {s2} ödeme alırsın. Ve tabii ki yiyecek. Terfi edebilmen için yeterince imkân ve rütbenin gerektirdiği ekipmanlara da sahip olacaksın. Tabi, yağmalardan payına düşeni de alacaksın. Ne diyorsun?
+dlga_lord_husband_auto_recruit:lord_pretalk.1|{s14}{.e} sadık kalmalıyı. Üzgünüm.
+dlga_lord_request_enlistment:lord_request_enlistment_confirm|Senin özelliklerindeki bir {adam/kadın}a ordumda yer var, {playername}. Seni bir {s1} olarak kabul edebilirim, haftalık {s2} ödeme alırsın. Ve tabii ki yiyecek. Terfi edebilmen için yeterince imkân ve rütbenin gerektirdiği ekipmanlara da sahip olacaksın. Tabi, yağmalardan payına düşeni de alacaksın. Ne diyorsun?
 dlga_lord_request_enlistment_confirm:close_window|Bu diyar için oldukça adil ve istikrarlı bir iş gibi görünüyor. Sizinleyim lordum.
 dlga_lord_request_enlistment_confirm:lord_pretalk|Tekrar düşününce lordum, şansımı bir süre daha yalnız deneyebilirim. Teşekkür ederim.
 dlga_lord_request_enlistment:lord_pretalk|Hizmetime alacak kadar sana güvenmiyorum.

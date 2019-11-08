@@ -2162,7 +2162,7 @@ str_rebel|asi
 str_bandit|haydut
 str_relation_of_prisoner_with_captor_is_reg0|esirlerin, onları tutsak edenle ilişkisi {reg0}
 str_s5_suffers_attrition_reg3_x_s4|{s5} için zaiyat : {reg3} x {s4}
-str_s10_said_on_s1_s11__|{s10} dediği {s1}: {s11}^^
+str_s10_said_on_s1_s11__|{s10} {s1}: {s11}^^
 str_totalling_casualties_caused_during_mission|Görev sırasında yaşanan zaiyat...
 str_removing_s4_from_s5|{s5} mevkiinden {s4} mevkiine götürülmesi
 str_s4_joins_prison_break|{s4} firara katılıyor
@@ -2209,8 +2209,8 @@ str__this_castle_does_not_seem_to_be_under_anyones_control| Bu kale kimsenin kon
 str__this_town_is_temporarily_under_royal_control| Bu şehir geçici olarak kralın muhafızlarının kontrolünde.
 str__the_townspeople_seem_to_have_declared_their_independence| Şehir halkı bağımsızlığını ilan etmişe benziyor.
 str_to_your_husband_s11|eşinize, {s11}.
-str__you_see_the_banner_of_your_wifehusband_s7_over_the_castle_gate| Eşinizin sancağını gördünüz mü, {s7}, kale kapısının üstünde dalgalanıyor.
-str__the_banner_of_your_wifehusband_s7_flies_over_the_town_gates| Eşinizin sancağı, {s7}, şehir girişinde dalgalanıyor.
+str__you_see_the_banner_of_your_wifehusband_s7_over_the_castle_gate| Eşin {s7}'{.nin} sancağını kale kapısının üstünde görüyorsun.
+str__the_banner_of_your_wifehusband_s7_flies_over_the_town_gates| Eşin {s7}'{.nin} sancağı, {s7}, şehir girişinde dalgalanıyor.
 str__the_lord_is_currently_holding_a_feast_in_his_hall|^Lord şu anda malikanesinde ziyafet veriyor.
 str__join_the_feast| (ziyafete katıl)
 str_belligerent_drunk_in_s4|{s4} içindeki kavgacı ayyaş
@@ -2256,7 +2256,7 @@ str_doing_political_calculations_for_s9|{s9} için politik hesap yapıyor
 str_current_wealth_reg1|Mevcut varlık: {reg1}
 str_wanted_bandits_spotted_by_s4|Aranan haydutlar {s4} tarafından tespit edildi
 str_s4_ready_to_voice_objection_to_s3s_mission_if_in_party|{s4}, eğer gruptaysa {s3}'{.e} verdiğin göreve itiraz etmeye hazır
-str_strange_that_one_didnt_seem_like_your_ordenary_troublemaker_he_didnt_drink_all_that_much__he_just_stood_there_quietly_and_watched_the_door_you_may_wish_to_consider_whether_you_have_any_enemies_who_know_you_are_in_town_a_pity_that_blood_had_to_be_spilled_in_my_establishment|Garip. Şuradaki genelde karşılaştığın türden sorun çıkaran birisine benzemiyordu. Pek bir şey içmedi -- sadece orada sessizce bekleyip kapıyı izledi. Şehirde olduğunu bilen düşmanın var mı yok mu öğrenmeyi düşünebilirsin... Ne yazık ki o kan benim müessesemde dökülmeliydi.
+str_strange_that_one_didnt_seem_like_your_ordenary_troublemaker_he_didnt_drink_all_that_much__he_just_stood_there_quietly_and_watched_the_door_you_may_wish_to_consider_whether_you_have_any_enemies_who_know_you_are_in_town_a_pity_that_blood_had_to_be_spilled_in_my_establishment|Garip. Şuradaki genelde karşılaştığın türden sorun çıkaran birisine benzemiyordu. Pek bir şey içmedi -- sadece orada sessizce bekleyip kapıyı izledi. Şehirde olduğunu bilen düşmanın var mı yok mu öğrenmeyi düşünebilirsin... Ne yazık ki o kan benim müessesemde dökülmemeliydi.
 str_you_never_let_him_draw_his_weapon_still_it_looked_like_he_was_going_to_kill_you_take_his_sword_and_purse_i_suppose_he_was_trouble_but_its_not_good_for_an_establishment_to_get_a_name_as_a_place_where_men_are_killed|Silahını çekmesine bile izin vermedin... Yine de sanki seni öldürecekmiş gibi görünmüştü. Onun kılıcını alıp saklamanı öneririm. O adam bir baş belası olsa da bu kurumun cinayet işlenen bir yer olarak bilinmesi doğru olmaz.
 str_well_id_say_that_he_started_it_that_entitles_you_to_his_sword_and_purse_i_suppose_have_a_drink_on_the_house_as_i_daresay_youve_saved_a_patron_or_two_a_broken_skull_still_i_hope_he_still_has_a_pulse_its_not_good_for_an_establishment_to_get_a_name_as_a_place_where_men_are_killed|Evet... Diyeceğim o ki kavgayı o başlattı. Sanırım bu sana onun kılıcını alma hakkını veriyor. Bu içki benden olsun, bir veya iki devamlı müşterimden olmamı önledin. Yine de umarım nabzı atıyordur. Bu kurumun cinayet işlenen bir yer olarak bilinmesi doğru olmaz.
 str_stop_no_shooting_no_shooting|Dur! Ateş etme! Ateş etme!
@@ -2320,7 +2320,7 @@ str_forgive_me_but_id_prefer_to_keep_our_conversations_in_the_open|Bağışla be
 str_please_do_not_take_this_amiss_but_im_not_sure_you_and_i_are_still_on_those_terms|Yanlış anlama ama seninle aramızda hâlâ aynı şartların geçerli olduğunu düşünmüyorum.
 str_really_well_this_is_the_first_i_have_heard_of_it_unless_you_build_up_support_for_that_claim_you_may_find_it_difficult_to_find_allies_however_whenever_you_see_fit_to_declare_yourself_publically_as_queen_i_should_be_honored_to_be_your_consort|Gerçekten mi? İlk defa duyuyorum. Bu iddianı destekleyecek bir şeyler bulamazsan, Müttefik bulmakta zorlanabilirsin.Yine de ne zaman kendini kraliçeliğini alanen ilan etmeye hazır hissedersen yanında olmaktan şeref duyarım .
 str_yes_i_have_heard_such_talk_while_it_is_good_that_you_are_building_up_your_support_i_do_not_think_that_you_are_quite_ready_to_proclaim_yourself_yet_however_i_will_let_you_be_the_judge_of_that_and_when_you_decide_i_should_be_honored_to_be_your_consort|Evet... Ben de duydum öyle konuşmaları. Kraliçeliğini alanen ilan etmeye henüz hazır olduğunu düşünmüyorum, bu yüzden şimdilik destek toplamaya devam etmek en iyisi. Yine de kararı sana bırakıyorum, kararın ne olursa olsun yanında olmaktan şeref duyarım.
-str_yes_and_many_others_in_calradia_think_so_as_well_perhaps_it_is_time_that_you_declared_yourself_and_we_shall_ride_forth_together_to_claim_your_throne_i_should_be_honored_to_be_your_consort|Evet... ve Kalradya'daki bir çok kişi de böyle düşünüyor. Belkide artık kendinizi göstermenizin vakti geldi ve biz de tahttaki hakkımızı almak için atlarımızı sürmeliyiz. Yoldaşınız olmaktan onur duymalıyım
+str_yes_and_many_others_in_calradia_think_so_as_well_perhaps_it_is_time_that_you_declared_yourself_and_we_shall_ride_forth_together_to_claim_your_throne_i_should_be_honored_to_be_your_consort|Evet... ve Kalradya'daki bir çok kişi de böyle düşünüyor. Belki de artık kendinizi göstermenizin vakti geldi ve biz de tahttaki hakkımızı almak için atlarımızı sürmeliyiz. Yoldaşınız olmaktan onur duymalıyım
 str_i_am_disturbed_about_my_lord_s15s_choice_of_companions|Lordum {s15} tarfından seçilen yoldaşlardan rahatsız oluyorum.
 str_well_ill_be_honest_i_feel_that_sometimes_s15_overlooks_my_rights_and_extends_his_protection_to_the_unworthy|Pekâlâ, dürüst olacağım. Öyle hissediyorum ki {s15} bazen benim haklarımı hiçe sayıyor ve yardımını değersiz kişilere sunuyor..
 str_heh_one_thing_that_ill_say_about_s15_is_that_he_has_a_ripe_batch_of_bastards_in_his_court|Heh. {s15} hakkında söyleyebleceğim tek şey, sarayı tek sıkımlık canı olan adilerle dolu.
