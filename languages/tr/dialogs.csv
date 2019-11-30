@@ -291,7 +291,7 @@ dlga_merchant_quest_persuasion:close_window|Dediğim gibi. Yapacak daha önemli 
 dlga_merchant_quest_2:merchant_quest_2a|Şimdi – git ve o haydut takımının hakkından gel.
 dlga_merchant_quest_3:merchant_quest_3a|Şimdi – Git ve o haydut inini bas, kardeşimi bana geri getir ve ailemi tehdit edenlere ne olacağını göster onlara.
 dlga_start:close_window.1|Bana mı bakıyorsun?
-dlga_start:merchant_closing_statement_2|Ah... {playername}. İşler umduğum gibi gitmedi. {s5} şehirde asayişi bozmamı göz ardı etmeyi kendine yediremedi. Muhafız komutanından onu kurtardığım için bana müteşekkir tabi. Ne de olsa barışta haydutlarla işbirliği yapan bir nöbetçi, savaşta düşmanları da kasabaya sokabilir. Ama kendisinin şehirde güvenliği sağlayamayıp bunu benim becermiş olmam onun otoritesine bir darbe olacak, oda bunu kabul edemez.
+dlga_start:merchant_closing_statement_2|Ah... {playername}. İşler umduğum gibi gitmedi. {s5} şehirde asayişi bozmamı göz ardı etmeyi kendine yediremedi. Muhafız komutanından onu kurtardığım için bana müteşekkir tabii. Ne de olsa barışta haydutlarla işbirliği yapan bir nöbetçi, savaşta düşmanları da kasabaya sokabilir. Ama kendisinin şehirde güvenliği sağlayamayıp bunu benim becermiş olmam onun otoritesine bir darbe olacak, oda bunu kabul edemez.
 dlga_merchant_closing_statement_2:merchant_closing_statement_3|Bu hiç de adil değil...
 dlga_merchant_closing_statement_3:merchant_closing_statement_4|Adalet mi? Burası Kalradya {evladım/kızım}! Hükümdarlar canları ne isterse onu yaparlar ve geri kalan bizler de yapmamız gerekenleri. Beni bir ağaçta sallandırmadı ve mallarımı satıp şehirden ayrılmam için zaman verdi -hatta tüccarlara mallarıma iyi fiyat vermelerini emretti. Bu bir hükümdar için oldukça cömert sayılır. Ama o güçsüz bir hükümdar ve güçsüz hükümdarlar önce otoritelerini gözetmelidir, adaleti ise sonra. Onun yerinde olsam ben de aynısını yapardım..
 dlga_merchant_closing_statement_4:close_window|Neyse, yerinde olsam bu işteki rolümü {s5} önünde açığa vurmazdım. -- ama seni fark etti ve şimdilik senin asmaya gerek görmedi -ki bence bu her zaman kutlanacak bir şeydir. Aslında ileride sana verebileceği bir görev de olabilir. Ya da {s0}ını onun rakiplerinden birine kiralayabilirsin. Neyse umarım bu maceradan bu dertli ülkede hayatta kalmak hakkında bir iki ders çıkartmışsındır ve herhâlde kazandığın işine yarayacaktır. İyi şanslar.
@@ -881,7 +881,7 @@ dlga_lord_quest_intrigue_result:lord_pretalk|Biz de öyle duyduk. Ne mutlu ki ar
 dlga_lord_quest_intrigue_result:close_window|Biz de öyle duyduk – fakat ne yazık ki, {s5} dikkate almış gibi görünmüyor. Yine de, yaptıklarından dolayı sana minnettarız.
 dlga_lord_talk:lord_lend_companion_end|{s14} ile başka işiniz yoksa, onu geri almak istiyorum, {reg65}.
 dlga_lord_lend_companion_end:lord_pretalk|Grubunda zaten yeterinden fazla adam var, {playername}. Şu an daha fazlasını yönetemezsin.
-dlga_lord_lend_companion_end:lord_pretalk.1|Pek tabi, {playername}. Kendisi çok parlak bir {reg3?kız:çocuk}, böyle değerli yandaşların olduğu için çok şanslı bir {adamsın/kadınsın}.
+dlga_lord_lend_companion_end:lord_pretalk.1|Pek tabii, {playername}. Kendisi çok parlak bir {reg3?kız:çocuk}, böyle değerli yandaşların olduğu için çok şanslı bir {adamsın/kadınsın}.
 dlga_lord_talk:lord_ask_to_collect_debt|{s1} adına borcunu toplamaya geldim.
 dlga_lord_ask_to_collect_debt:lord_ask_to_collect_debt_2|Oh. Yani, {s1} bana bir süre önce bir miktar borç vermişti ama ona geçmişte pek çok iyilik yaptım, o parayı da bu iyiliklerime karşılık olarak kabul ediyorum.
 dlga_lord_ask_to_collect_debt_2:convince_begin|{s1} bunu bir borç olarak kabul ediyor. Onun adına sizinle konuşmamı rica etti.
@@ -1149,7 +1149,7 @@ dlga_knight_offer_join_2:knight_offer_join_accept.1|O zaman beraber sürelim, do
 dlga_knight_offer_join_2:close_window|Bunu bilmek güzel. Üzerinde düşüneceğim.
 dlga_knight_offer_join_2:hero_pretalk|Bunu bilmek güzel. Üzerinde düşüneceğim.
 dlga_knight_offer_join_accept:knight_offer_join_accept_party|Grubumda işine yarayabilecek bazı güvenilir adamlarım var. Onlarla ne yapmayı istersin?
-dlga_knight_offer_join_accept:close_window|Ah, tabi, eğlenceli olabilir!
+dlga_knight_offer_join_accept:close_window|Ah, tabii, eğlenceli olabilir!
 dlga_knight_offer_join_accept_party:knight_join_party_disband|Adamlarını dağıtabilirsin. Başka adama ihtiyacım yok.
 dlga_knight_offer_join_accept_party:knight_join_party_join|Adamların da katılabilir. Toplayabileceğimiz her adama ihtiyacımız var.
 dlga_knight_offer_join_accept_party:knight_join_party_lead_out|Adamlarını şehrin dışına taşı. Sizi yolda yakalarım.
@@ -2173,7 +2173,7 @@ dlga_master_craftsman_talk:master_craftsman_accounts|Hesapları gözden geçirel
 dlga_master_craftsman_talk:master_craftsman_pretalk|Envanterlere bir bakalım.
 dlga_master_craftsman_talk:master_craftsman_pretalk.1|Malların üretilir üretilmez satılmasını istiyorum.
 dlga_master_craftsman_talk:master_craftsman_pretalk.2|Üretilen malları ben gelene kadar depoda bekletmenizi istiyorum.
-dlga_master_craftsman_accounts:master_craftsman_pretalk|Şu anda her hafta {reg1} değerinde {s3} üretiyoruz. Bunu üretmek için gereken {s4} {reg2} dinar tutuyor, iş gücü ve diğer masraflarsa {reg3}. {s9} Buna göre teorik olarak haftada {reg0} dinarlık {s12} ediyoruz, tabi hammaddeyi pazardan alıp bitmiş malları pazarda sattığımızı varsayarsak.
+dlga_master_craftsman_accounts:master_craftsman_pretalk|Şu anda her hafta {reg1} değerinde {s3} üretiyoruz. Bunu üretmek için gereken {s4} {reg2} dinar tutuyor, iş gücü ve diğer masraflarsa {reg3}. {s9} Buna göre teorik olarak haftada {reg0} dinarlık {s12} ediyoruz, tabii hammaddeyi pazardan alıp bitmiş malları pazarda sattığımızı varsayarsak.
 dlga_master_craftsman_talk:master_craftsman_production_options|Üretimimizle ilgili seçeneklerim neler, söyler misin?
 dlga_master_craftsman_production_options:master_craftsman_production_options_2|Tabii ki, {efendim/hanımım}. Çoğu zaman sizin için en kârlı yol bizim hammadeleri pazardan alıp bitmiş malları pazara satmamıza izin vermemizdir. Yerel tüccarlarla sürekli iş yaptığımdan genellikle bize çok iyi fiyatlar verirler.
 dlga_master_craftsman_production_options_2:master_craftsman_pretalk|Fakat eğer hammadeleri {s5} dışında daha ucuza alabileceğinizi görürseniz onları kendiniz satın alıp envanterimize koyabilirsiniz. Biz de pazardan satın alacağımıza onları kullanırız. Aynı şekilde bitmiş malları dışarıda daha iyi fiyata satabilecekseniz, bize onları satmayıp sizin alabilmeniz için depoya koymamızı söyleyebilirsiniz.
@@ -2249,7 +2249,7 @@ dlga_investment_choose_enterprise:investment_summary.6|Bir dokumacı ve boyacı,
 dlga_investment_choose_enterprise:investment_summary.7|Bir dokumacı, yünden kıyafet yapmak için
 dlga_investment_choose_enterprise:investment_summary.8|Bir dokumacı, ketenden kumaş yapmak için
 dlga_investment_choose_enterprise:mayor_pretalk|Boş ver
-dlga_investment_summary:mayor_investment_confirm|Pekâlâ Efendim. {s3} inşaa etmek için gereken arazi ve malzemeler size {reg7} dinara mâl olacak. Şu an, haftalık {reg1} dinar tutarında {s4} üretebilirsiniz ve bu tek birimi üretmek için gereken {s6} maliyeti {reg2} dinar, tüm işçi ve bakım masrafları ise {reg3} dinar olacaktır. {s9} Harcamalarınızı çıkarttığımızda ve bütün üretilenler satıldığında haftalık kârınız {reg0} dinar olacaktır. Tabii bu hesap fiyatların sabit kalması koşulu ile doğru olur ki size garanti veririm sabit kalmayacaktır. İşleri başlatmak ister misiniz?
+dlga_investment_summary:mayor_investment_confirm|Pekâlâ Efendim. {s3} inşa etmek için gereken arazi ve malzemeler size {reg7} dinara mâl olacak. Şu an, haftalık {reg1} dinar tutarında {s4} üretebilirsiniz ve bu tek birimi üretmek için gereken {s6} maliyeti {reg2} dinar, tüm işçi ve bakım masrafları ise {reg3} dinar olacaktır. {s9} Harcamalarınızı çıkarttığımızda ve bütün üretilenler satıldığında haftalık kârınız {reg0} dinar olacaktır. Tabii bu hesap fiyatların sabit kalması koşulu ile doğru olur ki size garanti veririm sabit kalmayacaktır. İşleri başlatmak ister misiniz?
 dlga_mayor_investment_confirm:mayor_investment_purchase|Evet. İşte yatırım için gereken para.
 dlga_mayor_investment_confirm:mayor_pretalk|Hayır -- bu şu an için kârlı gözükmüyor.
 dlga_mayor_investment_purchase:mayor_pretalk|Çok iyi. İşletmeniz bir hafta içinde çalışır durumda olur. Bir dahaki sefer geldiğinizde işler hakkında {s4} ile konuşabilirsiniz. 
@@ -3415,7 +3415,7 @@ dlga_tavern_traveler_talk:tavern_traveler_ransom_broker_location|Köle tacirleri
 dlga_dplmc_constable_patrol_change:dplmc_constable_patrol_change_target_ask|{s11}.
 dlga_lord_courtship_permission:lord_pretalk.3|{s12}
 dlga_lord_husband_auto_recruit:lord_pretalk.1|{s14}{.e} sadık kalmalıyı. Üzgünüm.
-dlga_lord_request_enlistment:lord_request_enlistment_confirm|Senin özelliklerindeki bir {adam/kadın}a ordumda yer var, {playername}. Seni bir {s1} olarak kabul edebilirim, haftalık {s2} ödeme alırsın. Ve tabii ki yiyecek. Terfi edebilmen için yeterince imkân ve rütbenin gerektirdiği ekipmanlara da sahip olacaksın. Tabi, yağmalardan payına düşeni de alacaksın. Ne diyorsun?
+dlga_lord_request_enlistment:lord_request_enlistment_confirm|Senin özelliklerindeki bir {adam/kadın}a ordumda yer var, {playername}. Seni bir {s1} olarak kabul edebilirim, haftalık {s2} ödeme alırsın. Ve tabii ki yiyecek. Terfi edebilmen için yeterince imkân ve rütbenin gerektirdiği ekipmanlara da sahip olacaksın. Tabii, yağmalardan payına düşeni de alacaksın. Ne diyorsun?
 dlga_lord_request_enlistment_confirm:close_window|Bu diyar için oldukça adil ve istikrarlı bir iş gibi görünüyor. Sizinleyim lordum.
 dlga_lord_request_enlistment_confirm:lord_pretalk|Tekrar düşününce lordum, şansımı bir süre daha yalnız deneyebilirim. Teşekkür ederim.
 dlga_lord_request_enlistment:lord_pretalk|Hizmetime alacak kadar sana güvenmiyorum.

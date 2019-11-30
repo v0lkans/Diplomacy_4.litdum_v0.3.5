@@ -5,7 +5,7 @@ qst_deliver_message_to_enemy_lord|{s13}{.e} mesaj ilet.
 qst_raise_troops|{reg1} {s14} yetiştir
 qst_escort_lady|{s13}'{.e} {s14}{.e} kadar refakat et.
 qst_deal_with_bandits_at_lords_village|{s15}{.i} yağmacı haydutlardan kurtar
-qst_collect_taxes|{s3}{.den} vergi topla.
+qst_collect_taxes|{s3}{.n}{.den} vergi topla.
 qst_hunt_down_fugitive|{s4}'{.i} avla.
 qst_kill_local_merchant|{s3}{.de}ki yerli tüccarı öldür.
 qst_bring_back_runaway_serfs|Kaçak köleleri geri getir.
@@ -49,7 +49,7 @@ qst_join_faction|{s1}'{.e} bağlılık yemini et.
 qst_rebel_against_kingdom|{s13}'{.e} {s14} tacını elde etmesinde yardım et.
 qst_consult_with_minister|Başkana Danış
 qst_organize_feast|Ziyafet Düzenle
-qst_resolve_dispute|Münakaşı Sonlandır
+qst_resolve_dispute|Münakaşayı Sonlandır
 qst_offer_gift|Hediye Ver
 qst_denounce_lord|Lorda beğlılık yeminini boz
 qst_intrigue_against_lord|Lordun arkasından işler çevir
@@ -69,5 +69,5 @@ qst_freelancer_vacation|Askerlik: İzin
 qst_freelancer_captured|Askerlik: Esaret
 qst_freelancer_revolt|Askerlik: İsyan
 qst_freelancer_end|Askerlik görevleri bitti.
-qst_floris_active_tournament|{s13}{.n}d{.e}ki turnuvaya katıl.
+qst_floris_active_tournament|{s13}nd{.e}ki turnuvaya katıl.
 qst_quests_end|Görevler bitti 

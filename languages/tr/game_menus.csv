@@ -329,7 +329,7 @@ mno_center_build_watch_tower|Gözcü kulesi inşa et.
 mno_center_build_school|Okul inşa et.
 mno_center_build_messenger_post|Ulak karakolu inşa et.
 mno_center_build_prisoner_tower|Mahkûm kulesi inşa et.
-menu_center_improve|{s19}^Birliğinin mühendislik becerisi en yüksek üyesi olarak ({reg2}) {s4} binasını inşa etmenin sana {reg5} dinar ve  {reg6} güne mâl olacağını, {reg3?tahmin ediyorsun:{s3} tahmin ediyor.}
+menu_center_improve|{s19}^Birliğinin mühendislik becerisi en yüksek üyesi olarak ({reg2}) {s4} inşa etmenin sana {reg5} dinar ve  {reg6} güne mâl olacağını {reg3?tahmin ediyorsun:{s3} tahmin ediyor.}
 mno_improve_cont|Devam et.
 mno_forget_it|Unut gitsin.
 mno_improve_not_enough_gold|Bunun için yeterli param yok.
