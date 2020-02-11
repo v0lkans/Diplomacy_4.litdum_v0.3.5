@@ -50,19 +50,19 @@ ui_unknown_unknownname|Bilinmeyen - %s
 ui_entry_point_entrypointname|Giriş Noktası %d
 ui_passage_menu_item_passagename|Geçit (menü objesi %d)
 ui_plant_plantname|Bitki - %s
-ui_export_file_for_character_playername_already_exists_overwrite_it|%s karakteri için ihraç dosyası zaten mevcut. Üstüne yazılsın mı?
+ui_export_file_for_character_playername_already_exists_overwrite_it|%s karakteri için dışa aktarma dosyası zaten mevcut. Üstüne yazılsın mı?
 ui_yes|Evet
 ui_no|Hayır
 ui_set_save_file_name|Bu kayıt dosyasına isim verin:
 ui_enter_new_name|Yeni bir isim girin:
-ui_export_character|Karakter İhraç Et
-ui_import_character|Karakter İthal Et
-ui_character_playername_exported_successfully|%s karakteri başarılı bir şekilde ihraç edildi.
-ui_character_playername_imported_successfully|%s karakteri başarılı bir şekilde ithal edildi.
-ui_unable_to_open_import_file|İthalat dosyası açılamıyor.
-ui_are_you_sure_you_want_to_import_the_character|Karakteri ithal etmek istediğinize emin misiniz?
-ui_unable_to_find_character_import_file|İthalat dosyası bulunamıyor.
-ui_mount_and_blade_is_running_in_trial_mode_please_buy_the_game_for_importing_a_character|At&Kılıç deneme sürümünde çalışıyor. Karakter ithal etmek için lütfen oyunu satın alın.
+ui_export_character|Karakter Dışa Aktar
+ui_import_character|Karakter İçe Aktar
+ui_character_playername_exported_successfully|%s karakteri başarılı bir şekilde dışa aktarıldı.
+ui_character_playername_imported_successfully|%s karakteri başarılı bir şekilde içe aktarıldı.
+ui_unable_to_open_import_file|İçe aktarma dosyası açılamıyor.
+ui_are_you_sure_you_want_to_import_the_character|Karakteri içe aktarmak etmek istediğinize emin misiniz?
+ui_unable_to_find_character_import_file|İçe aktarma dosyası bulunamıyor.
+ui_mount_and_blade_is_running_in_trial_mode_please_buy_the_game_for_importing_a_character|At&Kılıç deneme sürümünde çalışıyor. Karakter içe aktarmak için lütfen oyunu satın alın.
 ui_change_skin|Cilt
 ui_change_hair|Saç
 ui_change_hair_color|Saç rengini değiştir
