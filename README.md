@@ -82,7 +82,7 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
 
 - - - -
 ## Kuşatmalarda Envantere Erişebilme
-  * ##### Kuşatmalarda envantere erişebilirsin.
+  * ##### Artık kuşatmalarda envantere erişebilirsin.
 
 
 - - - -
@@ -103,17 +103,7 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
 ## Parti Morali
 #### Liderlik Puanı Başına Parti Morali:
   * **Kral değilken** : *~~12~~* --> *15*
-  * **Kral iken**     : *~~15~~* --> *30*
-
-
-- - - -
-## Haftalık Kaybedilen Nam Böleni
-  * *~~200~~* --> *400*
-
-###### (Formül = Nam / 400)
-###### (**Örnek**: 2000 / 400 = 5)
-###### (2000 namınız varsa her hafta 5 nam kaybedersiniz.)
-###### Bu değişiklik ile haftalık kaybedilen nam 2 kat azalır.
+  * **Kral iken**     : *~~15~~* --> *20*
 
 
 - - - -
@@ -129,7 +119,7 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
   * Esir yönetimi:
     * *Puan başına* **~~+5~~** --> **+10**
   #
-  * Atlı birlik ücretlerinin taban ücrete oranı **~~%166~~** --> **%200** _(Atlı birlikler artık daha pahalı)_
+  * Atlı birlik ücretlerinin taban ücrete oranı **~~%166~~** --> **%300** _(Atlı birlikler artık daha pahalı, çünkü çok güçlüler)_
   #
   * *Yemek her* **~~14~~** --> **12** *saatte bir yenir.*
   #
@@ -142,15 +132,15 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
   #
   * *Gemi ücreti:* **~~60000~~** --> **20000**
   #
-  * Gezgin Kadın Verdiği Moral: **~~4~~** --> **20**
+  * Gezgin Kadın Verdiği Moral: **~~4~~** --> **10**
   #
   * Askerlere bira ısmarlama
-    * Birim fiyatı **~~25~~** --> **15**
-    * Verdiği moral **~~1~~** --> **4**
+    * Birim fiyatı **~~25~~** --> **20**
+    * Verdiği moral **~~1~~** --> **3**
     #
   * Askerlere şarap ısmarlama
-    * Birim fiyatı **~~50~~** --> **30** 
-    * Verdiği moral **~~2~~** --> **8**
+    * Birim fiyatı **~~50~~** --> **40** 
+    * Verdiği moral **~~2~~** --> **6**
   
   #
   * Normal okların ve kundaklı yay oklarının sayıları 40 arttırıldı. (Talim ve arena okları dahil değildir.)
