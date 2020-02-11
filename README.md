@@ -89,7 +89,7 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
 ## Kira Gelirleri
  #### Kiralardan Gelen Gelir Böleni:
   * **Oyuncu için** *120* --> **değişmedi**
-  * **NPC'ler için** *120* --> *80*
+  * **NPC'ler için** *120* --> *100*
   ###### (*Oyuncuya verilen avantajlar, NPC'lerin savaşlarda biraz güçsüz kalmasına neden oluyor. Bu yüzden, biraz daha para kazanmalarında sakınca yoktur diye düşünüyorum.*)
 
 
