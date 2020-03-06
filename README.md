@@ -120,6 +120,24 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
     * *Puan başına* **~~+5~~** --> **+10**
   #
   * Atlı birlik ücretlerinin taban ücrete oranı **~~%166~~** --> **%300** _(Atlı birlikler artık daha pahalı, çünkü çok güçlüler)_
+  
+       <details>
+         <summary>Eski haline getirme</summary>
+
+      ##### _Modun bulunduğu klasördeki scripts.txt dosyasında şu satırı arat:_
+
+     2107 2 1224979098644774914 **150** 2108 2 1224979098644774914 **50**
+
+     ###### (**150/50 = 3**, yani taban değer 3'le çarpılıcak, yani taban değerin **%300**'ü)
+
+
+     ##### _Koyu sayıları, sırasıyla **5**, **3** yap:_
+
+     2107 2 1224979098644774914 **5** 2108 2 1224979098644774914 **3**
+
+     ###### (**5/3 = 1.66**, yani taban değerin **%166**'sı)
+       </details>
+  
   #
   * *Yemek her* **~~14~~** --> **12** *saatte bir yenir.*
   #
