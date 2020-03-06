@@ -2567,7 +2567,7 @@ dlga_bandit_barter_3b:close_window|Bak bu kötü oldu. Demek ki seni köle pazar
 dlga_bandit_barter:close_window|Hey, kim olduğunu biliyorum! Bizim gibi haydutları köpekler gibi katlediyorsun, şimdi biz seni üç beş dinar için neden serbest bırakalım? Unut bunu. Sen bize hiç şans tanımamıştın, şimdi de biz sana bir şans tanımayacağız.
 dlga_bandit_barter_3a:close_window|Heh, o kadar da zor olmadı değil mi? Pekâlâ, gitmene izin veriyoruz. Yürü hadi!
 dlga_start:bandit_meet|Hah? Ne var?
-dlga_bandit_meet:bandit_attack|Zamanın doldu serseri.. Gebermeye hazır ol!
+dlga_bandit_meet:bandit_attack|Zamanın doldu serseri... Gebermeye hazır ol!
 dlga_bandit_attack:close_window|{s5}
 dlga_bandit_meet:close_window|Boş verin, sizinle bi işim yok.
 dlga_start:disbanded_troop_ask|Seni izlememizi mi istiyorsun?
@@ -3012,7 +3012,7 @@ dlga_dplmc_chamberlain_manage_fiefs_options:dplmc_chamberlain_pretalk|Hayır.
 dlga_dplmc_chamberlain_manage_fiefs_build:dplmc_chamberlain_manage_fiefs_build_location|İnşaatı nerede yapmak istiyorsunuz? 
 dlga_dplmc_chamberlain_manage_fiefs_build_location:dplmc_chamberlain_manage_fiefs_build_ask|{s2}. 
 dlga_dplmc_chamberlain_manage_fiefs_build_location:dplmc_chamberlain_pretalk|Hiçbir yerde.
-dlga_dplmc_chamberlain_manage_fiefs_build_ask:dplmc_chamberlain_pretalk|{s19} Şu anda {s7} inşa ediyorsunuz. İnşaat {reg8} gün {reg9?s:} sonra tamamlanacak. Bitene kadar beklemeliyiz. 
+dlga_dplmc_chamberlain_manage_fiefs_build_ask:dplmc_chamberlain_pretalk|{s19} Şu anda {s7} inşa ediyorsunuz. İnşaat {reg8} gün {reg9?:} sonra tamamlanacak. Bitene kadar beklemeliyiz. 
 dlga_dplmc_chamberlain_manage_fiefs_build_ask:dplmc_chamberlain_manage_fiefs_build_ask2|{s19} Ne inşa etmek istersiniz?
 dlga_dplmc_chamberlain_manage_fiefs_build_ask2:dplmc_chamberlain_manage_fiefs_build_confirm_ask|Malikane inşa et.
 dlga_dplmc_chamberlain_manage_fiefs_build_ask2:dplmc_chamberlain_manage_fiefs_build_confirm_ask.1|Değirmen inşa et.

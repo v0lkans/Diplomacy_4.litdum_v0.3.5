@@ -3,7 +3,7 @@ qst_deliver_message|{s13}{.e} mesaj ilet.
 qst_deliver_message|{s13}{.e} mesaj ilet.
 qst_deliver_message_to_enemy_lord|{s13}{.e} mesaj ilet.
 qst_raise_troops|{reg1} {s14} yetiştir
-qst_escort_lady|{s13}'{.e} {s14}{.e} kadar refakat et.
+qst_escort_lady|{s13}'{.n}{.e} {s14}{.n}{.e} kadar refakat et.
 qst_deal_with_bandits_at_lords_village|{s15}{.i} yağmacı haydutlardan kurtar
 qst_collect_taxes|{s3}{.n}{.den} vergi topla.
 qst_hunt_down_fugitive|{s4}'{.i} avla.
@@ -29,7 +29,7 @@ qst_duel_for_lady|{s13}'{.i} düelloya davet et.
 qst_duel_courtship_rival|{s13}'{.i} düelloya davet et (isteğe bağlı)
 qst_duel_avenge_insult|{s13}'{.i} düelloya davet et
 qst_move_cattle_herd|Sığır Sürüsünü {s13}{.e} sür.
-qst_escort_merchant_caravan|Kervana {s8}{.e} Kadar Refakat Et
+qst_escort_merchant_caravan|Kervana {s8}{.n}{.e} Kadar Refakat Et
 qst_deliver_wine|{s4}{.e} {reg5} Adet {s6} Götür.
 qst_troublesome_bandits|Belalı Haydutları Yok Et
 qst_kidnapped_girl|Kızın Fidyesini Götür
