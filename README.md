@@ -80,10 +80,6 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
   * ##### Sancak taşıma hakkı kazandıktan sonra, istediğin zaman sancağını yenileyebilirsin. (Kamp Menüsü >> Sancağını Yenile)
 
 
-- - - -
-## Kuşatmalarda Envantere Erişebilme
-  * ##### Artık kuşatmalarda envantere erişebilirsin.
-
 
 - - - -
 ## Kira Gelirleri
@@ -161,11 +157,11 @@ Karizma Puanı Başına      | +1            |   | Karizma Puanı Başına      
     * Verdiği moral **~~2~~** --> **6**
   
   #
-  * Normal okların ve kundaklı yay oklarının sayıları 40 arttırıldı. (Talim ve arena okları dahil değildir.)
+  * Normal okların ve kundaklı yay oklarının sayıları 20 arttırıldı. (Talim ve arena okları dahil değildir.)
 
 # Türkçe dili hata düzeltme güncellemesi
 Oyunda karşılaştığım yazım hatalarını, çeviri hatalarını, hatalı gösterimleri elimden geldiğince düzeltmeye çalıştım.
 
 Aynı zamanda bazı gösterimlerin daha anlaşılabilir olması için eklemeler de yaptım.
 
-Hatalar büyük oranda giderildi, ancak hâlâ, karşılaşmadığım ya da gözümden kaçmış hatalar olabilir.
+Hatalar büyük oranda giderildi, ancak hâlâ karşılaşmadığım ya da gözümden kaçmış hatalar olabilir.
