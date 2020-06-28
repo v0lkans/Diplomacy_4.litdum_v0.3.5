@@ -2,7 +2,7 @@
 dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Bu bölgeye bir derebeyi atama işini, beylerimin fikrini alana kadar ertelemek istiyorum.
 dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Bu bölgeye bir derebeyi atama işini, beylerimin fikrini alana kadar ertelemek istiyorum.
 dlga_award_fief_to_vassal_defer:close_window|Elbette, {beyim/hanımım}. Bu konudaki kararınızı daha sonra verebilirsiniz.
-dlga_award_fief_to_vassal_2:close_window|Nasıl isterseniz, {beyim/hanımım}. {s1} bölgesinin yeni {reg3?hanımı:efendisi} {reg6?ben olacağım:{reg7?siz olacaksınız:{s11}} olacak}.
+dlga_award_fief_to_vassal_2:close_window|Nasıl isterseniz, {beyim/hanımım}. {s1}'{.nin} yeni {reg3?hanımı:efendisi} {reg6?ben olacağım:{reg7?siz olacaksınız:{s11} olacak}}.
 dlga_event_triggered:center_captured_rebellion|{s1} herhangi biri tarafından yönetilmiyor. Oranın başına kimi getirmeliyim?
 dlga_center_captured_rebellion:center_captured_rebellion_2|{s11}. {s1}
 dlga_center_captured_rebellion:center_captured_rebellion_2.1|{reg0?{s65}:Lütfen {s65}}, {s1} topraklarını kendim için istiyorum. (topraklar: {s0})
@@ -291,10 +291,10 @@ dlga_merchant_quest_persuasion:close_window|Dediğim gibi. Yapacak daha önemli 
 dlga_merchant_quest_2:merchant_quest_2a|Şimdi – git ve o haydut takımının hakkından gel.
 dlga_merchant_quest_3:merchant_quest_3a|Şimdi – Git ve o haydut inini bas, kardeşimi bana geri getir ve ailemi tehdit edenlere ne olacağını göster onlara.
 dlga_start:close_window.1|Bana mı bakıyorsun?
-dlga_start:merchant_closing_statement_2|Ah... {playername}. İşler umduğum gibi gitmedi. {s5} şehirde asayişi bozmamı göz ardı etmeyi kendine yediremedi. Muhafız komutanından onu kurtardığım için bana müteşekkir tabii. Ne de olsa barışta haydutlarla işbirliği yapan bir nöbetçi, savaşta düşmanları da kasabaya sokabilir. Ama kendisinin şehirde güvenliği sağlayamayıp bunu benim becermiş olmam onun otoritesine bir darbe olacak, oda bunu kabul edemez.
+dlga_start:merchant_closing_statement_2|Ah... {playername}. İşler umduğum gibi gitmedi. {s5} şehirde asayişi bozmamı göz ardı etmeyi kendine yediremedi. Muhafız komutanından onu kurtardığım için bana müteşekkir tabii. Ne de olsa barışta haydutlarla işbirliği yapan bir nöbetçi, savaşta düşmanları da kasabaya sokabilir. Ama kendisinin şehirde güvenliği sağlayamayıp bunu benim becermiş olmam onun otoritesine bir darbe olacak, o da bunu kabul edemez.
 dlga_merchant_closing_statement_2:merchant_closing_statement_3|Bu hiç de adil değil...
 dlga_merchant_closing_statement_3:merchant_closing_statement_4|Adalet mi? Burası Kalradya {evladım/kızım}! Hükümdarlar canları ne isterse onu yaparlar ve geri kalan bizler de yapmamız gerekenleri. Beni bir ağaçta sallandırmadı ve mallarımı satıp şehirden ayrılmam için zaman verdi -hatta tüccarlara mallarıma iyi fiyat vermelerini emretti. Bu bir hükümdar için oldukça cömert sayılır. Ama o güçsüz bir hükümdar ve güçsüz hükümdarlar önce otoritelerini gözetmelidir, adaleti ise sonra. Onun yerinde olsam ben de aynısını yapardım..
-dlga_merchant_closing_statement_4:close_window|Neyse, yerinde olsam bu işteki rolümü {s5} önünde açığa vurmazdım. -- ama seni fark etti ve şimdilik senin asmaya gerek görmedi -ki bence bu her zaman kutlanacak bir şeydir. Aslında ileride sana verebileceği bir görev de olabilir. Ya da {s0}ını onun rakiplerinden birine kiralayabilirsin. Neyse umarım bu maceradan bu dertli ülkede hayatta kalmak hakkında bir iki ders çıkartmışsındır ve herhâlde kazandığın işine yarayacaktır. İyi şanslar.
+dlga_merchant_closing_statement_4:close_window|Neyse, yerinde olsam bu işteki rolümü {s5} önünde açığa vurmazdım. -- ama seni fark etti ve şimdilik senin asmaya gerek görmedi -ki bence bu her zaman kutlanacak bir şeydir. Aslında ileride sana verebileceği bir görev de olabilir. Ya da {s0}{.n}{.i} onun rakiplerinden birine kiralayabilirsin. Neyse umarım bu maceradan bu dertli ülkede hayatta kalmak hakkında bir iki ders çıkartmışsındır ve herhâlde kazandığın işine yarayacaktır. İyi şanslar.
 dlga_merchant_quests_last_word:close_window|Şehri terketmek üzere hazırlanıyorum. Seninle tanışmak bir şerefti. İyi şanslar.
 dlga_member_intel_liaison:member_intel_liaison_results|Neler buldun?
 dlga_start:member_intel_liaison|Selamlar, yabancı.
@@ -843,7 +843,7 @@ dlga_lord_recruit_3_b:lord_pretalk|Boş ver.
 dlga_lord_recruit_3_dilemma_1:lord_recruit_3_dilemma_2|{s43}
 dlga_lord_recruit_3_dilemma_2:lord_recruit_3_why|{s43}
 dlga_lord_recruit_3_why:lord_pretalk|Ne senin ne de benim sahip olduğumuz tek bir kalemiz yok. Krallığımızı ormanda bir haydut ininden mi yöneteceğiz?
-dlga_lord_recruit_3_why:lord_recruit_3_d|{s44} denen şahsiyeti neden destekleyeyim?
+dlga_lord_recruit_3_why:lord_recruit_3_d|{s44}'{.i} neden destekleyeyim?
 dlga_lord_recruit_3_d:lord_recruit_3_claim|{s43}
 dlga_lord_recruit_3_d:lord_recruit_3_claim.1|Eğer {s45} {s47} olsaydı, {s45} bütün insanlarla adil davranıp, halkın haklarını sonuna kadar savunurdu.
 dlga_lord_recruit_3_d:lord_recruit_3_claim.2|Eğer {s45} {s47} olsaydı, {s45} senin bütün ezeli haklarını bu ülkenin bir soylusuymuşsun gibi desteklerdi.
@@ -1502,12 +1502,12 @@ dlga_lady_captive_confirm:close_window.1|Fidye için ailenizle iletişime geçin
 dlga_kingdom_lady_captive:close_window|O hâlde ailenize yazın ve fidyeyi göndermeleri konusunda acele etmelerini söyleyin!
 dlga_kingdom_lady_captive:close_window.1|Fikrimi değiştirdim – gidebilirsiniz.
 dlga_start:lady_duel_lost|Ah {playername} – {s10} ile yaptığın düelloyu duydum. Keşke onunla hiç dövüşmeseydiniz, çünkü geleneklerimizden ve onurumuzdan dolayı, ona yenildiğiniz için sizinle birlikte olamayacağım. Güle güle {playername}.
-dlga_lady_duel_lost:close_window|Pekâlâ – Gelenekler neyi gerekiyorsa... Güle güle, hanımım.
+dlga_lady_duel_lost:close_window|Pekâlâ – Gelenekler neyi gerektiriyorsa... Güle güle, hanımım.
 dlga_lady_duel_lost:lady_duel_lost_flaunt_conventions|Geleneklerin canı cehenneme!
 dlga_lady_duel_lost_flaunt_conventions:close_window|Ah, {playername}! Sizi bir daha asla görmemek bana acı verecektir. Bu saçma geleneği bir tarafa bırakalım.
-dlga_lady_duel_lost_flaunt_conventions:close_window.1|Hayır, {playername} -- Adımızın lekelenmesini kaldırabileceğimizi sanmıyorum
+dlga_lady_duel_lost_flaunt_conventions:close_window.1|Hayır, {playername} -- Adımızın lekelenmesini kaldırabileceğimizi sanmıyorum.
 dlga_start:lady_start|Ah, {playername} – duydum ki {s10} ile yaptığın düelloyu kazanmışsın. O adamınkiler yerine senin kollarının arasında olacağım için çok mutluyum!
-dlga_start:lady_start.1|Pekâlâ, {playername} -- {s10} ile yaptığın düelloyu kazandın. Artık onunla görüşmem yasak. Ona aşıktım biliyorsun. Bu yüzden onu yenmen benim için güzel bir şey değil.
+dlga_start:lady_start.1|Pekâlâ, {playername} -- {s10} ile yaptığın düelloyu kazandın. Açıkçası, o benim sevgime layık değildi.
 dlga_lady_duel_rep_1:lady_start|Evet, {playername} -- {s10} ile yaptığın düelloyu kazanmışsın. Erkeklerin benim için dövüşmesi ne büyük aptallık! Ama bu romantik bi olay, sanırım.
 dlga_lady_duel_rep_2:lady_start|Evet, {playername} -- {s10} ile yaptığınız düelloyu kazanmışsınız. Bu, artık onunla görüşemeyeciğim anlamına geliyor. Ona aşık olduğumu biliyordunuz. Onunla dövüşerek bana hizmet ettiğinizi sanmayın.
 dlga_start:lady_qst_duel_for_lady_succeeded_1|Sevgili {playername}, seni tekrar görmek ne büyük mutluluk! Duydum ki o {s13} reziline dersini vermişsin! Umarım yaşadığı utancı asla unutmaz. Senin için bir ödülüm var, ama senin benim için yaptığının yanında az bile.
@@ -2711,14 +2711,14 @@ dlga_mayor_wealth_comparison_4:mayor_wealth_comparison_5|Ticaret açısından {s
 dlga_mayor_wealth_comparison_5:mayor_pretalk|Yolların güvenliği açısından {s4} en tehlikeli olan. Bizim şehrimiz haydut ve yağmacılardan {reg4} şehirden daha az {reg5} şehirden ise daha fazla etkileniyor.
 dlga_free:close_window|Güle-güle.
 dlga_free:close_window.1|[Ayrıl]
-dlga_start:dplmc_recruiter_talk|Merhaba {s0}. Eğer sizin için bir mahsuru yoksa görevimi sürdürmek istiyorum.
+dlga_start:dplmc_recruiter_talk|Merhaba {lordum/hanımım}. Eğer sizin için bir mahsuru yoksa görevimi sürdürmek istiyorum.
 dlga_dplmc_recruiter_talk:close_window|Tamam, devam et.
 dlga_dplmc_recruiter_talk:dplmc_recruiter_talk_2|Farklı birlikler yetiştirmeni istiyorum.
 dlga_dplmc_recruiter_talk_2:dplmc_recruiter_talk_3|Şu anki görevim {reg1} {s1} birlikleri yetiştirmek. Şu andan itibaren farklı askerler mi istiyorsunuz? 
 dlga_dplmc_recruiter_talk_3:close_window|Hayır, devam et. 
 dlga_dplmc_recruiter_talk_3:dplmc_recruiter_talk_4|{s11}. 
 dlga_dplmc_recruiter_talk_3:dplmc_recruiter_talk_4.1|Herhangi bir birlik yetiştir. 
-dlga_dplmc_recruiter_talk_4:dplmc_recruiter_talk|Hayhay {s0}. Yetiştireceğim. Başka arzunuz? 
+dlga_dplmc_recruiter_talk_4:dplmc_recruiter_talk|Hayhay {lordum/hanımım}. Yetiştireceğim. Başka arzunuz? 
 dlga_start:dplmc_messenger_talk|Selamlar. Üzgünüm ama konuşacak zamanım yok. {s6} için önemli bir mesaj göturuyorum. 
 dlga_dplmc_messenger_talk:dplmc_messenger_talk_farewell|Tamam, seni geciktirmek istemem. Yolunuz açık olsun! 
 dlga_dplmc_messenger_talk_farewell:close_window|Teşekkürler. Güle güle! 
@@ -2863,7 +2863,7 @@ dlga_dplmc_chancellor_talk:dplmc_chancellor_talk_household|Ambarıma göz atmak 
 dlga_dplmc_chancellor_talk_household:dplmc_chancellor_pretalk|Bütün önemli eşyaları ambarda saklamalısınız.
 dlga_dplmc_chancellor_talk:close_window|Hoşça kal!
 dlga_start:dplmc_constable_talk|Daima hizmetinizdeyim!
-dlga_dplmc_constable_pretalk:dplmc_constable_talk|Başka bir arzunuz var mı, {s0}?
+dlga_dplmc_constable_pretalk:dplmc_constable_talk|Başka bir arzunuz var mı, {lordum/hanımım}?
 dlga_dplmc_constable_talk:dplmc_constable_talk_ask_war|Savaş nasıl gidiyor?
 dlga_dplmc_constable_talk_ask_war:dplmc_constable_talk_ask_war_2|{s12}
 dlga_dplmc_constable_talk_ask_war_2:dplmc_constable_talk_ask_war_details|{s1} ile olan savaştan bahset.

@@ -116,7 +116,7 @@ qstr_Revengeful|İntikamcı
 qstr_Vengeful|Kinci
 qstr_{reg61}_{reg58?_{reg|{reg61} {reg58?({reg58} Atanmamış) :}Merkez
 qstr_{reg62}_Caravans|{reg62} Karavan
-qstr_{reg60}_{reg59?_{reg|{reg60} {reg59?({reg59} Mahkûm) :}Lord
+qstr_{reg60}_{reg59?_{reg|{reg60} {reg59?(+{reg59} Mahkûm) :}Lord
 qstr_How_will_your_male_v|Erkek derebeyleriniz nasıl tanınsın?
 qstr_How_will_your_female|Kadın derebeyleriniz nasıl tanınsın?
 qstr_Use_the_Titles_Enter|Yukarıda girilen ünvanları kullan.
@@ -852,17 +852,17 @@ qstr_act_to_defend_our_la|topraklarımızı korumak için harekete geçmek
 qstr_take_more_time_to_ga|orduyu toplamak için biraz daha beklemek
 qstr_You_promised_to_help|{s13}, {s14} tacını elde edene kadar ona yardım etmeye söz verdin.
 qstr_What_do_you_say_to_e|Kiralık askerlerin komutanı olarak {s9} servisi altına girmeye ne dersin? 
-qstr_{s9}_asked_you_to_ta|{s9} senden {s13} için yazdığı bir mesajı götürmeni istiyor. Görevi aldığın sırada {s13}, {s4}nde bulunuyordu.
-qstr_{s9}_asked_you_to_tak|{s9} senden {s15}ndan {s13}'{.e} bir mesaj götürmeni istiyor. Görevi aldığında, {s13}, {s4}{.de} bulunuyordu.
-qstr_{s11}_asked_you_to_e|{s11} senden ona ait {s17} {s13} için {s14}ne kadar refakatçilik yapmanı istiyor.
+qstr_{s9}_asked_you_to_ta|{s9} senden {s13} için yazdığı bir mesajı götürmeni istiyor. Görevi aldığın sırada {s13}, {s4}n{.de} bulunuyordu.
+qstr_{s9}_asked_you_to_tak|{s9} senden {s15}ndan {s13}'{.e} bir mesaj götürmeni istiyor. Görevi aldığında, {s13}, {s4}n{.de} bulunuyordu.
+qstr_{s11}_asked_you_to_e|{s11} senden ona ait {s17} {s13} için {s14}n{.e} kadar refakatçilik yapmanı istiyor.
 qstr_{s13}_asked_you_to_d|{s13}, senden ona ait {s15}ne yerleşen haydutlarla ilgilenmeni, ardından kendisine rapor vermeni istedi.
 qstr_{s9}_asked_you_to_ra|{s9}, {reg1} {s14} yetiştirip kendisine getirmeni istedi.
-qstr_{s9}_asked_you_to_co|{s9}, {s3}{.n}{.den} vergileri toplamanı istedi. Topladığın tüm paranın beşte birini sana bırakmayı önerdi
-qstr_{s9}_asked_you_to_hu|{s9}, senden {s4} olarak bilinen kaçağı avlamanı istedi. Şu an {s3}{.n}{.de} olduğu sanılıyor.
-qstr_{s9}_asked_you_to_as|{s9}, {s3}ndeki yerli tüccarı öldürmeni istedi.
-qstr_{s9}_has_asked_you_t|{s9}, {s13}nde bulunan casusla buluşmanı istedi.
-qstr_{s11}_asked_you_to_f|{s11}, {s12}nden ayrılan casusu izlemeni istedi. Casusun seni yolda görmemesine dikkat etmelisin, yoksa şüphelenip geri dönebilir. Casus bir kere suç ortağıyla buluştuktan sonra, her ikisini de yakalayıp {s11}ne getirmen gerekiyor.
-qstr_{s11}_asked_you_to_c|{s11}, {s13}ndan bir herhangi bir lord yakalamanı ve ardından kurbanını saklamak üzere {s11}ne sürüklemeni istedi.
+qstr_{s9}_asked_you_to_co|{s9}, {s3}n{.den} vergileri toplamanı istedi. Topladığın tüm paranın beşte birini sana bırakmayı önerdi.
+qstr_{s9}_asked_you_to_hu|{s9}, senden {s4} olarak bilinen kaçağı avlamanı istedi. Şu an {s3}n{.de} olduğu sanılıyor.
+qstr_{s9}_asked_you_to_as|{s9}, {s3}n{.de}ki yerli tüccarı öldürmeni istedi.
+qstr_{s9}_has_asked_you_t|{s9}, {s13}n{.de} bulunan casusla buluşmanı istedi.
+qstr_{s11}_asked_you_to_f|{s11}, {s12}n{.den} ayrılan casusu izlemeni istedi. Casusun seni yolda görmemesine dikkat etmelisin, yoksa şüphelenip geri dönebilir. Casus bir kere suç ortağıyla buluştuktan sonra, her ikisini de yakalayıp {s11}'{.e} getirmen gerekiyor.
+qstr_{s11}_asked_you_to_c|{s11}, {s13}n{.den} bir herhangi bir lord yakalamanı ve ardından kurbanını saklamak üzere {s11}ne sürüklemeni istedi.
 qstr_{s9}_asked_you_to_le|{s9}, yardımcını ({s3}) ona bir hafta ödünç vermeni istedi.
 qstr_{s9}_asked_you_to_col|{s9}, {s3} olarak bilinen kişinin ona olan {reg4} dinarlık borcunu toplamanı istedi. {s3}, sen bu görevi aldığında {s4}ndeydi.
 qstr_{s11}_gave_you_a_fak|{s11} sana {s13} adlı kişiyi, {s16} olarak bilinen derebeyini sürmesi konusunda kandırmak üzere sahte bir mektup verdi. {s14} civarına gitmen, mektubu {s15} askerlerinden birine vermen ve onu şehre, mesajının gerçek olduğuna inanarak, ulak olarak yollaman gerekiyor.
@@ -894,9 +894,9 @@ qstr_The_Guildmaster_of_{s|{s14} lonca başkanı {s14} sokaklarına terör saça
 qstr_Guildmaster_of_{s10}|{s10} lonca başkanı bir sığır sürüsünü {s13}ne sürmeni istedi. Karşılığında {reg8} dinar kazanacaksın.
 qstr_He_is_not_commanding|Şu an hiç kimseyi yönetmiyor.
 qstr_He_currently_command|Şu an {reg1?, yaklaşık {reg1} tanesi yaralı olan :}{reg0} askere hükmediyor.
-qstr_The_elder_of_the_vil|{s3}nün yaşlısı ona {reg5} çuval buğday getirmeni istedi.
-qstr_The_elder_of_the_vill|{s3}nün yaşlısı haydutlarla savaşabilmeleri için {reg5} çiftçiyi eğitmeni istedi.
-qstr_The_elder_of_the_villa|{s3}nün yaşlısı ona {reg5} baş sığır getirmeni istedi.
+qstr_The_elder_of_the_vil|{s3}{.nin} yaşlısı ona {reg5} çuval buğday getirmeni istedi.
+qstr_The_elder_of_the_vill|{s13}{.nin} yaşlısı haydutlarla savaşabilmeleri için {reg5} çiftçiyi eğitmeni istedi.
+qstr_The_elder_of_the_villa|{s3}{.nin} yaşlısı ona {reg5} baş sığır getirmeni istedi.
 qstr_{s16}_and_{s15}|{s16} ve {s15}
 qstr_I_can_smell_a_fat_pu|Kalın cüzdan kokusunu yolun öbür ucundan alırım. Bana kalırsa biraz hafifleme vaktin gelmiş!
 qstr_Why_it_be_another_tr|Ah, yolların denk getirdiği başka bir yolcu! Sizi uyarmalıyım, bu kırlar sizin gibi hoş bir {bey/hanım} için tehlikeli olabilir. Ama küçük bir bağış karşılığı ben ve dostlarım doğru yere ulaşmanızı sağlayabilir...

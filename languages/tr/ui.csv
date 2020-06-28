@@ -107,9 +107,9 @@ ui_explanation_archery|Yayların kullanımını kapsar.
 ui_explanation_crossbow|Kundaklı yaylarının kullanımını kapsar.
 ui_explanation_throwing|Cirit, dart, taş gibi fırlatılan silahların kullanımını kapsar.
 ui_explanation_firearms|Tabanca ve tüfeklerin kullanımını kapsar.
-ui_explanation_strength|Güç: Her iki puan sağlığınıza +1 ekler. Şu beceriler Güç puanınızın 1/3'ünden daha fazla yükseltilemez: demir vücut, güçlü darbe, güçlü fırlatma, güçlü germe.
-ui_explanation_agility|Çeviklik: Her puan beş silah hüneri puanı verir ve silah hızını %0.5 artırır. Şu beceriler Çeviklik puanınızın 1/3'ünden daha fazla yükseltilemez: kalkan, atletizm, silah ustası, binicilik, atlı okçuluk.
-ui_explanation_intelligence|Zekâ: Zekâya verilen her puan fazladan bir beceri puanı kazandırır. Şu beceriler Zekâ puanınızın 1/3'ünden daha fazla yükseltilemez: talimci, iz sürme, taktik, yön bulma, tespit etme, envanter yönetimi, yara bakımı, cerrahlık, ilk yardım.
+ui_explanation_strength|Güç: Her puan sağlığınıza +1 ekler. Şu beceriler Güç puanınızın 1/3'ünden daha fazla yükseltilemez: demir vücut, güçlü darbe, güçlü fırlatma, güçlü germe.
+ui_explanation_agility|Çeviklik: Her puan beş silah hüneri puanı verir ve koşma hızını artırır. Şu beceriler Çeviklik puanınızın 1/3'ünden daha fazla yükseltilemez: silah ustası, kalkan, atletizm, binicilik, atlı okçuluk, yağma.
+ui_explanation_intelligence|Zekâ: Her puan fazladan bir beceri puanı kazandırır. Şu beceriler Zekâ puanınızın 1/3'ünden daha fazla yükseltilemez: talimci, iz sürme, taktik, yön bulma, tespit etme, envanter yönetimi, yara bakımı, cerrahlık, ilk yardım, mühendislik, ikna.
 ui_explanation_charisma|Karizma: Her puan grup asker sayısı limitinize +1 ekler. Şu beceriler Karizma puanınızın 1/3'ünden daha fazla yükseltilemez: liderlik, esir yönetimi, ticaret.
 ui_level|Seviye: %d
 ui_xp|Tecrübe: %d

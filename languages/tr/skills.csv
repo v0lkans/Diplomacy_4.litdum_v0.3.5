@@ -43,7 +43,7 @@ skl_reserved_7_desc|This is a reserved skill.
 skl_reserved_8|Reserved Skill 8
 skl_reserved_8_desc|This is a reserved skill.
 skl_looting|Yağma
-skl_looting_desc|Bu yetenek, kazanılan yağmayı yetenek seviyesi başına %%10 artırır. (Grup yeteneği)
+skl_looting_desc|Bu yetenek, Köylerde ve savaşlarda kazanılan yağmayı yetenek seviyesi başına %%10 artırır. (Grup yeteneği)
 skl_horse_archery|Atlı Okçuluk
 skl_horse_archery_desc|At üstünde kullanılan yay veya fırlatmalı silahların zarar ve isabet dezavantajlarını düşürür. (Kişisel yetenek)
 skl_riding|Binicilik
