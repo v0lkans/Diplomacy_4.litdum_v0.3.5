@@ -799,7 +799,7 @@ qstr_{reg0}_denars|{reg0} dinar
 qstr_no|0
 qstr_{s60}_is_currently_o|{s60} asiler tarafından ele geçirildi, bir an önce onlarla yüzleşmelisin.
 qstr__We_are_expecting_{r| Kiralardan {reg0} dinar toplamayı bekliyoruz.
-qstr__The_troop_wages_for| Birlik maaşları {reg0} dinar ve birlikler {reg1} dinara mâl oluyor.
+qstr__The_troop_wages_for| {reg0} birlik {reg1} dinara mâl oluyor.
 qstr_{s61}_and_{reg0}_den|{s61} ve {reg0} dinar vergilerden bekliyoruz.
 qstr_Well_{s60}.|Güzel, {s60}.
 qstr_{s4}_{s3}._The_tax_r|{s4} {s3}. Vergi oranı {s50}.{s59}{s61}. Toplamda {s62} dinar ediyor.

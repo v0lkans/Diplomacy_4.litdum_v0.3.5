@@ -263,7 +263,7 @@ menu_siege_attack_meets_sally|Savunma güçleri saldırını karşılamak üzere
 menu_castle_besiege_inner_battle|{s1}
 menu_construct_ladders|Grubun en yüksek mühendislik becerisine sahip üyesi olarak ({reg2}), saldırı için merdiven inşa etmenin {reg4} saat süreceğini {reg3?tahmin ediyorsun:{s3} tahmin ediyor}.
 mno_build_ladders_cont|Devam et.
-menu_construct_siege_tower|Gruptaki en yüksek mühendislik becerisine sahip kişi olarak ({reg2}), bir kuşatma kulesi inşa etmenin {reg4} saat süreceğini {reg3?tahmin ediyorsun:{s3} ediyor} .
+menu_construct_siege_tower|Gruptaki en yüksek mühendislik becerisine sahip kişi olarak ({reg2}), bir kuşatma kulesi inşa etmenin {reg4} saat süreceğini {reg3?tahmin ediyorsun:{s3} tahmin ediyor} .
 mno_build_siege_tower_cont|İnşa etmeye başla.
 menu_castle_attack_walls_simulate|{s4}^^Kayıpların:{s8}^^Düşmanın Kayıpları: {s9}
 menu_castle_attack_walls_with_allies_simulate|{s4}^^Kayıpların: {s8}^^Müttefik Kayıpları: {s9}^^Düşman Kayıpları: {s10}

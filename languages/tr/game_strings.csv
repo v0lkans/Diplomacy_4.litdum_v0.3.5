@@ -1096,8 +1096,8 @@ str_comment_we_fought_in_siege_unfriendly_spiteful|Sanıyorum {s54} zaferimizin 
 str_comment_we_fought_in_siege_unfriendly|{s51} savunmalarını nasıl aştığımızı unutmayacağım ancak aramızdaki sıkıntıları da unutmam mümkün değil.
 str_comment_we_fought_in_siege_cruel|{s51} duvarlarını aşıp savunan askerlerin hepsini kılıçtan geçirişimizi unutmayacağım. Tatlı bir hatıra olarak kalacak.
 str_comment_we_fought_in_siege_quarrelsome|{s51} surlarını aştığımızda düşman askerlerinin nasıl inlediğini hatırlıyor musun? Güvende olduklarını düşünüyorlardı! O donuk sırıtmalarını suratlarından söküp attık!
-str_comment_we_fought_in_siege_upstanding|{s51}'{.ni} nasıl da beraberce ele geçirdiğimizi unutmayacağım. Göklere şükranlarımızı sunalım ve dua edelim ki kibirli insanlara dönüşmeyelim.
-str_comment_we_fought_in_siege_default|{s51}'{.ni} nasıl da beraberce ele geçirdiğimizi unutmayacağım. Yanında savaşmış olmaktan gurur duyuyorum.
+str_comment_we_fought_in_siege_upstanding|{s51}'n{.i} nasıl da beraberce ele geçirdiğimizi unutmayacağım. Göklere şükranlarımızı sunalım ve dua edelim ki kibirli insanlara dönüşmeyelim.
+str_comment_we_fought_in_siege_default|{s51}'n{.i} nasıl da beraberce ele geçirdiğimizi unutmayacağım. Yanında savaşmış olmaktan gurur duyuyorum.
 str_comment_we_fought_in_major_battle_unfriendly_spiteful|Sanıyorum {s51} zaferimizin hatırasına kadeh kaldırmak istiyorsun. Şarabını boşuna harcama derim ben. Geçmişte yaptığın utanç verici şeylerin lekesini silmek için daha fazlasına ihtiyacın var.
 str_comment_we_fought_in_major_battle_unfriendly|{s51} önlerinde nasıl da beraberce savaştığımızı unutmayacağım ancak aramızdaki diğer sorunları da unutmayacağım.
 str_comment_we_fought_in_major_battle_cruel|{s51} yakınındaki o savaşı unutmayacağım, düşman hatlarını yardığımızda çığlıklarla kaçtıkları savaşı. Pek tatlı bir hatıraydı.
